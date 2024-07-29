@@ -6,9 +6,10 @@
     <img src="img/verbalized_rebus.png" alt="An example of a verbalized rebus" width="300"/>
     <img src="img/llm_generations.png" alt="Example generations from LLMs" width="300"/>
 </p>
+
 > **Abstract:** Rebuses are puzzles requiring constrained multi-step reasoning to identify a hidden phrase from a set of images and letters. In this work, we introduce a large collection of verbalized rebuses for the Italian language and use it to assess the rebus-solving capabilities of state-of-the-art large language models. While general-purpose systems such as LLaMA-3 and GPT-4o perform poorly on this task, ad-hoc fine-tuning seems to improve models' performance. However, we find that performance gains from training are largely motivated by memorization. Our results suggest that rebus solving remains a challenging test bed to evaluate large language models' linguistic proficiency and sequential instruction-following skills.
 
-This repository contains scripts and notebooks associated to the paper ["Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses"](TBD). If you use any of the following contents for your work, we kindly ask you to cite our paper:
+This repository contains scripts and notebooks associated with the paper ["Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses"](TBD). If you use any of the following contents for your work, we kindly ask you to cite our paper:
 
 ```bibtex
 TBD
@@ -41,7 +42,17 @@ chmod +x setup_environment.sh
 
 ### Data preprocessing
 
-TBD
+Run the following command to produce all data contained in the `eureka-rebus` folder from the `rebus.csv` file:
+
+```shell
+python scripts/process_data.py \
+  --print_stats \
+  --infer_punctuation \
+  --generate_filtered_rebuses \
+  --create_train_test_sets \
+  --save_word_frequencies_train \
+  --save_sharegpt_files
+```
 
 ### Fine-tuning LLMs on EurekaRebus
 

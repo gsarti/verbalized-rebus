@@ -1,0 +1,3 @@
+[submodule "eureka-rebus"]
+	path = eureka-rebus
+	url = https://huggingface.co/datasets/gsarti/eureka-rebus
