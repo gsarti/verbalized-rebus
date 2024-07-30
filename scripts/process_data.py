@@ -171,7 +171,7 @@ def create_test_sets(df, min_freq_word, max_freq_word, num_examples, save_ood_wo
 
     if save_ood_words_path is not None:
         with open(save_ood_words_path, 'w') as f:
-            for word in ood_words:
+            for word in sorted(ood_words):
                 f.write(word + "\n")
         print(f"Out-of-domain words saved to {save_ood_words_path}.")
 
@@ -378,13 +378,17 @@ def process_rebus_data(args: argparse.Namespace):
             word_counts_fp = Counter(word_list_fp)
             word_counts_fp_df = pd.DataFrame(word_counts_fp.items(), columns=['Word', 'Count'])
             word_counts_fp_df = word_counts_fp_df.sort_values(by='Count', ascending=False).reset_index(drop=True)
-            word_counts_fp_df.to_csv(args.word_frequencies_first_pass_output_path, index=False)
+            word_counts_fp_dic = word_counts_fp_df.set_index(word_counts_fp_df.columns[0])[word_counts_fp_df.columns[1]].to_dict()
+            with open(args.word_frequencies_first_pass_output_path, 'w') as f:
+                json.dump(word_counts_fp_dic, f)
             
             word_list_solution = [w for x in train_df['FRASE_SEPARATED'] for w in x.split() if w not in string.punctuation]
             word_counts_solution = Counter(word_list_solution)
             word_counts_solution_df = pd.DataFrame(word_counts_solution.items(), columns=['Word', 'Count'])
             word_counts_solution_df = word_counts_solution_df.sort_values(by='Count', ascending=False).reset_index(drop=True)
-            word_counts_solution_df.to_csv(args.word_frequencies_solution_output_path, index=False)
+            word_counts_solution_dic = word_counts_solution_df.set_index(word_counts_solution_df.columns[0])[word_counts_solution_df.columns[1]].to_dict()
+            with open(args.word_frequencies_solution_output_path, 'w') as f:
+                json.dump(word_counts_solution_dic, f)
             print(f"Word frequencies for train set saved to {args.data_folder}.")
 
         datasets = {
@@ -419,15 +423,15 @@ if __name__ == "__main__":
     parser.add_argument("--print_stats", action="store_true")
     parser.add_argument("--infer_punctuation", action="store_true")
     parser.add_argument("--generate_filtered_rebuses", action="store_true")
-    parser.add_argument("--filtered_rebus_output_path", type=str, default="rebus_cw_filtered.csv")
+    parser.add_argument("--filtered_rebus_output_path", type=str, default="verbalized_rebus.csv")
     parser.add_argument("--create_train_test_sets", action="store_true")
     parser.add_argument("--save_word_frequencies_train", action="store_true")
     parser.add_argument("--num_test_examples", type=int, default=1000)
     parser.add_argument("--ood_min_freq_word", type=int, default=10)
     parser.add_argument("--ood_max_freq_word", type=int, default=15)
     parser.add_argument("--ood_words_output_path", type=str, default="ood_words.txt")
-    parser.add_argument("--word_frequencies_first_pass_output_path", type=str, default="word_frequencies_fp_train.csv")
-    parser.add_argument("--word_frequencies_solution_output_path", type=str, default="word_frequencies_solution_train.csv")
+    parser.add_argument("--word_frequencies_first_pass_output_path", type=str, default="word_frequencies_fp_train.json")
+    parser.add_argument("--word_frequencies_solution_output_path", type=str, default="word_frequencies_solution_train.json")
     parser.add_argument("--save_sharegpt_files", action="store_true")
     args = parser.parse_args()
     process_rebus_data(args)

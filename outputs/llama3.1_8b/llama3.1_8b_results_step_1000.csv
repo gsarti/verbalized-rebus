@@ -1,0 +1,2001 @@
+,idx,word_guesses,first_pass,solution_words,solution
+0,0,araba;ile;ape;fari,AND araba S ile ape R A F fari,Andar;a;basilea;per;affari,Andar a basilea per affari
+1,1,re;sode;testa,re CLU sode testa TO,Recluso;detestato,Recluso detestato
+2,2,fa;sci;moro;sta,fa sci S moro N DI sta,Fascismo;rondista,Fascismo rondista
+3,3,Oman;dardi;enti,D Oman dardi P AR enti,Domandar;di;parenti,Domandar di parenti
+4,4,arto;dita,SC arto dita R A,Scarto;di;tara,Scarto di tara
+5,5,chiesa;fate;canto;eco;in;para,chiesa VIO fate SO R canto LL eco in M para TE,Chi;è;savio;fa;tesoro;canto;leco;imparate,Chi è savio fa tesoro canto leco imparate
+6,6,colt;ibis;ami;arsi,PE colt S ibis O GN ami GL IO R arsi,Pec;oltsibiso;gnamigi;migliorarsi,Pec oltsibiso gnamigi migliorarsi
+7,7,van;da;dama;giare;alte;ami,V I van da dama N giare alte G ami N O,Vivanda;da;mangiare;al;tegamino,Vivanda da mangiare al tegamino
+8,8,rive;Itaca,rive ND Itaca RA,Riveditac;Cara,Riveditac Cara
+9,9,onda;redi;orsi,SFR onda redi S C orsi,Sfondare;discorsi,Sfondare discorsi
+10,10,la;ceste;lato,la N I ceste L lato,L;anice;stellato,L'anice stellato
+11,11,con;ratto;ila;oro,con T ratto D ila V oro,Contratto;di;lavoro,Contratto di lavoro
+12,12,pedale;di;serva,OS pedale di RI serva,Ospedale;di;Riserva,Ospedale di Riserva
+13,13,ore;Roma;ile,T ore Roma DR ile N O,Torero;madrileno,Torero madrileno
+14,14,olio;rischio,V olio rischio MBI,Volorio;sch;i;combi,Volorio sch i combi
+15,15,uncini;ciechi,C uncini ciechi C,Cuncini;ciechi,Cuncini ciechi
+16,16,stie;conte,GE stie conte TI,Gesti;economici,Gesti economici
+17,17,arco;Ra;di,arco Ra di,Arcoradi;cinesi,Arcoradi cinesi
+18,18,chef;lacci,BOC chef lacci DE,Bocche;flaccide,Bocche flaccide
+19,19,odi;avi;ori,PR odi avi A T ori,Prodi;aviatori,Prodi aviatori
+20,20,re;re;re;bus;Cile,C re A re UN re bus F A Cile,Creare;un;rebus;facile,Creare un rebus facile
+21,21,ante;edili;tino,V ante R I edili BER tino,Vantieri;ed;libertino,Vantieri ed libertino
+22,22,Po;Po;reattore;orsi,IL Po Po LA reattore AC C orsi,Il;popolare;attore;accorsi,Il popolare attore accorsi
+23,23,inno;divi;oli,inno NT E divi oli N O,Innocente;di;violino,Innocente di violino
+24,24,carceri;palla,CA carceri palla I,Cacc;a;riceri,Cacc a riceri
+25,25,elmo;odi;di;re,B elmo D odi di re,Bel;modo;di;dire,Bel modo di dire
+26,26,Rodi;negri,BO Rodi negri EG,Borodin;e;Grieeg,Borodin e Grieeg
+27,27,agli;ode;ora;ile,S B agli ode P L ora B ile,Sbaglio;deplorabile,Sbaglio deplorabile
+28,28,agitata;peri;asso,G agitata peri N C asso,Gagita;per;incasso,Gagita per incasso
+29,29,lime;orologi,A BI lime T E orologi,Abili;meteorologi,Abili meteorologi
+30,30,raggi;un;Ermete,raggi un G Ermete,Raggiunger;mete,Raggiunger mete
+31,31,anche;sette;dita;mina,"BI, anche CA, sette dita OR mina",Bianche;casette;di;Taormina,Bianche casette di Taormina
+32,32,divo;redo;etti,divo R A redo L C etti,Divorare;dolcetti,Divorare dolcetti
+33,33,vita;esca;ali,E vita R esca N D ali,Evitare;scandali,Evitare scandali
+34,34,mesti;cane;gente,D O mesti cane G LI gente,Dimestica;negligente,Dimestica negligente
+35,35,storpi;primo,P O storpi primo P,Post;orpier;Pip,Post orpier Pip
+36,36,ebreo;peri,CEL ebreo peri ST A,Celebre;operista,Celebre operista
+37,37,note;lido,note V O lido TI,Notevoli;doti,Notevoli doti
+38,38,gilet;ore;ali;ante,A gilet ore R O D ali C ante,Agile;torero;d;Alicante,Agile torero d'Alicante
+39,39,viti;tori,BRA viti RA tori,Bravi;tiratori,Bravi tiratori
+40,40,torriata;viole,CON torriata viole NTA,Contorri;ataviole,Contorri ataviole
+41,41,di;collare;mani;est,di collare mani F est I,Dicollare;manifesti,Dicollare manifesti
+42,42,in;si;va;per;razione,in CI si va per O razione,Incisiva;perorazione,Incisiva perorazione
+43,43,scia;la;re;sol;Foscolo,scia la re sol Foscolo,Scialare;solfoscolo,Scialare solfoscolo
+44,44,gin;rami,gin OB rami E R I,Gino;Bramieri,Gino Bramieri
+45,45,fra;secondi;versi;ori,fra secondi versi E R R ori,Frase;con;diversi;errori,Frase con diversi errori
+46,46,acini;acca,L acini acca CCA,La;cinica;caccacca,La cinica caccacca
+47,47,ossa;top;fon,F ossa top RO fon DO,Fossato;profondo,Fossato profondo
+48,48,Cam;colt;fez;anelli,Cam PI colt I VA fez V anelli,Campi;coltivati;v;afizzavane,Campi coltivati v afizzavane
+49,49,re;ala;are,MA re ala G U N are,Marea;languina,Marea languina
+50,50,testa;mento;testa;agli;redi,UN testa mento CON testa TO D agli E redi,Un;testamento;contestato;dagli;eredi,Un testamento contestato dagli eredi
+51,51,larve;somari;ontani,VO larve R somari L ontani,Volar;verso;mar;lontani,Volar verso mar lontani
+52,52,amo;sai;nave;nera,F amo sai C O nave nera TA,Famosa;icona;venerata,Famosa icona venerata
+53,53,lenti;grappe;omar;occhio,lenti G grappe O S omar M occhio,Lentiggrappeo;smocchio,Lentiggrappeo smocchio
+54,54,tir;maniche,AR tir O maniche,Arti;romaniche,Arti romaniche
+55,55,cola;anelli;arazzo,S cola R anelli M B arazzo,Scolara;nell;imbarazzo,Scolara nell'imbarazzo
+56,56,re;tea;tram;rapa,re tea tram rapa,ReTe;a;tramrapa,ReTe a tramrapa
+57,57,spettatore;divo,SO spettatore CI divo,Sospettato;recidivo,Sospettato recidivo
+58,58,est;conca;lama,C est I conca lama RI,Cesti;con;calamari,Cesti con calamari
+59,59,prese;arese;reti,prese R V arese G reti,Preservare;segreti,Preservare segreti
+60,60,avo;teca;adipe;are,avo L teca PI T adipe C C are,A;volte;capita;di;peciare,A volte capita di peciare
+61,61,lama;rettile,CA lama rettile SSI,Calamarettili;essi,Calamarettili essi
+62,62,unti;rosse;Io;zio,S P unti P E rosse R Io zio NI,Spunti;per;oseriozionismo,Spunti per oseriozionismo
+63,63,nero;sodo;ore,GE nero sodo N AT ore,Generoso;donatore,Generoso donatore
+64,64,rande;more;sei,G rande A more E sei,Grande;amore;esiste,Grande amore esiste
+65,65,zucche;agrumi,zucche R O agrumi,Zuccherò;a;grumi,Zuccherò a grumi
+66,66,isola;torero;busto,isola torero busto,Isolatore;robusto,Isolatore robusto
+67,67,facce;dadi;riga,facce NDA dadi SB riga RE,Faccenda;da;disbrigare,Faccenda da disbrigare
+68,68,para;erme;telai;oro,para GG erme N telai QU oro SI,Parà;germen tale;acquorosi,Parà germen tale acquorosi
+69,69,nome;tori;colo,U nome T tori DI colo,Un;ometto;ridicolo,Un ometto ridicolo
+70,70,faretra;arco;dardi,faretra P EL arco dardi A,Fare;trapela;riardia,Fare trapela riardia
+71,71,astori;rovo,V astori T rovo,Vasto;ritrovo,Vasto ritrovo
+72,72,Mida;mazzo,AR Mida mazzo NI,Armi;d;amazzoni,Armi d'amazzoni
+73,73,sci;cote;largo,sci O C cote P largo,Sciocco;teppista,Sciocco teppista
+74,74,do;ore;tre;Giano,do T T ore tre VI Giano,Dottore;trevigiano,Dottore trevigiano
+75,75,danno;venti,danno SI E venti,Dannosi;eventi,Dannosi eventi
+76,76,mira;colo;cono;Talia;nodo,I L mira colo E cono MI COI Talia nodo GGI,Il;miracolo;economico;italiano;d;oggi,Il miracolo economico italiano d'oggi
+77,77,ave;rei;dee;ori;gin;ali,ave rei dee ori gin ali,Avere;idee;originali,Avere idee originali
+78,78,api;Doc;mento,R api Doc O M mento,Rapido;commento,Rapido commento
+79,79,musi;tino;dame;lettere,musi C I S tino R dame R I lettere,Musicisti;nordamericani,Musicisti nordamericani
+80,80,pera;colt;ree;orma;navi;ara,SA pera S colt A ree orma IU navi R T U R ara,Saper;ascoltare;è;ormai;una;virtù;rara,Saper ascoltare è ormai una virtù rara
+81,81,osso;Po;ali,CA osso Po ali,Caos;sopopoli,Caos sopopoli
+82,82,Pi;star;do;Ande,Pi star do L Ande SE,Pistard;olandese,Pistard olandese
+83,83,coni;gole,coni O gole E,Conio;go;leee,Conio go leee
+84,84,albatro;va,SCI albatro va TA,Scialba;travata,Scialba travata
+85,85,avola;Asti;Roma;erma,T avola D Asti Roma L F erma,Tavola;da;stira;malferma,Tavola da stira malferma
+86,86,neri;cori;amo,GE neri cori CH I amo,Generico;richiamo,Generico richiamo
+87,87,lacci;con;fusi,UR lacci con fusi,Urlacci;confusi,Urlacci confusi
+88,88,Lui;fa,DE Lui fa,Deluifa;la,Deluifa la
+89,89,pera;rea;Senna;mente,O pera rea S Senna T A mente,Operare;assennatamente,Operare assennatamente
+90,90,tra;letti;in;orsi,tra F I letti in C orsi VO,Trafficetti;in;corsivo,Trafficetti in corsivo
+91,91,sci;odi;la,CU sci N odi la NA,Cuscino;di;lana,Cuscino di lana
+92,92,amo;perle;terni,amo R E perle terni T A,Amore;per;l;eternità,Amore per l'eternità
+93,93,casa;casco;ori,casa C casco L ori T A,Casacca;scolorita,Casacca scolorita
+94,94,rima;eredi;ala,rima N eredi S ala TI,Rimanere;disalati,Rimanere disalati
+95,95,mici;di;lega,mici di A lega RA,Micidiale;gara,Micidiale gara
+96,96,viole;fili;pica,viole N T A fili P pica,Violenta;filippica,Violenta filippica
+97,97,esca;nati;colle;ali,TR esca N ZO nati colle G I ali,Tre;scansionati;collegiali,Tre scansionati collegiali
+98,98,su;rete;ari,su O rete RZI ari E,Suore;terzarie,Suore terzarie
+99,99,vela;sci,DI vela sci V E,Dive;lascive,Dive lascive
+100,100,moro;sazi,A moro sazi A,Amorosa;zia,Amorosa zia
+101,101,moda;fari,UO moda F fari,Uomo;d;affari,Uomo d'affari
+102,102,viole;via;more,U N viole N T O via more,Un;violento;viamore,Un violento viamore
+103,103,asse;are;oli;tea;ali,asse GN are R U oli tea T R ali,Assegnare;ruoli;teatrali,Assegnare ruoli teatrali
+104,104,lancia;oboe,lancia D EL oboe,L;ancia;del;oboe,L'ancia del oboe
+105,105,nonne;Oglio;pere,nonne V Oglio S A pere,Non;ne;voglio;sapere,Non ne voglio sapere
+106,106,navi;Sion;topi,U navi Sion EU topi CA,Una;visione;utopica,Una visione utopica
+107,107,astori;adipi;occhio;collo,L astori adipi N occhio DI collo DI,La;storia;di;Pinocchio;di;Collodi,"La storia di Pinocchio, di Collodi"
+108,108,rea;rea;rose;tram,C rea rea M O rose tram E,Creare;amorose;trame,Creare amorose trame
+109,109,orse;orse;nate,C orse F orse N nate,Corse;forsennate,Corse forsennate
+110,110,strade;erta,MO strade S erta,Mostra;deserta,Mostra deserta
+111,111,orso;alce;roditori,C orso alce NT roditori NO,Corso;al;centro;di;Torino,Corso al centro di Torino
+112,112,in;uose;santi;volte,in N E uose santi R I volte,Inneuose;santiri;volte,Inneuose santiri volte
+113,113,sedia;ori;remo,sedia M ori A V remo,Se;diamo;rimavremo,Se diamo rimavremo
+114,114,mela;agente;Lai;tea;zio,TE mela ST agente L Lai ES tea zio NI,Teme;l;astaga;nelle;st;estatezio;nazioni,Teme l'astaga nelle st estatezio nazioni
+115,115,verde;risma,A verde LCA risma,Aver;del;carisma,Aver del carisma
+116,116,lauda;rei;pia,COL lauda rei M pia NTI,Colaudare;impianti,Colaudare impianti
+117,117,Colombia;osti,Colombia RR osti T I,Colombo;rrostiti,Colombo rrostiti
+118,118,est;Iran;rosi,G est Iran C O rosi,Gesti;rancorosi,Gesti rancorosi
+119,119,aroma;ave;Diana,NOT aroma N Z ave R Diana,Nota;romanza;verdiana,Nota romanza verdiana
+120,120,lame;tre;Giano,SA lame tre V I Giano,Salame;trevigiano,Salame trevigiano
+121,121,con;fez;nidi;astice,con fez IO nidi P astice RTA,Confezione;di;pasta;certa,Confezione di pasta certa
+122,122,gol;uno,gol RT uno SO,Gol;rtonoso,Gol rtonoso
+123,123,porta;mento;re;re;ile,COM porta mento IR re P re NS IB ile,Comportamento;irreprimibile,Comportamento irreprimibile
+124,124,ossi;denti;gale,P ossi denti SI N gale SI,Possidenti;singalesi,Possidenti singalesi
+125,125,do;Cipro;tino;ali,do L Cipro DO T tino S TR ali,Dolci;prodotti;nostrali,Dolci prodotti nostrali
+126,126,fa;odi;vasi,fa LL odi N vasi ON E,Fallo;d;invasione,Fallo d'invasione
+127,127,su;tir;armi,su DA tir ISP armi,Sudati;risparmi,Sudati risparmi
+128,128,tris;mento;disco;orto,tris TE MO mento disco N F orto,Triste;momento;di;sconforto,Triste momento di sconforto
+129,129,dono;stia;tacchi,U dono stia T tacchi NI,Udono;stiata;cacciatori,"Udono, stiata cacciatori"
+130,130,arco;mesi;est,F arco mesi DES ID est,Far;come;si;disidest,Far come si disidest
+131,131,pere;gin,A pere gin A,Ape;regina,Ape regina
+132,132,ora;lista,M ora lista TI,Moralisti;lati,Moralisti lati
+133,133,bar;azza;tesi;azione,I M bar azza N tesi T U azione,Imbarazzante;situazione,Imbarazzante situazione
+134,134,Sila;tino;zie,E Sila RAN tino TI zie,Esilaranti;notizie,Esilaranti notizie
+135,135,si;re;sol;fa;si,IN si NUA re sol O fa L si TA,Insiaruare;solo;falsità,Insiaruare solo falsità
+136,136,mano;tede;sta,CAL mano T tede sta TE,Calma;notte;d;estate,Calma notte d'estate
+137,137,nere;dita;ante,U nere dita P E S ante,Un;eredità;pesante,Un'eredità pesante
+138,138,diario;nera;Giano,diario E nera DI FA Giano,Diari;oenera;di;Faiano,Diari oenera di Faiano
+139,139,gole;mi;ari;ree,R E gole mi L I T ari F ER ree,Regole;militari;ferree,Regole militari ferree
+140,140,nido;per,BRA nido per A,Brani;d;opera,Brani d'opera
+141,141,dama;tellina,LIN dama N tellina,Linda;mantellina,Linda mantellina
+142,142,bus;odi;manti,A bus odi C A L manti,Abuso;di;calmanti,Abuso di calmanti
+143,143,star;ali;vetta;nate,GU star E ali vetta R I nate,Gustare;alivi;ettarinate,Gustare alivi ettarinate
+144,144,auto;dei;api;ale,L auto R E dei L C api T ale,L;autore;de;il;capitale,L'autore de il capitale
+145,145,va;ore;sta,va L I D ore GI sta,Valido;regista,Valido regista
+146,146,ari;ami;are,M ari N ami LIT are,Marina;militare,Marina militare
+147,147,Atena,coll'Era SC Atena TA,Collera;scatenata,Collera scatenata
+148,148,bar;inno;man;di,S bar CO inno R man di A,Sbarco;in;Normandia,Sbarco in Normandia
+149,149,Eva;Erie;anno;ali;rea;loschi;etti,L Eva NT Erie F anno S ali rea G AL loschi F etti,Le;vanterie;fanno;salire;a;gallo;s;chicchi,Le vanterie fanno salire a gallo s chicchi
+150,150,posta;dita,PRO posta A R dita,Proposta;ardita,Proposta ardita
+151,151,tra;odorose;di;menta,S tra T odorose di menta RIO,Strato;d;oro;sedimentario,Strato d'oro sedimentario
+152,152,Levi;magra,Levi RU magra RI,Levir;umagri,Levir umagri
+153,153,trattore;lare,trattore G O lare,Tratto;regolare,Tratto regolare
+154,154,lama;nodo;pera;costa,lama nodo pera costa,La;manodopera;costa,La manodopera costa
+155,155,stadio;lisca,TE stadio DA lisca,Testa;di;odisca,Testa di odisca
+156,156,anca;nera,C anca nera SPA,Cancan;e;rapsa,Cancan e rapsa
+157,157,Po;soma;tino,RI Po soma T TU tino,Riposo;mattutino,Riposo mattutino
+158,158,,,,Viande salmì N T E
+159,159,Ande;si;ali,B Ande CRI si N ali,Bande;criminali,Bande criminali
+160,160,la;tomo;mori,VE la tomo R mori O,VelaTo;mororio,VelaTo mororio
+161,161,reo;redi;ora,T reo redi S V ora,Tre;ore;di;svora,Tre ore di svora
+162,162,arti;stiva;lenti,arti stiva lenti,Artisti;valenti,Artisti valenti
+163,163,avi;are;gola,U N avi T are gola TA,Una;vita;regolata,Una vita regolata
+164,164,armo;sette,F armo S sette,Far;mossaette,Far mossaette
+165,165,re;eco;nari,A re eco L L I nari,Aree;collinari,Aree collinari
+166,166,caverne;Adamo;are,caverne R Adamo N T are,Caverner;ad;Amontare,Caverner ad Amontare
+167,167,ali;doge;Era,V ali doge N Era LE,Valido;generale,Valido generale
+168,168,osti;epe;rei,S osti EN epe rei RA,Sostiene;peperiera,Sostiene peperiera
+169,169,re;adipe;pero,C re M adipe pero NI,Crema;di;peperoni,Crema di peperoni
+170,170,arti;cigno;micio,arti G I cigno micio SI,Artigicigno;micidiosi,Artigicigno micidiosi
+171,171,sola;lini,AS sola T ICA lini,Asolatic;alini,Asolatic alini
+172,172,Po;ode;dente,Po P OL ode CA dente,Popolo;decadente,Popolo decadente
+173,173,su;Diogene;roso;Ra;topo;ora;mente,su S SI Diogene roso Ra topo M ora mente,Sussidio;generoso;rato;moralmente,Sussidio generoso rato moralmente
+174,174,fa;tic;mento;scolare,AF fa tic A mento MU scolare,Affaticamento;muscolare,Affaticamento muscolare
+175,175,vela;remo;stia,RI vela remo D E stia,Rivelare;modestia,Rivelare modestia
+176,176,verone;retto,PO verone G retto,Povero;negretto,Povero negretto
+177,177,,,,Sia risoluti
+178,178,coda;grosso,PAC coda grosso TTI,Pacco;d;agroso,Pacco d'agroso
+179,179,mine;tele;messo,E mine N tele GIS messo,Minente;legismesso,Minente legismesso
+180,180,cetre;ante,DO L cetre MO L ante,Dolce;tremolante,Dolce tremolante
+181,181,Capri;odi;ode;mento,DI Capri odi V ode L MO mento,Di;caprio;Dio;del;momento,Di caprio Dio del momento
+182,182,con;pera;cono;ore;lesa,con pera R E cono N ore lesa ME,Conperar;eco;nono;r;elese,Conperar eco nono r'elese
+183,183,ottico;menti,D ottico M menti,Dotti;commenti,Dotti commenti
+184,184,cava;Lanza,cava L Lanza TI,Cavallo;nazi,Cavallo nazi
+185,185,tre;mantidi,tre mantidi R A,Tremanti;d;ira,Tremanti d'ira
+186,186,Ares;tra;dei;Ate,F Ares tra dei S O L Ate,Fare;strade;isolate,Fare strade isolate
+187,187,ramo;amo;azza,G ramo LE amo L azza,Gramole;a;molazza,Gramole a molazza
+188,188,avi;ori;erta,L avi TT ori AC erta,La;vittoria;certa,La vittoria certa
+189,189,in;ossi;zio;ali;menta,in T ossi C A zio N E menta RE,Intossicazione;mentare,Intossicazione mentare
+190,190,avo;ripa;lame;ari,L avo ripa R lame N T ari,Lavori;parlamenteri,Lavori parlamenteri
+191,191,usci;are;oli,S G usci are F A G I oli,Sgusciare;fagiolli,Sgusciare fagiolli
+192,192,pini;corda;ali;Marte,PI pini corda RE L ali E.t. A Marte NTU,Pipin;incorerà;la;lieva;martentù,Pipin incorerà la lieva martentù
+193,193,iene;rima;oche;mais;pera,V iene P rima CI oche mais I S pera,Viene;prima;ciò;che;mai;si;spera,Viene prima ciò che mai si spera
+194,194,porta;tela;oratori;scie;fico,IM porta N tela B oratori O scie NTI fico,Importante;laboratorio;scientifico,Importante laboratorio scientifico
+195,195,polo;scope;nato,TI polo scope D I nato,Tipo;losco;pedinato,Tipo losco pedinato
+196,196,van;da;tisci,BE van da tisci NTE,Bevanda;tiscente,Bevanda tiscente
+197,197,colle;gru,colle G gru C A,Collegi;gruccia,Collegi gruccia
+198,198,Era;teca;ascia;esche,S Era teca R N ascia L esche,Serate;carnascialesche,Serate carnascialesche
+199,199,estive;di,T estive di CI,Testi;vedici,Testi vedici
+200,200,porta;mento;ava;ante,COM porta mento ST R ava G ante,Comportamento;stravagante,Comportamento stravagante
+201,201,tra;avi;su,tra UM avi S su TO,Trauma;visusto,Trauma visusto
+202,202,averla;ape;verso,averla LUN ape RT RA verso,Aver;la;luna;per;traverso,Aver la luna per traverso
+203,203,mi;reo;oste,mi S U reo PP oste,Misure;opposte,Misure opposte
+204,204,un;gas;elle;la,L un gas elle la BA,Lunga;sella,Lunga sella
+205,205,gomito;lobi;coda;amo,UN gomito lobi A N coda RI C amo,Un;gomitolo;bianco;da;ricamo,Un gomitolo bianco da ricamo
+206,206,arse;nidi;tesa,F arse G nidi N tesa,Far;segni;d;intesa,Far segni d'intesa
+207,207,indici;idolo,indici BI L idolo RI,Indicibili;dolori,Indicibili dolori
+208,208,arsa;tori,G arsa tori E,Gars;atoriera,Gars atoriera
+209,209,orse;giare;unta;ari,S orse G giare unta M ari N DO,Sorseggiare;un;tamarindo,Sorseggiare un tamarindo
+210,210,vere;arti;cola;risma,A vere UNP arti cola R E CA risma,Avere;un;particolare;carisma,Avere un particolare carisma
+211,211,onde;re;luccio,F onde re PO luccio LLO,Fondere;repò;luccio,Fondere repò luccio
+212,212,in;posti;tposti,in D IS posti PO tposti,Indisposti;posti,Indisposti posti
+213,213,re;di;re;sci;re,P re di re sci A GU re,Predire;scagure,Predire scagure
+214,214,ratti;veri;mine,ATT ratti veri mine SI,Attrattiveri;minesiani,Attrattiveri minesiani
+215,215,ossa;ali;achei;ombra,G R ossa V ali G I achei NG ombra,Grossa;valigia;che;ingombrà,Grossa valigia che ingombrà
+216,216,oca;dadi;orme;est,L oca N dadi F orme NT est,Locanda;di;formestest,Locanda di formestest
+217,217,verme;ori;ala;osa,A verme M ori ala C UN osa,Aver;memoria;lacunosa,Aver memoria lacunosa
+218,218,rema;rete;esche,T rema G rete D esche,Tre;magre;tedesche,Tre magre tedesche
+219,219,arca;via;fari,F arca TTI via F fari,Far;cattivi;affari,Far cattivi affari
+220,220,est;colli;nei;ore,est E SE colli nei NF I ore,Estese;colline;in;fiore,Estese colline in fiore
+221,221,menti;nono,S E menti nono GM,Segment;in;OGM,Segment in OGM
+222,222,est;Ares;orso,PR est Ares O CC orso,Prestare;successo,Prestare successo
+223,223,re;mitico;le,F re mitico L le,Fremiti;collective,Fremiti collective
+224,224,grattacioli;oca,grattacioli D oca LDO,Gratta;ciolo,Gratta ciolo
+225,225,avo;Ares;ventagli;netti,L avo R Ares P A ventagli netti,Lavorare;spaventà;gli;netti,Lavorare spaventà gli netti
+226,226,dive;severi,dive R severi TA,Diversi;verità,Diversi verità
+227,227,rovo;are;lira;lama;re,P rovo C are lira DE L lama D re,Provocare;l;ira;della;madre,Provocare l'ira della madre
+228,228,Pellico;tesi,AP Pellico R tesi,Appelli;cortesi,Appelli cortesi
+229,229,asse;arco;sega;est,asse ST arco L sega T est A,Assestar;colse;gate;stata,Assestar colse gate stata
+230,230,pia;ode;oche,pia TT ode LL oche F,Piatto;dello;chef,Piatto dello chef
+231,231,Fori;madida;nome,A Fori S madida N nome,Aforisma;di;D;Antonio,Aforisma di D'Antonio
+232,232,ance;sposa,AV ance sposa TE,Avances;sposate,Avances sposate
+233,233,unte;terra,unte S terra TO,Un;test;eretto,Un test eretto
+234,234,ramo;ode;Ate,T ramo NT ode ST Ate,Tramonto;d;estate,Tramonto d'estate
+235,235,ori;in;ari;oltre;tic,ori G in I ari S T oltre tic HE,Original;aristocratiche,Original aristocratiche
+236,236,arti;tasca;madri;cala,P arti T tasca L madri cala L,Partita;scala;madrig;alalà,Partita scala madrig-alalà
+237,237,api;dei;tori,L api dei S tori A TA,Lapide;istoriata,Lapide istoriata
+238,238,osti;mento;tendine,U N osti RA mento tendine O,Uno;stiramento;tendineo,Uno stiramento tendineo
+239,239,ora;dimissioni,DIM ora dimissioni,Dimora;di;missioni,Dimora di missioni
+240,240,fa;rosa;remo,fa R rosa LT remo SSE,Far;rosaltre;mosse,Far rosaltre mosse
+241,241,asso;zio;peri;fermi;menta,asso LU zio NE peri N fermi TA menta LE,Assoluzione;per;infranti;talentale,Assoluzione per infranti talentale
+242,242,nano;Tiziano;radi,U nano Tiziano NG radi TA,Una;notizia;non;gradita,Una notizia non gradita
+243,243,lenti;remi,BAL lenti remi L LE,Ballenti;r;emi;dalle,Ballenti r emi dalle
+244,244,noce;nodo;Ra,U noce A nodo Ra TO,Un;oceano;dorato,Un oceano dorato
+245,245,ramarri;oste,DI ramarri SP oste,Dirmarr;isposte,Dirmarr isposte
+246,246,ricetta;colo;divi;pere,ricetta colo divi pere,Ricettacolo;di;vipere,Ricettacolo di vipere
+247,247,scia;nato,scia F FI nato,Sci;affinato,Sci affinato
+248,248,api;rami;ali;menta,L api rami D E ali menta RE,La;piramide;alimentare,La piramide alimentare
+249,249,oche;pia;pia,CI oche pia CE pia CE,Ciò;che;piace;piace,Ciò che piace piace
+250,250,circo;obi;Che,CU circo CR obi OTI Che,Cucirco;crobiotiche,Cucirco crobiotiche
+251,251,rema;occhi,rema R occhi N O,Re;marocchino,Re marocchino
+252,252,Eolo;Giano,MUS Eolo DI Giano,Museo;lodigiano,Museo lodigiano
+253,253,ambi;asso;nato,B ambi NO asso N nato,Bambino;addormentato,Bambino addormentato
+254,254,lima;lati,PE lima C U lati,Peli;maculati,Peli maculati
+255,255,Bambi;viso;ave,Bambi viso ave,Bambivi;soave,Bambivi soave
+256,256,accetta;nasse;gnomo;asso,accetta R U nasse gnomo LT OB asso,Accettar;un;assenso;molto;basso,Accettar un assenso molto basso
+257,257,Ares;Qua;sito,F Ares Qua sito,Fare;squisito,Fare squisito
+258,258,dosso;lava,TRA dosso L lava LLE,Tradosso;nella;valle,Tradosso nella valle
+259,259,navi;peri;colo,U navi T A peri colo SA,Una;vita;pericolosa,Una vita pericolosa
+260,260,tese;zucche,tese NZA zucche RO,Te;Senza;zucchero,Te Senza zucchero
+261,261,fa;la;re;si,fa R E la C re si MA,Fare;la;cresima,Fare la cresima
+262,262,assi;avi;lama;la,APP assi T avi O lama MMO la,Appassita;viola;mammola,Appassita viola mammola
+263,263,non;via;Prodi;Era,U non via Prodi Era,Un;oni;viaprodi,Un'oni viaprodi
+264,264,vite;mi;ali,CA vite R mi N ali,Cavi;terminali,Cavi terminali
+265,265,fa;comaschi,fa L comaschi O,Falco;maschio,Falco maschio
+266,266,piccione;ape;ante,piccione C CI ape S ante,Piccione;ceciapés,Piccione ceciapés
+267,267,vere;pera;are,V I vere pera M are,Vivere;per;amare,Vivere per amare
+268,268,fa;bilia;coni,AF fa bilia M I coni,Affabili;amiconi,Affabili amiconi
+269,269,pie;are;astro;dotto,pie G are L astro NI dotto NE,Piegare;lastra;n;idone,Piegare lastra n'idone
+270,270,di;mora;rea;tea,di mora rea DAM AN tea,Dimorare;ad;Amantea,Dimorare ad Amantea
+271,271,gilet;rotto,A gilet IG rotto,Agile;tigrotto,Agile tigrotto
+272,272,bilie;ducato,A bilie ducato RI,Abili;educatori,Abili educatori
+273,273,piedi;mani;tini,C O piedi mani F E S tini,Copie;di;manifestini,Copie di manifestini
+274,274,inca;cola;leva;ore,inca L cola B I leva L ore,Incalcolabile;valore,Incalcolabile valore
+275,275,osso;tacchi,GR osso tacchi N O,Grosso;tacchino,Grosso tacchino
+276,276,turati;tana,AL turati BE tana,Altura;tibetana,Altura tibetana
+277,277,mina;epa;rose,mina C C epa U rose,Minacce;paurose,Minacce paurose
+278,278,leva;neri;usci,leva SIO neri usci T A,L;evasione;riuscita,L'evasione riuscita
+279,279,con;arpe;re,con T arpe CO re,Contar;pecore,Contar pecore
+280,280,lama;Tina;adipe;oste,lama T Tina T adipe NT EC oste,La;matitina;di;pentecoste,La matitina di pentecoste
+281,281,colle;redi;versi;unti;oro,colle G A redi versi P unti TR AL oro,Collegare;diversi;punti;tra;loro,Collegare diversi punti tra loro
+282,282,diva;tir;rum;oro;mente,diva N U tir E rum oro S A mente,Divanutire;rumorosamente,Divanutire rumorosamente
+283,283,fa;lira;azze,AF fa BI lira G azze,Affabili;ragazze,Affabili ragazze
+284,284,porta;geco;ossa,RE porta geco L ossa L E,Reportage;colossale,Reportage colossale
+285,285,si;lira;azze,E si lira G azze TTE,Esili;ragazze,Esili ragazze
+286,286,Pi;ramo;isbe,Pi ramo ET isbe,Piramo;e;Tisbe,Piramo e Tisbe
+287,287,corda;remo;ioni;more,RI corda remo Z ioni D A more,Recorda;remozioni;d;amore,Recorda remozioni d'amore
+288,288,coli;colo;ali,VI N coli colo N I ali,Vincoli;coloniali,Vincoli coloniali
+289,289,barbiere;aia,barbiere G aia TA,Barbie;regaiata,Barbie regaiata
+290,290,anta;epa;ami;amo;rema,C anta R epa R L ami D amo rema RIU,Cantare;Parlamid;a;more;maria,"Cantare ""Parlamid a'more maria"""
+291,291,Oglio;pere,L Oglio pere NNE,Loglio;perenne,Loglio perenne
+292,292,su;lenti;mani;etti,su C C U lenti mani C A R etti,Succulenti;manicaretti,Succulenti manicaretti
+293,293,topi;amo;est,U topi amo D est A,Utopia;modesta,Utopia modesta
+294,294,ante;la;rema;china,SM ante L la rema C china RI,Smantellare;macchinari,Smantellare macchinari
+295,295,ree;redi;ari,TA ree redi T ari E,Tare;ereditarie,Tare ereditarie
+296,296,cola;redo;est,F O cola redo M est ICO,Focolare;domestico,Focolare domestico
+297,297,anca;ori;petto,M anca T ori S petto,Mancato;rispetto,Mancato rispetto
+298,298,prodi;dea,F I prodi dea LE,Fipro;diadale,Fipro diadale
+299,299,porta;redi;in,ES porta TO redi V in I,Esportatore;di;vini,Esportatore di vini
+300,300,visi;gradi,visi T E gradi T E,Visite;graduate,Visite graduate
+301,301,in;chiostro;copia;ti,in chiostro copia ti VO,Inchiostro;copiativo,Inchiostro copiativo
+302,302,giara;para,MAN giara S para GI,Mangiar;asparagi,Mangiar asparagi
+303,303,oli;chef;lime;ari,P oli TI chef AL lime N T ari,Politiche;fallimentari,Politiche fallimentari
+304,304,remo;oca;ore,DA remo LT oca L ore,Dare;molto;calore,Dare molto calore
+305,305,facce;destra;pala,facce N destra M pala TE,Faccende;strampalate,Faccende strampalate
+306,306,sedia;via,CA sedia via NO,Case;di;Aviano,Case di Aviano
+307,307,agente;est;orme;rena,L agente ON est A D orme SE rena,La;gente;onesta;dorme;serena,La gente onesta dorme serena
+308,308,madia;ava,PIU madia LZ ava,Piuma;di;alzavamo,Piuma di alzavamo
+309,309,porta;re;erica,porta E re IAM erica NA,Portaerei;americana,Portaerei americana
+310,310,re;adipe;Scevola,re S T adipe Scevola NTE,Resta;di;pese;volante,Resta di pese volante
+311,311,tende;ora,tende A FI ora MI,Tende;a;fiorami,Tende a fiorami
+312,312,serpe;osa,ES serpe NS osa,Esser;pensosa,Esser pensosa
+313,313,cani;lama;Tina,cani C O lama T TU Tina,Canicola;mattutina,Canicola mattutina
+314,314,redi;lega;ante,C redi BI lega R ante,Creditile;garante,Creditile garante
+315,315,mina;rei;ara,DO mina rei N G ara,Dominare;in;gara,Dominare in gara
+316,316,ambi;nodi;laccio,B ambi nodi S C O laccio,Bambino;discolaccio,Bambino discolaccio
+317,317,avidi;oche;remo,SC avidi P oche remo TE,Scavi;d;ipoche;remote,Scavi d'ipoche remote
+318,318,mostra;alato,UO mostra MP alato,Uomo;strampalato,Uomo strampalato
+319,319,Graz;topo;mento,S Graz IA topo RTA mento,Sgraziato;portamento,Sgraziato portamento
+320,320,zia;strade;lama;china,B A zia strade L lama C china,Baziatra;della;Macchina,Baziatra della Macchina
+321,321,lama;mare;ali;morsa;ore,AL lama M mare G ali A morsa M ore,Alla;mamma;regaliamo;s;amore,Alla mamma regaliamo s'amore
+322,322,con;edere;favo,con C edere favo RI,Concedere;favori,Concedere favori
+323,323,scola;rei;Asti,M E scola rei M P Asti,Mescolare;impasti,Mescolare impasti
+324,324,conti;dive,RA C conti dive RN E,Racconti;di;Verne,Racconti di Verne
+325,325,raggi;gerla;arti,raggi UN gerla NT arti DE,Raggiunger;l;antartide,Raggiunger l'antartide
+326,326,don;denti;lama;nodi;ara;azza,don N denti A L lama nodi U N ara G azza,Dondentiali;lama;nodi;un;ara;gazzara,Dondentiali lama nodi un ara gazzara
+327,327,arti;amo;tori;est,arti S T amo L tori CH I est O,Artista;molto;richiesto,Artista molto richiesto
+328,328,rade;conti,S T rade conti GU E,Strade;contigue,Strade contigue
+329,329,stadi;cori;oli,B U stadi cori A N D oli,Busta;di;coriandoli,Busta di coriandoli
+330,330,corda;Eneide;agli,RI corda R Eneide TT agli,Ricordare;nei;dettagli,Ricordare nei dettagli
+331,331,osti;est;ava;ante,UN osti L est R ava G ante,Uno;stile;stravagante,Uno stile stravagante
+332,332,moro;oca;rose,RU moro S oca rose L L O,Rumoroso;carosello,Rumoroso carosello
+333,333,nari;orsa;onda;menta,U nari S orsa F onda menta LE,Una;risorsa;fondamentale,Una risorsa fondamentale
+334,334,mici;ali,C A mici ali S A,Camicia;lisa,Camicia lisa
+335,335,odi;dive;re,M odi dive ST I re,Modi;di;vestire,Modi di vestire
+336,336,re;omino;re;re,re S I omino re MO re,Resimino;moremo,Resimino moremo
+337,337,olle;remo;stie,T olle RA remo L E stie,Tollerare;molestie,Tollerare molestie
+338,338,sedia;tomo;lista,COR sedia U tomo BI lista,Corse;di;automobilista,Corse di automobilista
+339,339,re;moro;manti,E re moro manti C O,Eremo;romantico,Eremo romantico
+340,340,unti;pope;colo,unti pope R I colo SO,Un;tipo;pericoloso,Un tipo pericoloso
+341,341,via;lima,GIO via lima LLI,Gioviail;amalli,Gioviail amalli
+342,342,nano;nano;nido,U nano MI nano nido NEA,Una;nomina;non;idonea,Una nomina non idonea
+343,343,son;nate;non;nette,A S son nate non nette,Assonnate;nonnette,Assonnate nonnette
+344,344,sola;eco;estetica,I sola eco estetica,Isole;coestetica,Isole coestetica
+345,345,stazioni;nidi;maglio;est,stazioni G nidi ST I maglio N est I,Sta;zioni;di;stima;gli;onesti,Sta zioni di stima gli onesti
+346,346,nave;chiama;re,U nave C chiama D re,Una;vecchia;madre,Una vecchia madre
+347,347,fez;redi;passero,fez redi passero,Fezzre;di;passero,Fezzre di passero
+348,348,ore;amo;ocarina,S ore LL amo LT ocarina,Sorella;molto;carina,Sorella molto carina
+349,349,casa;ossa,BOC casa R ossa,Boccasara;rosa,Boccasara rosa
+350,350,Assisi;ila;rime;oli,Assisi N Z ila C rime V oli,Assisi;nzialcrimevoli,Assisi nzialcrimevoli
+351,351,coni;coni;tino,L A coni coni P O tino,Laconico;nipotino,Laconico nipotino
+352,352,sardi;retti,F IS sardi retti V E,Fissar;direttive,Fissar direttive
+353,353,cori;Gina,F RA cori Gina LE,Franco;Rigigionale,Franco Rigigionale
+354,354,sci;rose;tori,sci OPE rose T tori ALE,Sciopero;settoriale,Sciopero settoriale
+355,355,su;Leda;para,su O Leda RI para RE,Suole;da;riparare,Suole da riparare
+356,356,scodella;ami;ore,BO scodella SI ami N ore,Boscò;dell;Asia;Minore,Boscò dell'Asia Minore
+357,357,ala;oche;rada,ala N oche A B rada,Alano;che;abrada,Alano che abrada
+358,358,gente;ape;ante,AR gente RI ape S ante,Argenteria;pesante,Argenteria pesante
+359,359,ago;mosca;nato,ago NI S mosca TE nato,Agonismo;scatenato,Agonismo scatenato
+360,360,arti;remi;are,Q U arti E remi LI T are,Quartiere;militare,Quartiere militare
+361,361,est;conci;tori,G est I conci LI A tori,Gesti;conciliatori,Gesti conciliatori
+362,362,avi;desco;ferme;oli,D avi desco N ferme G oli A,Davide;sconferme;golia,Davide sconferme golia
+363,363,tre;mori;asso,E S tre mori B asso,Estremo;ribasso,Estremo ribasso
+364,364,divo;zia;iris;osa,divo R zia T iris P osa TI,Divorziate;rispostati,Divorziate rispostati
+365,365,cale;noce;leste,cale noce leste,Calenoce;leste,Calenoce leste
+366,366,frate;libro;etti,I frate L libro N Z etti,I;fratelli;borbonzetti,I fratelli borbonzetti
+367,367,avolo;sai;re,F avolo sai M P re SA,Favolosa;impresa,Favolosa impresa
+368,368,ila;ora;sud,CH ila V ora sud A,Chi;lavora;sudà,Chi lavora sudà
+369,369,ila;Lete;esche,L ila L Lete D esche,Li;nella;tedesche,Li nella tedesche
+370,370,dive;Eros,dive R S E,Diverse;opere,Diverse opere
+371,371,Eros;avi;perla;tese;re,Eros A L avi TA perla GE N tese re NA,È;rosa;la;vita;per;la;gente;serena,È rosa la vita per la gente serena
+372,372,api;cola;Era,U N api C cola C AM Era,Una;piccola;camera,Una piccola camera
+373,373,ovest;Ra;di;ari,PR ovest Ra OR di N ari E,Prove;straordinarie,Prove straordinarie
+374,374,nave;nana,U nave nana IF,Una;vena;nana,Una vena nana
+375,375,somali;zio,R I somali zio SO,Riso;malizioso,Riso malizioso
+376,376,re;epa;Ate,re T T epa G Ate,Rette;pagate,Rette pagate
+377,377,dio;ori;rotto,O dio S ori MB rotto,Odioso;rimbrotto,Odioso rimbrotto
+378,378,oste;ode;lana,L oste RZ ode L lana VE,Lo;sterzo;della;nave,Lo sterzo della nave
+379,379,ari;come,SC ari come RCI,Scarico;merci,Scarico merci
+380,380,olle;Giove;celle,C olle Giove R celle SE,Collegio;vercellese,Collegio vercellese
+381,381,ape;aia;are,S ape R aia MI T are,Saperea;imitare,Saperea imitare
+382,382,ava;api;rade;lame;alati,UN ava ST api ANU rade L lame RIC alati N A,Una;vasta;pianura;dell;America;Latina,Una vasta pianura dell'America Latina
+383,383,cane;tra;in;sala,cane S tra D in sala TA,Canestra;d;insalata,Canestra d'insalata
+384,384,ibis;scolari,ibis RI M U scolari,I;bisri;muscolari,I bisri muscolari
+385,385,ali;nodi;etto,CI C ali nodi F etto SO,Cicalino;difettoso,Cicalino difettoso
+386,386,oca;lista;stria,V oca lista U stria CO,Vocalista;austriaco,Vocalista austriaco
+387,387,cappa;redi;orsa;chino;eco;raggio,S cappa redi C orsa S A chino N eco raggio SO,Scappare;di;corsa;sa;chi;non;è;coraggioso,Scappare di corsa sa chi non è coraggioso
+388,388,strisciante;ori,MAE strisciante T ori,Maestri;scianti,Maestri scianti
+389,389,massi;ore;Po;abile,massi M ore S Po N S abile,Massimo;responsabile,Massimo responsabile
+390,390,scopa;sante,LO scopa S sante,Losco;passante,Losco passante
+391,391,grammi;in;stalla,PRO grammi in stalla TI,Programmi;installati,Programmi installati
+392,392,noli,MA noli TI,Manoli;tizi,Manoli tizi
+393,393,re;nasi;ante,SI re nasi B I L ante,Sirena;sibilante,Sirena sibilante
+394,394,codice;rana;leoni,CAL codice rana PO leoni C O,Calco;di;cerano;poleionario,Calco di cerano poleionario
+395,395,pesci;ante,A pesci A M ante,Ape;sciamante,Ape sciamante
+396,396,are;rei;mina,P are rei L LU mina TO,Parere;illuminato,Parere illuminato
+397,397,lastra;tale,"lastra DA, STA tale",La;strada;statale,La strada statale
+398,398,pale;cetre;mento,pale S cetre NT I mento,Palesce;trentimento,Palesce trentimento
+399,399,Erei;est;aia;Udine,VIV Erei N est RE aia LIT Udine,Vivere;in;estrema;aiutudine,Vivere in estrema aiutudine
+400,400,ambi;naso;petto,B ambi naso S petto SA,Bambina;sospettosa,Bambina sospettosa
+401,401,ala;rea;con;ferita,UN ala U rea con ferita,Una;laurea;conferita,Una laurea conferita
+402,402,Pellico;menu,Pellico LA menu TO,Pellicola;men;unto,Pellicola men unto
+403,403,rema;sola;remi;colo,C rema sola remi RA colo SA,Crema;solare;miracolosa,Crema solare miracolosa
+404,404,antina;dita;tegole,C antina R dita N tegole,Cantin;ar;dite;nego,Cantin ar dite nego
+405,405,are;dio;dio,U S are MO dio dio SI,Usare;modi;odiosi,Usare modi odiosi
+406,406,legge;in;aria,legge OR D in aria,Legge;ordinaria,Legge ordinaria
+407,407,mate;ras;Siam;olle,mate ras Siam olle,Materassi;a;molle,Materassi a molle
+408,408,celle;rei;tema;tic,E C celle rei N MA tema tic A,Eccellere;in;matematica,Eccellere in matematica
+409,409,fari;Lazio;isba;Ate,fari L Lazio N isba G LI Ate,Far;ilarità;sbagliate,Far ilarità sbagliate
+410,410,auto;tellina;osti,auto N tellina S C osti,Autonelline;scostati,Autonelline scostati
+411,411,tra;ala;scia,tra CC I ala scia TA,Traccia;lasciata,Traccia lasciata
+412,412,orto;nei;ami,P orto nei NL ami ERA,Portone;in;lamiera,Portone in lamiera
+413,413,Po;stie;cono;mici,Po stie cono mici,Posti;economici,Posti economici
+414,414,reo;sol,T reo sol E,Tre;oscole,Ti [Ha una frase risolutiva] = reo [La precede in musica] = sol
+415,415,Eva;re;tende;egra;Udine;agli;mini,Eva N OP re tende R egra TI T Udine D agli UO mini,È;vano;pretendere;gratitudine;dagli;uomini,È vano pretendere gratitudine dagli uomini
+416,416,leggio;dita,NO leggio dita XI,Noleggio;di;taxi,Noleggio di taxi
+417,417,posta;posta;avo,PRO posta ES posta avo CE,Proposta;esposta;a;voce,Proposta esposta a voce
+418,418,Agar;acino;la,UN Agar acino F I la,Una;gara;cinofila,Una gara cinofila
+419,419,tre;mori;orso,E S tre mori M orso,Estremo;rimorso,Estremo rimorso
+420,420,vere;di;more,A vere di SA more,Avere;disamore,Avere disamore
+421,421,ode;rea;nido,G ode rea N nido RO,Godere;anni;d;oro,Godere anni d'oro
+422,422,armi;refi;re,F armi S E refi GU re,Far;misere;figure,Far misere figure
+423,423,do;lampone;ali,do L O lampone T I ali,Dolora;monetiali,Dolora monetiali
+424,424,arti;ali;Rodi;rime;si,arti S T ali B E Rodi E SP rime R si,Artista;libero;di;esprimersi,Artista libero di esprimersi
+425,425,Gi;Rodi;Bagnoregio,Gi Rodi M Bagnoregio,Giro;di;Borgo,Giro di Borgo
+426,426,ave;cani;mori;belli,ave RI cani mori belli ON E,Aver;ic;animo;ribellione,Aver ic animo ribellione
+427,427,maglia;ore;do,A maglia ore A do R,Amali;aoreador,Amali aoreador
+428,428,Po;litri;ali,Po P O litri B ali,Popoli;tribali,Popoli tribali
+429,429,velo;anelli;pica,velo CI T anelli P pica,Velocità;nell;ippica,Velocità nell'ippica
+430,430,oboe;letto,PR oboe letto RE,Probo;eletto,Probo eletto
+431,431,navi;oca;sale,U navi T oca sale,Un;avito;casale,Un avito casale
+432,432,,,,Fino ad Antenato le portano gli asini NU
+433,433,re;rosa;su;cera,P re MU rosa su O cera,Premurosa;suocera,Premurosa suocera
+434,434,arpa;chi;legge;re;agli;mici;mese;nodi;etto,D arpa C chi legge re agli A mici C O mese G nodi A F F etto,Dar;pacchi;leggere;agli;amici;come;segno;di;affetto,Dar pacchi leggere agli amici come segno di affetto
+435,435,porta;dito,UN OS porta R dito,Uno;sport;ardito,Uno sport ardito
+436,436,ave;gas;entro;ari,ave RE gas S M entro F F ari,Avere;gassenti;sotto;fari,Avere gassenti sotto fari
+437,437,orche;aerodinamica,orche ST R aerodinamica,Orchestra;erodica,Orchestra erodica
+438,438,porta;testa;vere;tori,IM porta N testa F vere tori A L E,Importante;staff;elettoriale,Importante staff elettoriale
+439,439,metri;anelli,D E metri O PI anelli,Demetrio;piazzelli,Demetrio piazzelli
+440,440,con;orda,CI con L orda,Cicon;lorda,Cicon lorda
+441,441,sala;temi,IN sala temi S TE,Insalate;miste,Insalate miste
+442,442,posate;ale,posate A T R ale,Posa;teatrale,Posa teatrale
+443,443,oste;nero;redi;Rita,S oste nero P E redi CA Rita,Sostener;opera;di;Carita,Sostener opera di Carita
+444,444,assale;oste;ore,assale P oste R I ore,Assale;posteriore,Assale posteriore
+445,445,fori;adipe;nane;denti,E U fori adipe RSO nane M P U denti,Euforia;di;persone;modesti,Euforia di persone modesti
+446,446,dardi;ari;ambi;odi;ari,dardi N ari I N C ambi odi DO L L ari,Dar;dinari;in;cambia;di;dollari,Dar dinari in cambia di dollari
+447,447,mari;lana,mari E L lana VA,Marillana;vana,Marillana vana
+448,448,oca;borgo;ari,V oca B borgo LG ari,Vocabborg;olgari,Vocabborg olgari
+449,449,,,,Santi [Padri di vitelli] = tori [Un po'... d'educazione] = ed
+450,450,tra;seri;mola,tra seri mola NTI,Trase;rimolanti,Trase rimolanti
+451,451,odi;odi;ore,odi AT odi TT AT ore,Odiate;dittatore,Odiate dittatore
+452,452,espressi;tedesco;etto,espressi O NE tedesco L etto,Espressione;te;descolto,Espressione te descolto
+453,453,ara;rea;con;chino,B ara rea con chino,Barare;a;conchino,Barare a conchino
+454,454,seta;teli;nata,DIS seta N teli MO nata,Dissetante;limonata,Dissetante limonata
+455,455,Muti;Rodi;tori,TE Muti SSI Rodi T TA tori,Temutissiro;dittatori,Temutissiro dittatori
+456,456,Pi;astri;ami;are,Pi astri N ami LIT are,Piastrina;militare,Piastrina militare
+457,457,,,,COL N N addizioni
+458,458,Ro;fon;di;turturato,P Ro fon di T turturato N E,Profondità;turate,Profondità turate
+459,459,fa;area;sai,fa T IC area S sai,Faticare;assai,Faticare assai
+460,460,pesca;Sam,pesca D I Sam,Pesca;di;samar,Pesca di samar
+461,461,orche;fan,C A orche fan D E,Caorche;fande,Caorche fande
+462,462,esca;mina,FR esca NO mina,Fresca;nomina,Fresca nomina
+463,463,pia;arpa;etti,pia N T arpa L etti,Piantar;paletti,Piantar paletti
+464,464,dee;vate,O N dee LE vate,Onde;elevate,Onde elevate
+465,465,auto;edili;etti;pera,auto R edili B R etti DO pera,Autore;di;libretti;d;opera,Autore di libretti d'opera
+466,466,rigo;some;do,rigo RO some T O do,Rigoroso;metodo,Rigoroso metodo
+467,467,su;di;superbi,O su A di AL superbi,Ossua;di;alsuperbi,Ossua di alsuperbi
+468,468,vene;ali,vene ZI ali DO,Venezia;lido,Venezia lido
+469,469,orma;lepre;viso,F orma lepre A V viso,Formale;preavviso,Formale preavviso
+470,470,Oglio;soma,RIG Oglio soma IS,Rigoglioso;mais,Rigoglioso mais
+471,471,Reno;api;ocre;via;va;via,T Reno R api D ocre CO via va RSA via,Treno;rapido;crecovi;avversa,Treno rapido crecovi-avversa
+472,472,anca;tegame,SFI anca N tegame,Sfiancante;gage,Sfiancante gage
+473,473,else;re;re,B else C re TA I re,Bel;secreteire,Bel secreteire
+474,474,casco;per,NU casco per TA,Nucca;scoperta,Nucca scoperta
+475,475,mini;ombrello;di,mini ST ombrello di ATI,Ministro;bellowedi,Ministro bellowedi
+476,476,volte;pere,volte A M pere,Volte;a;mperere,Volte a mperere
+477,477,con;ariete,con TR ariete SI,Contrarie;tesi,Contrarie tesi
+478,478,fari;Eva;aro;oli,A F fari CH Eva NNO aro T oli,Affari;che;vanno;a;rotoli,Affari che vanno a rotoli
+479,479,leggio;est,leggio N est E,Leggi;oneste,Leggi oneste
+480,480,orsi;re;pero,C orsi DI re CU pero,Corsi;di;recupero,Corsi di recupero
+481,481,rovi;arca;etti,rovi S T arca S S etti,Rovistar;cassetti,Rovistar cassetti
+482,482,rocca;divi;dei;aste;mani,B rocca divi N O dei C aste L L I RO mani,Brocca;di;vino;dei;castelli;romani,Brocca di vino dei castelli romani
+483,483,musi;aria;colta,musi C aria S colta TA,Musica;riascoltata,Musica riascoltata
+484,484,sedia;assi;nati,MAS sedia PP assi O nati,Mase;di;appassionati,Mase di appassionati
+485,485,unte;mari;letto,unte mari letto,Un;tema;riletto,Un tema riletto
+486,486,mani;Edison;est,mani E R Edison est E,Maniera;disoneste,Maniera disoneste
+487,487,avi;avi;Eva,L avi T avi EN Eva,La;vita;vive;n;eva,La vita vive n eva
+488,488,,,,Odisseo C CE
+489,489,usci;rea;collare,R I usci rea D E collare,Riuscire;a;decollare,Riuscire a decollare
+490,490,lame;di;aria,lame di A O R aria,La;media;oraria,La media oraria
+491,491,peri;losco;Turilli,peri C O losco N Turilli,Pericolo;sconturilli,Pericolo sconturilli
+492,492,mani;redi;conti,mani E redi S conti NUE,Maniere;discrete,Maniere discrete
+493,493,Cipro;odi;petto,RE Cipro C odi S petto,Reciproco;dispetto,Reciproco dispetto
+494,494,amo;osti;lista;Talia,F amo S osti lista I Talia NO,Famoso;stilista;italiano,Famoso stilista italiano
+495,495,risi;avi;tori,risi C A T avi T tori A,Riscata;vittoria,Riscata vittoria
+496,496,arti;perle;oli,P arti RE perle oli E,Partire;per;l;Eolie,Partire per l'Eolie
+497,497,via;caglio,MA via P caglio TI,Maviapca;gliotiti,Maviapca gliotiti
+498,498,fra;sega;ante,fra sega L ante,Frase;galante,Frase galante
+499,499,tra;rive;ali,S tra T rive RB ali,Stratir;verbali,Stratir verbali
+500,500,ed;pilastro;tori,S ed I pilastro tori O,Sedipi;lastrotorio,Sedipi lastrotorio
+501,501,,,,trema via R I Llo
+502,502,colt;ara;statura,colt I V ara statura S,Coltivar;astuta,Coltivar astuta
+503,503,ali;oste;tese;ape;are,S C I ali SP oste D A tese NZ ape N S are,Scialis;postese;nza;piena;pensare,Scialis postese nza piena pensare
+504,504,chiave;tale;di;odiabili,"chiave RO, tale NTO L O di odiabili",Chi;a;vero;talento;lo;diabolico,Chi a vero talento lo diabolico
+505,505,fa;ciac;punta,fa C ciac O M punta,Faccia;accompunta,Faccia accompunta
+506,506,pedale;peri;lati;di;ore;di;etto,OS pedale peri M A lati di CU ore E di P etto,Ospedale;per;i;malati;di;cuore;e;di;petto,Ospedale per i malati di cuore e di petto
+507,507,ala;amo;tomi;orata,M ala T amo L tomi GLI orata,Malata;molto;migliorata,Malata molto migliorata
+508,508,Lodi;cono,PAO Lodi A cono,Paolo;Diacomo,Paolo Diacomo
+509,509,pia;tele;visi,IM pia N TO tele visi VO,Impianto;televisivo,Impianto televisivo
+510,510,toreri;Leda;ore,S toreri EL Leda M ore,Storerie;l;edamo,Storerie l'edamo
+511,511,toro;manti,AU toro manti C O,Autoro;mantico,Autoro mantico
+512,512,pia;otri;tino,pia TT otri E S tino,Piatto;triestino,Piatto triestino
+513,513,topi;ode;serti,AL topi AN ode serti CO,Altopiano;desertico,Altopiano desertico
+514,514,re;porte;ring;lese,re porte ring lese,Reporter;inglese,Reporter inglese
+515,515,amo;Ra;via,L amo G Ra O via,La;mostra;ovvia,La mostra ovvia
+516,516,ode;stie;orsi,M ode stie S B orsi,Modesti;esborsi,Modesti esborsi
+517,517,more;in;menti;ile,A more in DI menti C A B ile,Amore;indimenticabile,Amore indimenticabile
+518,518,ala;medio,S ala medio CA,Salame;di;oca,Salame di oca
+519,519,tute;armi;re,tute L armi N O re NNI,Tutele;armicorni,Tutele armicorni
+520,520,tori;aro,AL tori P aro,Alto;riparo,Alto riparo
+521,521,si;agli;ammalati,VI si TA agli A M ammalati,Visità;agli;ammalati,Visità agli ammalati
+522,522,Alpi;tante;parti,P Alpi tante parti T A,Palpitante;partita,Palpitante partita
+523,523,tram;ara;oste,tram AND ara IP oste RI,Tramandara;ai;posteri,Tramandara ai posteri
+524,524,orme;di;sordi,E N orme di sordi N E,Enorme;disordine,Enorme disordine
+525,525,mani;teso,IM mani teso RI,Immani;tesori,Immani tesori
+526,526,asse;redi;vita;nari,asse S SO redi vita IO nari O,Assessori;dividendionario,Assessori dividendionario
+527,527,re;rete;Po,P re NDE rete M Po,Prendere;tempo,Prendere tempo
+528,528,rena;rena;ali;tende,F rena rena T U R ali tende NZE,Frenare;naturali;tendenze,Frenare naturali tendenze
+529,529,fa;fa;Nemi;antina;ore,fa N fa R O Nemi LL antina T ore,Fanfaronem;illantinatore,Fanfaronem illantinatore
+530,530,ascia;teca;are;ore,L ascia teca NT are I L C U ore,Lasciate;cantare;il;cuore,Lasciate cantare il cuore
+531,531,nodo;duna;la,A nodo duna P I la,Anodo;d;una;pila,Anodo d'una pila
+532,532,su;sci;are;manica;astro,su sci T are I M manica T astro FI,Suscitare;immani;catastrofi,Suscitare immani catastrofi
+533,533,scia;lane;ode,scia BO lane LF ode RO,Sciabola;nel;foderò,Sciabola nel foderò
+534,534,,,,LA Gioconda NT a chicco a chicco non comandano TA
+535,535,ellissi;ori;ratto,B ellissi M ori T ratto,Bellissimo;ritratto,Bellissimo ritratto
+536,536,re;tra;rete;remo,re GIS tra rete R remo TI,Registrare;terremoti,Registrare terremoti
+537,537,ratti;ossi,BU ratti NI R ossi,Burattini;rossi,Burattini rossi
+538,538,sole;tea;aia,sole R tea P P aia,Solerte;appaia,Solerte appaia
+539,539,arpa;leggio,F arpa L leggio,Far;palleggio,Far palleggio
+540,540,Asti;come;saggi,IC Asti come S saggi O,Icastico;messaggio,Icastico messaggio
+541,541,per;eco;letti,per I eco L letti V E,Perie;collettive,Perie collettive
+542,542,laser;ramo;rena,laser ramo rena,La;serar;amorena,La serar amorena
+543,543,con;su;sarte,con su sarte,Consusar;te,Consusar te
+544,544,nero;copie;tese,U nero I copie M ON tese,Un;eroico;pietose,Un eroico pietose
+545,545,nari;dadi;tesi,U nari D dadi P O tesi,Una;ridda;d;adipesi,Una ridda d'adipesi
+546,546,risi;riso;riso;risi,PU risi NCE riso LA riso R risi,Puri;sinceri;solari;sorrisi,"Puri, sinceri, solari sorrisi"
+547,547,armi;re;recise,D armi SU re P recise,Dar;misure;precise,Dar misure precise
+548,548,porta;mento;ante;cono;nido,COM porta mento G A L ante cono G nido NNA,Comportamento;galante;con;ogni;donna,Comportamento galante con ogni donna
+549,549,remi;dente,remi S C R E dente,Re;miscredente,Re miscredente
+550,550,anca;tea;tesa,SFI anca N tea T tesa,Sfiancante;attesa,Sfiancante attesa
+551,551,menti;Tecla;rose,S menti Tecla M O rose,Smentite;clamorose,Smentite clamorose
+552,552,ora;di;oca,SP ora di C oca SO,Sporadico;caso,Sporadico caso
+553,553,nel;lido;nati,A nel lido nati,Anelli;donati,Anelli donati
+554,554,seri;riso,E S seri R riso,Esseri;rriso,Esseri rriso
+555,555,nani;ore;arto,U nani MOS ore P arto,Un;animoso;reparto,Un animoso reparto
+556,556,pica;rasi;mi;tic,ROM pica rasi G mi S tic I,Rompicara;sintetici,Rompicara sintetici
+557,557,costa;tresa,S costa N tresa,Scostante;resa,Scostante resa
+558,558,Pi;cola;cola,Pi C cola S cola RA,Piccola;scolara,Piccola scolara
+559,559,re;lire;Cipro,re G A lire Cipro CI,Regali;reciproci,Regali reciproci
+560,560,remo;semina;care;alato;alpha,E remo semia S care GN alato D alpha I,"Eremo;semiascaregnalato;dalfai;""la;""la","Eremo semiascaregnalato dalfai ""la ""la"
+561,561,dea;Ate,RON dea RM Ate,Ronda;armate,Ronda armate
+562,562,dardi;etti;recise,dardi R etti V E P recise,Dar;direttive;precise,Dar direttive precise
+563,563,attore;sci,P attore sci SSO,Patto;rescisso,Patto rescisso
+564,564,oca;olio;vino;Ati,V oca B olio V vino NUS Ati,Vocaboli;oivi;non;usati,Vocaboli oivi non usati
+565,565,oca;epe;ante,GI oca R epe S ante,Giocare;pesante,Giocare pesante
+566,566,scopa;tema,BRU scopa S tema,Brusco;pastemato,Brusco pastemato
+567,567,lana;rade;eco,lana T U rade LL eco SE,La;natura;delle;cose,La natura delle cose
+568,568,ode;arti;anni,SP ode ST arti R anni,Spodestar;tiranni,Spodestar tiranni
+569,569,Egitto;enti,L Egitto MB I enti,Leggi;tombienti,Leggi tombienti
+570,570,oste;amo;orate,C oste GI amo NIT orate,Coste;già;monetorate,Coste già monetorate
+571,571,nano;Pesaro;si,U nano IOS Pesaro O si,Una;nazione;spagnola,Una nazione spagnola
+572,572,oste;nere;stie;con;micio;nastro,S oste nere CO stie con O micio nastro SI,Sostenere;costi;economici;onastrosi,Sostenere costi economici onastrosi
+573,573,stie;ali,A M stie ali N A,Amstiea;lina,Amstiea lina
+574,574,arti;remi;ante,P arti remi G R ante,Partire;migrante,Partire migrante
+575,575,rocca;tiara;esca,B rocca tiara B esca TI,Broccati;arabescati,Broccati arabescati
+576,576,do;cieco;etti,do L cieco N F etti,Dolci;e;confetti,Dolci e confetti
+577,577,gente;are,AR gente OM are,Argenteo;mare,Argenteo mare
+578,578,rena;tasca;nata,SE rena tasca NZ O nata,Serenata;scansionata,Serenata scansionata
+579,579,moschea;cane,moschea F RI cane,Mosche;africane,Mosche africane
+580,580,asse;odi;giara,asse DI odi N giara RI,Assedio;d;ingiari,Assedio d'ingiari
+581,581,legge;ras;puma,legge ras puma,Leggera;spuma,Leggera spuma
+582,582,ondine;mi;ione,B ondine mi S S S ione,Bond;in;emissione,Bond in emissione
+583,583,sergente;desta,ES sergente MO desta,Esser;gente;modesta,Esser gente modesta
+584,584,dei;olla;ile,F E dei NCR olla B ile,Fede;incrollabile,Fede incrollabile
+585,585,are;unto;in;ponente,US are unto NO in DI S ponente,Usare;un;tono;indisponente,Usare un tono indisponente
+586,586,dio;odi;dio,O dio S odi SSI dio,Odioso;dissidio,Odioso dissidio
+587,587,Po;tinti,S Po tinti VU,Spot;in;tivù,Spot in tivù
+588,588,larice;cava,larice R cava NA,La;ricerca;vana,La ricerca vana
+589,589,ape;sante;dita,UN ape sante E R E dita,Una;pesante;eredità,Una pesante eredità
+590,590,rane;tigre,AVE rane tigre CI,Aver;anetig;reci,Aver anetig reci
+591,591,pie;asso;lati;razzi,A M pie D asso lati T E R razzi,Ampi;ed;assolati;terrazzi,Ampi ed assolati terrazzi
+592,592,rio;negro;orbo,rio negro S orbo NO,Rio N;negrosorbo,Rio N negrosorbo
+593,593,cocco;la;tini;Po;tini,cocco la tini Po tini,Coccolati;nipotini,Coccolati nipotini
+594,594,picco;isba;menti,picco L isba N D A menti,Piccoli;sbandamenti,Piccoli sbandamenti
+595,595,lepre;visi,BEL lepre visi O NI,Belle;previsioni,Belle previsioni
+596,596,volta;muta,RI volta TE muta,Rivolta;temuta,Rivolta temuta
+597,597,Borg;astro;nano,Borg O M astro RE nano,Borgomastro;renano,Borgomastro renano
+598,598,avo;opera;cani,L avo R opera T cani,Lavoro;per;operatcani,Lavoro per operatcani
+599,599,corsa;erba,NE corsa AC erba,Nercosa;acerba,Nercosa acerba
+600,600,Serra;oca,Serra NT oca SA,Ser;rantoça;sala,Ser rantoça sala
+601,601,su;re;avi;orti;ora,su BI re GR avi T orti M ora LI,Subire;gravi;torti;morali,Subire gravi torti morali
+602,602,presepe;re;tori,IM presepe re N tori E,Imprese;perentorie,Imprese perentorie
+603,603,canti;ale,canti N O A P ale,Cantino;a;pale,Cantino a pale
+604,604,lenti;adipe;tori,V A lenti adipe S C A tori,Valentina;di;Pescatori,Valentina di Pescatori
+605,605,assi;antere;ali,APP assi ON antere ali TY,Appassionante;realità,Appassionante realità
+606,606,Po;carter;azze,S Po R carter R azze,Sporter;razzese,Sporter razzese
+607,607,tram;pesca;etto,S tram pesca MI CH etto,Strampe;scamichetto,Strampe scamichetto
+608,608,podista;topi;nato,CA podista topi C C O nato RE,Capo;di;stato;piccionatore,Capo di stato piccionatore
+609,609,pastore;sode,IM pastore sode NSO,Impasto;reso;denso,Impasto reso denso
+610,610,bradipi;antina;Po,F I bradipi antina R A Po,Fibra;di;pianti;nara,Fibra di pianti nara
+611,611,stoino;tori;colo,stoino T tori D I colo,Stoinotto;ridicolo,Stoinotto ridicolo
+612,612,unto;oli,unto CC oli E VE,Un;tocco;lieve,Un tocco lieve
+613,613,duna;rami,RA duna rami CI,Radunar;amici,Radunar amici
+614,614,arnia;sola,LI arnia N sola,Liarne;insolata,Liarne insolata
+615,615,celle;tesa;ore,E C celle N tesa P ore,Eccellente;sapore,Eccellente sapore
+616,616,cono;modista,E cono modista TO,Economo;di;stato,Economo di stato
+617,617,colino;lord,S colino lord A,Scolina;lorda,Scolina lorda
+618,618,prete;re;pinte,prete S E re S pinte,Pretese;respinte,Pretese respinte
+619,619,barba;ratto,RU barba ratto LI,Rubar;barattoli,Rubar barattoli
+620,620,rea;ore;oli,CU rea M ore V oli,Cure;amorevoli,Cure amorevoli
+621,621,in;versi;edite;Enza,in versi ON edite ND Enza,Inversione;di;tendenza,Inversione di tendenza
+622,622,epa;arso;presepe;rami,PR epa R arso R presepe rami CI,Preparar;sorprese;per;amici,Preparar sorprese per amici
+623,623,Rodi;Giosafat;si,P Rodi Giosafat U si,Prodigiosa;fatica,Prodigiosa fatica
+624,624,tra;medi;dito,tra medi T R A dito RI,Trame;di;traditori,Trame di traditori
+625,625,stola;gota;Ande,VA stola gota IL Ande SE,Vasto;lago;taiwanese,Vasto lago taiwanese
+626,626,tende;rete;nera;tela;posa,AT tende rete nera M EN tela S posa,Attendere;teneramente;la;sposa,Attendere teneramente la sposa
+627,627,con;arpa;re,IN con TR arpa re NTI,Incontrar;parenti,Incontrar parenti
+628,628,presa;remo;belve,presa GI remo MEN belve GI,Presagire;momenti;belve,Presagire momenti belve
+629,629,pia;chela;data;ginepro;oca;anni,SAp pia TE chela SBA data G ginepro V oca D anni,Sappiate;che;la;sbadataggine;provoca;danni,Sappiate che la sbadataggine provoca danni
+630,630,vita;leva;don,E vita leva NE don SE,Evita;le;vane;donse,Evita le vane donse!
+631,631,primo;remi,primo P remi O,Primo;premio,Primo premio
+632,632,in;studenti,in FE studenti B I,Infestati;enti,Infestati enti
+633,633,ara;faro,C ara F faro TTA,Caraffa;rotta,Caraffa rotta
+634,634,frange;re;re;menti,IN frange re I re GO L A menti,Infrangere;i;regolamenti,Infrangere i regolamenti
+635,635,favo;sai;presa,favo L O sai M presa,Favolosa;impresa,Favolosa impresa
+636,636,est;ancia,R est O M ancia,Resto;mancia,Resto mancia
+637,637,ante;Diana,P I ante Diana NAS,Pianti;di;ananas,Pianti di ananas
+638,638,disco;ore;strato,disco R S ore GI strato,Discorso;registrato,Discorso registrato
+639,639,abilitata;coda;lana;sci,D abilitata NI coda L lana sci T A,Dabilitata;nico;dallansa,Dabilitata nico dallansa
+640,640,bilia;tori,A bilia T tori,Abili;attori,Abili attori
+641,641,stalliere;lega;tea;reti,QU stalliere E lega N tea reti NO,Quattalii;reelegan;teatino,Quattalii reelegan teatino
+642,642,re;mesti,re mesti FA SE,Reme;stifase,Reme stifase
+643,643,Adige;nove,ST Adige nove SI,Stadi;genovesi,Stadi genovesi
+644,644,avolo;avi;Cita,F avolo S avi N Cita,Favolosa;vincita,Favolosa vincita
+645,645,arpista;Era;peri;collo,D arpista LIB Era peri L D E collo,Dar;pista;libero;per;il;decollo,Dar pista libero per il decollo
+646,646,unta;bus;ciocco,unta bus ciocco,Un;tabù;sciocco,Un tabù sciocco
+647,647,madido;are;mina;teste,PRI madido M IN are DO mina teste SSO,Prima;di;dominare;domini;at;stesso,Prima di dominare domini at stesso
+648,648,ara;prese;zio;negra;Cam;ode,UN ara P prese N T A zio negra F I Cam ode R NA,Una;rappresentazione;teatrale;grafiaca,Una rappresentazione teatrale grafiaca
+649,649,bacca;teca;asta,bacca R A teca N asta,Baccarate;c;anastas,Baccarate c anastas
+650,650,pedine;con;torri,pedine D A con torri V A,Pedinè;dato;rivariva,Pedinè dato rivariva
+651,651,tremanti;lieti,tremanti G lieti N TE,Tre;mantiglie;tinte,Tre mantiglie tinte
+652,652,rum;iri;secchi,AG rum iri N secchi TI,Agrumi;rinecchietti,Agrumi rinecchietti
+653,653,cardi;est;dente,cardi N est R I dente,Cardinal;estidente,Cardinal estidente
+654,654,conti;are;unite,conti N U are,Continuare;la;ricerca,Continuare la ricerca
+655,655,ala;chef;ape,M ala TO chef ape NA,Malato;che;fa;pena,Malato che fa pena
+656,656,filo;roso;mano,filo roso mano,Filoroso;manato,Filoroso manato
+657,657,tre;nodi;tori,tre nodi M I N A tori,Treno;di;minatori,Treno di minatori
+658,658,gru;Po;ile,gru P Po D ile O NI,Gruppo;di;leoni,Gruppo di leoni
+659,659,peri;di;tra;orsi,peri O di tra S C orsi,Periodi;trascorsi,Periodi trascorsi
+660,660,pero;nata;Pi;ante,PE pero nata Pi C C ante,Pereronata;piccante,Pereronata piccante
+661,661,are;est;ape;ala;rea,F are F est ape R L ala U rea,Fare;festa;per;la;laurea,Fare festa per la laurea
+662,662,uomo;est,IN uomo est RI,Inuomoe;stridi,Inuomoe stridi
+663,663,sposi;odi;ultimi,DI sposi TIV odi GIT ultimi,Dispositivo;digitale,Dispositivo digitale
+664,664,pie;radice;ami,PE pie radice R ami CA,Peparia;di;ceramica,Peparia di ceramica
+665,665,assale;ara,assale R I P ara TO,Assale;riparato,Assale riparato
+666,666,armadi;avi;dee;ala;onda,L armadi D avi dee R ala F I onda,L;arma;di;Davide;era;la;figona,L'arma di Davide era la figona
+667,667,re;redi;ape;reo;osa,C re DE redi S ape reo GN IC osa,Credere;di;sapere;ogni;cosa,Credere di sapere ogni cosa
+668,668,Po;boia,CU Po boia TO,Cupo;boiato,Cupo boiato
+669,669,favola;nata,CUF favola G nata,Cuffia;volata,Cuffia volata
+670,670,prete;remo;eco;dita,prete ND E remo LT eco M O dita,Pretenderem;oltre;comodità,Pretenderem oltre comodità
+671,671,,,,La [È a destra o a sinistra] = mano | [Una città... per il pasticciere] = Napoli | N O
+672,672,tram;sardi;porta;porta,C tram sardi porta I N porta,Trams;ardito;di;portà;in;porta,Trams ardito di portà in porta
+673,673,radar;mine,radar I mine S E,Rada;riminese,Rada riminese
+674,674,baro;seta;tine,baro NE S seta RA N tine,Baronesse;tarantine,Baronesse tarantine
+675,675,lama;toro,lama T toro TTO,Lamattoro;tto,Lamattoro tto
+676,676,arabo;lava;elica,P arabo lava N G elica,Parabola;vangelica,Parabola vangelica
+677,677,astri;arco;rade,L astri C arco N T rade,Lastricar;contrade,Lastricar contrade
+678,678,in;denti;uva;tasca,in CI denti S uva S tasca LA,Incidenti;su;vasta;scala,Incidenti su vasta scala
+679,679,nasi;raspe;nata,U nasi G NO raspe TTI nata,Una;signora;spettinata,Una signora spettinata
+680,680,avi;ara;avola,L avi T ara PID avola,La;vita;rapida;vola,La vita rapida vola
+681,681,asse;lima;canti,T asse L lima N canti,Tasselli;mancanti,Tasselli mancanti
+682,682,tine;rei;alte;nati,I tine RA rei alte R nati VO,Inerareiali;ternativo,Inerareiali ternativo
+683,683,gru;oca;rosa;do,gru PP oca N O rosa R do,Gruppo;canoro;sardo,Gruppo canoro sardo
+684,684,chino;cono;cono;cera,chino N cono S CE cono S cera,Chi;non;conosce;conoscerà,Chi non conosce conoscerà
+685,685,erta;iris;armi,AV erta NT iris P armi,Aver;tanti;risparmi,Aver tanti risparmi
+686,686,aro;are;alata,UN aro S are G alata,Una;rosa;regalata,Una rosa regalata
+687,687,massi;Ra,massi LU Ra TI,Mas;silurati,Mas silurati
+688,688,attori;star;posa,T R attori star I posa TO,Trattorista;ripoasto,Trattorista ripoasto
+689,689,neri;rose,P E neri G O rose,Pene;rigorose,Pene rigorose
+690,690,tris;est;Adige;tee;uosa,tris T est O RI Adige N tee MI uosa,Triste;storia;di;gente;emmiuosa,Triste storia di gente emmiuosa
+691,691,ambi;timo;ori;retti,ambi E N timo LT ori ST retti,Ambienti;molto;ristretti,Ambienti molto ristretti
+692,692,orto;nidi;ala,P orto nidi P ala ZZI,Portoni;di;palazzi,Portoni di palazzi
+693,693,giardiniere;onde,PA giardiniere F onde,Pagine;riefronde,Pagine riefronde
+694,694,avo;diamante,avo N CE diamante,Avonci;di;amante,Avonci di amante
+695,695,lino;pero;soma;lato,lino pero soma lato,L;inoperoso;malato,L'inoperoso malato
+696,696,re;re;sol,SP re CA re sol DI,Sprecare;soldi,Sprecare soldi
+697,697,auto;riparo;di,"auto riparo di AT, I",Autori;paradisi,Autori paradisi
+698,698,titolo;oro,VES titolo G oro,Vestito;logoro,Vestito logoro
+699,699,est;arca,P est arca LLI,Pestar;calli,Pestar calli
+700,700,,,,oboi C E sa
+701,701,pipa;menti,AM pipa R A menti,Ampi;paramenti,Ampi paramenti
+702,702,anta;casa;gradino,F anta STI casa gradino LE,Fantastica;saga;di;Nole,Fantastica saga di Nole
+703,703,rema;redi;vento,T rema redi S P A vento,Tremare;di;spavento,Tremare di spavento
+704,704,automobili;re,C automobili E re,Cauto;mobiliere,Cauto mobiliere
+705,705,tende;rea;arco,A T tende rea L V arco,Attendere;al;varco,Attendere al varco
+706,706,,,,Spera tto lesso NIA
+707,707,est;tigri;Giove;oli,V est I tigri Giove RD OG N oli,Vestiti;grijoverdognoli,Vestiti grijoverdognoli
+708,708,assi;ori;orzo,M assi CCI ori NF orzo,Massiccio;rinforzo,Massiccio rinforzo
+709,709,nassa;ori;avi;seno;ami,NO nassa P ori L avi TA seno N ami,Non;assapori;la;vita;se;non;ami,Non assapori la vita se non ami
+710,710,numero;mano,numero mano,Nume;romano,Nume romano
+711,711,arto;sale;Talia,REP arto sale R TI Talia,Reparto;salertitalia,Reparto salertitalia
+712,712,ras;nato,MIT ras PIA nato,Mitra;spianato,Mitra spianato
+713,713,Asti;nidi;rocca,B Asti O nidi rocca TI,Bastioni;diroccati,Bastioni diroccati
+714,714,rosi;tassi;est,P rosi tassi LV est RO,Prosit;a;s;silvestro,Prosit a s. silvestro
+715,715,teda;ante,teda N Z ante,Tè;danzante,Tè danzante
+716,716,ami;arcobaleno;tinella;etto,ami C arcobaleno N tinella B etto LA,Amica;robusta;nella;bettola,Amica robusta nella bettola
+717,717,est;pere;avi;tori,F est A pere X avi A tori,Festa;per;ex;aviatori,Festa per ex aviatori
+718,718,in;redi;tea;aro,in G redi E N tea M aro,Ingreidente;amaro,Ingreidente amaro
+719,719,elfi;Eros;adipe,B elfi OR Eros adipe SCO,Bel;fiore;rosa;di;pesci,Bel fiore rosa di pesci
+720,720,rei;re;epe,F A rei LP re S epe,Fare;il;presepe,Fare il presepe
+721,721,menti;ari;ari,A U menti T ari FF ari,Augenti;tariffari,Augenti tariffari
+722,722,,,,DO Verdi S F altari
+723,723,sitar;tra;panieri;pale,VI sitar tra panieri C E pale RMO,Visitar;Trapani;Eric;Palermo,"Visitar Trapani, Eric, Palermo"
+724,724,sci;piante;rate,sci piante rate,Scipia;naterate,Scipia naterate
+725,725,alci;ridicolo;re,C alci ATO ridicolo re,Calciatrici;di;colore,Calciatrici di colore
+726,726,gogna;topo,A gogna topo STO,Agognato;posto,Agognato posto
+727,727,Ero;miss;nari,Ero I CI miss I O nari,Eroici;missionari,Eroici missionari
+728,728,re;conta;nati,re NT I conta M I nati,Renticont;amministrati,Renticont amministrati
+729,729,pere;remi;ali;tali,pere S T remi M ali R I M E ditali,Per;estremi;mali;rimedi;tali,Per estremi mali rimedi tali
+730,730,ave;avi,ave R L avi N TA,Averla;vinta,Averla vinta
+731,731,Ares;nidi;manti,F Ares OG nidi SAR manti,Fare;sogni;disarmanti,Fare sogni disarmanti
+732,732,re;rene;prese;tema;pera;rene;mani,C re DE rene L prese N tema S pera rene L DO mani,Credere;nel;presente;ma;sperare;nel;domani,"Credere nel presente, ma sperare nel domani"
+733,733,gerle;assi;diari;ragnate,LEG gerle M assi ME diari STO ragnate,Legger;le;massime;di;Aristotele,Legger le massime di Aristotele
+734,734,6;mi;Ero,E 6 mi S T Ero,Emister;omino,Emister omino
+735,735,Australia;enti,CL Australia M BI enti,Claudio;ambienti,Claudio ambienti
+736,736,attico;raggio,P attico raggio SI,Patti;coraggiosi,Patti coraggiosi
+737,737,come;nari,"come TI, nari A",Comet;in;aria,Comet in aria
+738,738,si;isola;etto,ES si RSI isola L etto,Essirsisi;la;letto,Essirsisi la letto
+739,739,radio;di;agente,I radio di OS agente,Ira;di;osagia;gente,Ira di osagia gente
+740,740,attinie;tea;fa;ode;rosi,attinie N tea F fa T T ode C O rosi,Atti;niente;affatto;decoroosi,Atti niente affatto decoroosi
+741,741,re;induzione;osti,P re induzione S C osti,Preindus;costi,Preindus costi
+742,742,stie;stie,B E stie R E stie,Bestie;restie,Bestie restie
+743,743,peri;redi;etto,S U peri O redi R etto,Superiori;diretto,Superiori diretto
+744,744,Siam;ore,A Siam I N ore,Asia;minore,Asia minore
+745,745,picche;odi;sci;pera,picche T T odi sci O pera NTI,Picchetti;di;scioperanti,Picchetti di scioperanti
+746,746,assi;arse;Ra;re,SC assi N arse R Ra TU re,Scassinar;serrature,Scassinar serrature
+747,747,rande;aste;Rodi;ore,G rande MO N aste Rodi S U ore,Grande;monastero;di;suore,Grande monastero di suore
+748,748,anca;ali;erede;ora,GR anca V ali erede C ora TO,Gran;cavaliere;decorato,Gran cavaliere decorato
+749,749,sacco;ala;mi;cup;ore,sacco L G ala mi C O cup L ore,S;accolga;l;amico;cup;loro,S'accolga l'amico cup loro
+750,750,Fermat;est,AF Fermat est AR,Affermate;star,Affermate star
+751,751,con;topo;alato,con topo C OS alato,Conto;poco;salato,Conto poco salato
+752,752,Ande;astro;nomi,ST Ande NOG astro nomi CO,Stand;enogastromico,Stand enogastromico
+753,753,Eva;ore;scale,Eva S ore F I scale,Evasore;fiscale,Evasore fiscale
+754,754,arco;cani;otre;Dante,ST arco cani M otre P I Dante,Star;coc;animo;trepidante,Star coc animo trepidante
+755,755,conci;cave;greto,conci S cave S E greto,Conciscave;segreto,Conciscave segreto
+756,756,ali;coni;uova,M ali N coni uova R SO,Malinconio;varso,Malinconio varso
+757,757,denti;malizia;Ati;amati,I denti malizia IZZ Ati amati TA,Identimali;ziaizzati;a;titata,Identimali ziaizzati a titata
+758,758,capi;cicci,capi E N cicci C H E,Capienic;ciccicche,Capienic ciccicche
+759,759,asso;liter,SP asso liter MI,Spassoli;termini,Spassoli termini
+760,760,viole;mani,viole NTI U mani,Violenti;umani,Violenti umani
+761,761,nostrano;esteri;ed;corso,U nostrano esteri L ed I S corso,Uno;strano;e;sterile;discorso,Uno strano e sterile discorso
+762,762,mici;di;lime;consonanti,mici di A lime C consonanti S MI,Micidiali;meccanismi,Micidiali meccanismi
+763,763,ala;nidi;gnu;oro,ES ala ZI O nidi G gnu D oro,Esalazioni;di;gnu;doloro,Esalazioni di gnu doloro
+764,764,Bambi;note;star;do,Bambi note star do,Bambino;testardo,Bambino testardo
+765,765,esca;remo;ore,P esca remo R M ore,Pescare;more,Pescare more
+766,766,mini;trono,mini S trono TO,Ministro;noto,Ministro noto
+767,767,,,,manne RI gialli NA
+768,768,dive;mani;radici;arsi,dive R S A mani E radici B arsi,Diversa;maniera;di;cibarsi,Diversa maniera di cibarsi
+769,769,cella;reo;in,MA cella reo V in I,Macellare;ovi,Macellare ovi
+770,770,presepe;fette;tomaia,presepe R fette DI tomaia NI,Prese;perfette;di;Tomaiani,Prese perfette di Tomaiani
+771,771,ava;are;are,ava N Z are are T E,Avanzare;a;rete,Avanzare a rete
+772,772,asse;otri;strale,asse G N otri ME strale,Assegno;trimestrale,Assegno trimestrale
+773,773,Alpi;arditi;ore,P Alpi T arditi M ore,Palpitar;di;timore,Palpitar di timore
+774,774,portone;aratri;est,S portone C aratri est,Sporto;n;ecarati,Sporto n ecarati
+775,775,telescrivente;Roma;tic,AR telescrivente A Roma tic O,Artelesc;rientea,Artelesc rientea
+776,776,mine;Ron;eco;ave,mine S T Ron eco N F ave,Minestroni;con;fave,Minestroni con fave
+777,777,Belgio;torero;mani,Belgio C A torero mani STA,Bel;giocatero;manista,Bel giocatero manista
+778,778,,,,uscio CHI un RO
+779,779,orme;colo,EN orme ZOC colo,Enorme;zoccolo,Enorme zoccolo
+780,780,anitre;manti;ore,M anitre manti D A M ore,Mani;tremanti;d;amore,Mani tremanti d'amore
+781,781,amo;ore;ali,F amo S ore ali T Y,Famoso;realità,Famoso realità
+782,782,Edipo;chiave;re,Edipo chiave re,È;di;pochi;avere,È di pochi avere
+783,783,odi;sc;spider;Ra,C odi sc spider Ra TO,Codisc;pia;drato,Codisc pia drato
+784,784,con;tori;ara,con tori N C ara T O,Conto;rincarato,Conto rincarato
+785,785,stop;erba;are,PO stop erba L L are,Posto;per;ballare,Posto per ballare
+786,786,api;ciotola;lidi;nato,L api ciotola BI lidi SE G nato RI,Lapi;ci;otola;bilidisegnato,Lapi ci otola bilidisegnato
+787,787,mari;anni,TRA mari NG anni,Tramar;inganni,Tramar inganni
+788,788,su;per;bidoni,su per bidoni,Superbi;doni,Superbi doni
+789,789,orma;enorme,RIF orma R enorme,Riformare;norme,Riformare norme
+790,790,cava;seri;zanne;scoglio,STI cava S seri Z zanne scoglio I,Sticav;asserrizzan;nel;golio,Sticav asserrizzan nel golio
+791,791,navi;tosa;ava;osso,U navi S tosa CR ava TT A R osso,Una;vistosa;cravatta;rosso,Una vistosa cravatta rosso
+792,792,Ate;tra;sponde,UN Ate tra sponde N A,Una;tretà;sponda,Una tretà sponda
+793,793,Ares;cena,F Ares cena TE,Fare;scenate,Fare scenate
+794,794,agli;agli;est;menti,T agli agli I NV est I menti,Tagli;agli;investimenti,Tagli agli investimenti
+795,795,valle;tese,valle T tese X Y,Vallette;sexy,Vallette sexy
+796,796,antina;rei;ali;nonne;odi;cocomero,C antina UT O rei T ali A nonne L odi cocomero N,Cantinauto;reitalia;nonnello;dico;come,Cantinauto reitalia nonnello dico come
+797,797,nano;sa;telai;nove,U nano IO sa telai nove LA,Una;nazione;satelitale,Una nazione satelitale
+798,798,remi;seno;vela,T remi S seno vela D Y,Tre;miss;e;nove;lady,Tre miss e nove lady
+799,799,Ate;alette;amante,M Ate RI alette R amante,Materie;letteramate,Materie letteramate
+800,800,erba;muta;tasti,S erba RIM muta tasti M A,Serbar;immutata;stima,Serbar immutata stima
+801,801,Poe;Adidas;ali,Poe SI Adidas C ali CA,Poesia;disadescali,Poesia disadescali
+802,802,teste;di;urne,PRO teste di urne,Proteste;diurne,Proteste diurne
+803,803,picco;Eva;Eros,picco L Eva SCH Eros A,Piccole;vacher;osa,Piccole vacher osa
+804,804,colli;netta;chef;agro,colli netta chef agro,Collinetta;che;fagro,Collinetta che fagro
+805,805,sette;aride,sette RIR aride SE,Setteri;ridicolise,Setteri ridicolise
+806,806,pie;Eva,pie D Eva LGO,Piede;valgo,Piede valgo
+807,807,bricco;nero;antico,bricco nero M antico,Briccone;romantico,Briccone romantico
+808,808,di;scodella;tra,di scodella C tra S,Disco;della;catras,Disco della catras
+809,809,re;amo;in;onda,re C L amo in F onda TO,Reclamo;infondato,Reclamo infondato
+810,810,tempio;uri,tempio S C uri,Tempi;oscuri,Tempi oscuri
+811,811,accetta;eco;si;liuti,accetta R eco N si G liuti LI,Accettare;consigli;utili,Accettare consigli utili
+812,812,ante;Adige;va,L AL ante RN Adige NO va,La;lamenta;re;nadin,La lamenta re nadin
+813,813,vetri;tine,N O vetri E S tine,Nove;triestine,Nove triestine
+814,814,Alpi;tea;tesa,P Alpi TAN tea T tesa,Palpitante;attesa,Palpitante attesa
+815,815,omonimi;ape;etto,GI omonimi C ape RF etto,Giomonomica;perfetto,Giomonomica perfetto
+816,816,radi;nate;remi,G radi nate G remi T E,Gradinata;gremita,Gradinata gremita
+817,817,tesa;Ionio;rose,MOL tesa NZ Ionio N E rose,Molte;sanzioni;onerose,Molte sanzioni onerose
+818,818,oli;noci;antenne,T OP oli noci N Q U antenne,Topolino;cinquantenne,Topolino cinquantenne
+819,819,tag;diva;rime,S tag E diva rime SI,Stage;di;vari;mesi,Stage di vari mesi
+820,820,radici;aste;agli,F radici aste R P agli A,Fradicia;sterpaglia,Fradicia sterpaglia
+821,821,avo;ora;nato,L avo R ora FFI nato,Lavoro;raffinato,Lavoro raffinato
+822,822,ali;erta,L ali B erta,La;libertà,La libertà
+823,823,Allen;are;eredi,Allen T are L eredi N I,Allentare;le;redini,Allentare le redini
+824,824,are;etto,F are FF etto,Far;effetto,Far effetto
+825,825,pieno;tede;lati,COP pieno tede L lati VU,Coppie;note;della;tivù,Coppie note della tivù
+826,826,est;remo;rigo;re,est remo rigo re,Estremo;rigore,Estremo rigore
+827,827,ala;coni;chiostro,C ala M A I coni N chiostro,Calamai;con;inchiostro,Calamai con inchiostro
+828,828,tra;man;uova,tra man uova,Trama;nuova,Trama nuova
+829,829,neve;ali,PIN neve N TR ali,Pinev;entrali,Pinev entrali
+830,830,si;compenso;menta,MU si compenso O R menta,Musico;per;sensazione,Musico per sensazione
+831,831,oli;mente;angi;oca;tori;tomaia,S oli TA mente F angi GI oca tori D A T tomaia,Solitamente;fra;gli;g;giocatori;d;attomia,Solitamente fra gli giocatori d'attomia
+832,832,menti;pia;oli,M O menti pia CE V oli,Momenti;piacevoli,Momenti piacevoli
+833,833,osso;lana;mici,GR osso lana CO mici TA,Grossolana;comicità,Grossolana comicità
+834,834,con;danza;intere,con COR danza D intere SSI,Concordanza;d;interessi,Concordanza d'interessi
+835,835,ave;avo;cero,ave R L avo cero CA,Aver;la;voce;roca,Aver la voce roca
+836,836,raggio;oli;tic,CO raggio SAP oli tic A,Coraggiosa;politica,Coraggiosa politica
+837,837,in;ile;orzo,in U T ile SF orzo,Inutile;sforzo,Inutile sforzo
+838,838,rivo;epa;rose,rivo L T epa U rose,Rivolte;paurose,Rivolte paurose
+839,839,sporta;remo;tori,E sporta remo L tori S O,Esportare;molto;riso,Esportare molto riso
+840,840,pira;remo;tasti,IS pira remo L tasti MA,Ispirare;molto;stima,Ispirare molto stima
+841,841,ambi;tee;re;dita,ambi tee re dita,Ambite;eredità,Ambite eredità
+842,842,alano;autori,alano I F autori,Alano;ifautori,Alano ifautori
+843,843,tana;si,AL tana S si,Altana;assisi,Altana assisi
+844,844,va;va;espressi,E va SI va espressi ON E,Evasion;espressione,Evasion espressione
+845,845,sigle;seri,FAL sigle seri E,Falsi;gleserie,Falsi gleserie
+846,846,ali;nasi;liana,S ali nasi C I liana,Salina;siciliana,Salina siciliana
+847,847,Po;rete;poli,Po VE rete N D O poli,Povere;tendopoli,Povere tendopoli
+848,848,rizzato;reni;lista,SC rizzato reni CH I lista,Scrittore;nichilista,Scrittore nichilista
+849,849,pia;rete;reni,S pia NA rete R reni,Spianare;terreni,Spianare terreni
+850,850,lama;oca;oca;oca,lama T oca L CI oca RI oca,L;amato;calciò;Carioca,L'amato calciò Carioca
+851,851,in;lire;ami,in U T I lire C L ami,Inutili;reclami,Inutili reclami
+852,852,serra;ante,LA serra D I ante,Lasse;raddiante,Lasse raddiante
+853,853,paperelle;alata,RA paperelle NS alata,Rapa;per;elensalata,Rapa per elensalata
+854,854,pia;re;con;divi,pia C E re con divi SO,Piacerè;condomizio,Piacerè condomizio
+855,855,rive;rive;chiavi,rive D E rive C chiavi,Riveder;i;vecchi;avi,Riveder i vecchi avi
+856,856,menta;ore;pero,MO menta NE ore CU pero,Momentaneo;recupero,Momentaneo recupero
+857,857,con;ori;figura,con T ori F figura,Conto;rifiuga,Conto rifiuga
+858,858,tre;maghi;otto;neri,E S tre maghi otto neri A,Estrema;ghiottoneria,Estrema ghiottoneria
+859,859,curie;Sem,OS curie Sem PI,Oscuri;esempi,Oscuri esempi
+860,860,mahout;ossa,mahout OL ossa L I,Mahou;tolosali,Mahou tolosali
+861,861,rada;stiva;pera;vere;etto,TA rada S stiva RE pera vere I L N etto,Tara;da;stivare;per;avere;il;netto,Tara da stivare per avere il netto
+862,862,ara;dio;Era,UN ara dio LI B Era,Una;radio;liberà,Una radio liberà
+863,863,bacca;erbe,bacca L erbe D O,Baccala;rebedo,Baccala rebedo
+864,864,gibboni;re;eco;luccio,A gibboni N re T eco L luccio,Agibo;nin;rete;colluccio,Agibo nin rete colluccio
+865,865,melo;di;amo;sedile;ha,melo di EF amo sedile ha R,Melodie;famose;di;Lehar,Melodie famose di Lehar
+866,866,irato;reo;timo,T irato reo T timo,Tiratore;ottimo,Tiratore ottimo
+867,867,orata;cagna,M orata C cagna,Mora;taccagna,Mora taccagna
+868,868,rime;rime;orti,OPP rime rime N O F orti,Opprimer;i;mene;forti,Opprimer i mene forti
+869,869,colt;Che;fa;Cile,colt Che fa Cile,Coltche;facile,Coltche facile
+870,870,sante;irosa,CRI sante M irosa,Crisantemi;rosa,Crisantemi rosa
+871,871,Po;sorci;si,S Po N sorci NE si,Sponsor;cinesi,Sponsor cinesi
+872,872,seme;isba;lime,seme DIT isba G lime N O,Se;mediti;sbagli;meno,Se mediti sbagli meno
+873,873,setter;oste;ali;peri;orso;remi,setter ISP oste V ali D E peri L CO NC orso A P remi,Sette;risposte;valide;per;il;concorso;a;premi,Sette risposte valide per il concorso a premi
+874,874,porta;tiretti;fiche;porta,IM porta N tiretti fiche AP porta TE,Importanti;rettifiche;apportate,Importanti rettifiche apportate
+875,875,ciocca;sale;oli,CUO ciocca ST sale MAI oli,Cuoci;oca;stasale;m;aiolii,Cuoci oca stasale m aiolii
+876,876,regge;palla;di,regge palla di AN E,Regge;palladiane,Regge palladiane
+877,877,pesco;volto,PO pesco N volto,Pope;sconvolto,Pope sconvolto
+878,878,teso;erta,AR teso FF erta,Arte;sofferta,Arte sofferta
+879,879,rovi;naso;tane,P rovi N naso N tane,Provinnaso;natanè,Provinnaso natanè
+880,880,versi;nidi;rette,versi O nidi P E rette,Versioni;d;iperette,Versioni d'iperette
+881,881,medi;Cile,E SA medi FFI Cile,Esame;difficile,Esame difficile
+882,882,irlandese;micio;Ande,OSP irlandese micio L Ande SI,Ospirale;semi;ciolandesi,Ospirale semi ciolandesi
+883,883,lista;dame;cani,SO lista R dame R I cani,Solidar;damericani,Solidar damericani
+884,884,Coppi;menti;ori;ali,A C Coppi A menti ori G I N ali,Accoppiamenti;originali,Accoppiamenti originali
+885,885,lista;epa;sale,lista NT epa S sale STO,L;istante;passa;lesto,L'istante passa lesto
+886,886,Matera;saio;pero,Matera S saio O pero SO,Materassai;operoso,Materassai operoso
+887,887,zia;tratto;polli,VI zia tratto A M polli,Viziatr;attompoli,Viziatr attompoli
+888,888,ape;nane;osa,UN ape RSO nane RV osa,Una;persona;nervosa,Una persona nervosa
+889,889,sta;per;dar,sta M per A dar,Stampa;dar;dati,Stampa dar dati
+890,890,porta;icone;re;maga;ante,COM porta RS icone ST re maga L ante RIA,Comportarsi;con;estrema;galanteria,Comportarsi con estrema galanteria
+891,891,pero;tane,OR pero N tane,Orpe;rontane,Orpe rontane
+892,892,eredi;mani;ala,E SS eredi mani C ala RGA,Essere;di;manica;larga,Essere di manica larga
+893,893,re;para;dama;gire,P re para R E dama N gire,Preparare;da;mangire,Preparare da mangire
+894,894,la;nona;nodi;gente,la L UN nona nodi L I gente,L;alunno;non;diligente,L'alunno non diligente
+895,895,tra;noci;noce,S tra noci C A noce,Strano;cicanoce,Strano cicanoce
+896,896,calzoni;ape;oli;Era,S calzoni T ape T R oli F Era,Scalzone;tipetrollo,Scalzone tipetrollo
+897,897,serti;pii;lenti,ES serti pii ND O lenti,Esser;tipi;indolenti,Esser tipi indolenti
+898,898,ari;posta;motore;aria,U N ari S posta motore RI T aria,Una;risposta;motoreritaria,Una risposta motoreritaria
+899,899,serve;re;su,ES serve re su DI,Esser;veresudì,Esser veresudì
+900,900,rive;Siviglia;Chieti;Chio,rive LAR Siviglia C Chieti R Chio NI,Rivelarsi;vigiliacci;e;tirchioni,Rivelarsi vigiliacci e tirchioni
+901,901,pari;oro;tic,V I pari ST oro tic O,Vip;aristrocatico,Vip aristrocatico
+902,902,col;velo;lana,col velo lana,Colv;elana,Colv elana
+903,903,asse;soda;oca;oro;mente,asse N soda T oca L oro S A mente,Assenso;dato;calmamente,Assenso dato calmamente
+904,904,di;ore,E di P ore,Edipo;re,"""Edipo re"""
+905,905,orme;cobra,EN orme cobra TO,Enorme;cobro,Enorme cobro
+906,906,ala;ara,UN ala C UN ara RA,Una;lacuna;rara,Una lacuna rara
+907,907,ottico;orate,B ottico L orate,Botti;colorate,Botti colorate
+908,908,lepri;tris;alano,lepri M E tris S alano,Le;prime;triss;alano,Le prime triss alano
+909,909,Inter;stadi;ferita,Inter V I stadi F ferita,Intervista;differita,Intervista differita
+910,910,orari;mine,DI M orari mine SE,Diorar;iminiese,Diorar iminiese
+911,911,orci;la;mi,CO L orci C la mi NO,Color;ciclamino,Color ciclamino
+912,912,maniche;fitte,U maniche N fitte,Umani;chenitte,Umani chenitte
+913,913,dingo;teli,RE dingo teli S A,Redingote;lisa,Redingote lisa
+914,914,angelo;orate,FR angelo G orate,Frange;logorate,Frange logorate
+915,915,Bacco;ente,PU Bacco GLI ente,Puc;accogliente,Puc accogliente
+916,916,slide;latte,TE slide latte SA,Tesli;d;elattea,Tesli d'elattea
+917,917,rade;anta,LO rade I F anta SMI,L;ora;dei;fantasmi,L'ora dei fantasmi
+918,918,ambi;rie;lenticchia;gora,C ambi A rie L lenticchia gora TO,Cambiare;il;lenti;chichagoro,Cambiare il lenti chichagoro
+919,919,ara;fari,F ara F fari,Far;affari,Far affari
+920,920,pera;tori;pero,DIS pera tori C U pero,Disparato;ricupero,Disparato ricupero
+921,921,don;ape;camino,don N ape C camino SA,Donna;pecaminosa,Donna pecaminosa
+922,922,ara;piedi;retti,D ara M piedi retti VE,Dar;ampie;direttive,Dar ampie direttive
+923,923,di;trattore;viso,di S trattore viso RE,Distratto;revisore,Distratto revisore
+924,924,eco;rosone;zio,D eco rosone G O zio,Decoro;soneggio,Decoro soneggio
+925,925,ambi;oche;pera;amo,B ambi N oche O pera amo DO,Bambino;che;opera;a;modo,Bambino che opera a modo
+926,926,Eros;nato;redini,FI Eros E nato redini ZZA,Fiero;senatore;di;Nizza,Fiero senatore di Nizza
+927,927,odi;tait;ali,P odi S tait ali ANO,Podista;italiano,Podista italiano
+928,928,dana;assi;ante,IN dana assi L L ante,Indiana;assillante,Indiana assillante
+929,929,arti;adipe;pero,P arti T adipe pero NI,Partita;di;peporoni,Partita di peporoni
+930,930,ago;resto;lati,AR ago STA resto lati N A,Argostar;estro;latina,Argostar estro latina
+931,931,Costa Rica;ape,AC Costa Rica N ape,Accostar;i;canapé,Accostar i canapé
+932,932,Arc;redi,F Arc redi T O,Far;credito,Far credito
+933,933,Vasco;retta,BRA Vasco LA retta,Brava;scolaretta,Brava scolaretta
+934,934,conta;nove;celle,conta DI nove R celle S E,Contadino;vercellese,Contadino vercellese
+935,935,fra;telai,fra telai C O,Frate;lacio,Frate lacio
+936,936,staffa;erica,staffa M erica NO,Staff;americano,Staff americano
+937,937,nidi;ari;posta,U nidi O T ari S posta,Un;idiota;risposta,Un'idiota risposta
+938,938,celle;atomo;laccio,S celle R atomo NEL laccio,Scellerato;monellaccio,Scellerato monellaccio
+939,939,avi;tana;Ural,C avi tana T Ural I,Cavità;naturali,Cavità naturali
+940,940,prete;ode,prete SAM ode STA,Pretesa;modesta,Pretesa modesta
+941,941,musi;capo;polari,musi capo polari,Musicà;popolari,Musicà popolari
+942,942,re;vivi;Giacomo,B re vivi AG Giacomo,Brevi;viaggi;a;Como,Brevi viaggi a Como
+943,943,unto;petti,unto U petti NT O,Un;topetto;intinto,Un topetto intinto
+944,944,lama;liane,lama G liane R A,La;maglia;nera,La maglia nera
+945,945,con;dirige;menti,con dirige N Z I A menti,Condire;gentilmente,Condire gentilmente
+946,946,uncini;raggi,uncini CO raggi RO,Un;cinico;rigoroso,Un cinico rigoroso
+947,947,peri;do;re;ante,peri O do S T re SS S ante,Periodo;stressante,Periodo stressante
+948,948,rea;mi;Cipro;tetti,T rea mi Cipro tetti V I,Tre;amici;protettivi,Tre amici protettivi
+949,949,cam;isola,cam P isola TII,Campi;solatii,Campi solatii
+950,950,Dante;aro;china,BA Dante M aro C china,Badante;marocchina,Badante marocchina
+951,951,Ra;deserto;gale,G Ra N deserto R E gale,Grande;serto;regale,Grande serto regale
+952,952,Aida;reo,R Aida E reo,Raid;aereo,Raid aereo
+953,953,pere;tori;sposi;di;legge,pere N tori E DI sposi ZI O NI di legge,Perentorie;disposizioni;di;legge,Perentorie disposizioni di legge
+954,954,neo;dio;petti,neo E dio S O S petti,Neo;Edison;ospetti,Neo Edison ospetti
+955,955,pie;Atene,pie TR Atene RA,Pietra;tenera,Pietra tenera
+956,956,con;su;toro;oca;coda;ali,con su E toro T oca L coda TTU ali T A,Consumo;rotocalco;d;attualità,Consumo rotocalco d'attualità
+957,957,carter;tori,MAR carter RI tori,Marcar;territori,Marcar territori
+958,958,rada;ombra,ST rada SG ombra,Strada;sgombra,Strada sgombra
+959,959,nave;asce;dente,NO nave R asce N dente,Non;aver;ascendente,Non aver ascendente
+960,960,rea;zia;nidi;si,T rea N zia nidi M E S si,Tre;anziani;dimessi,Tre anziani dimessi
+961,961,pediatri;iri;ali,C OL pediatri D iri V ali,Colpe;di;attri;dirivi,Colpe di attri dirivi
+962,962,polla;lori;ratto;nota,polla IO lori T ratto DI G nota,Pollaio;ritratto;d;ignota,"Pollaio: ""ritratto d'ignota"""
+963,963,mais;ras;re;alani;are,mais A ras E re N alani M are A,Mai;sara;serena;l;anima;rea,Mai sara serena l'anima rea
+964,964,sedia;coli,CA sedia S coli,Case;di;Ascoli,Case di Ascoli
+965,965,stan;chef;rasi;diamanti,stan chef rasi diamanti,Stanche;frasi;di;amanti,Stanche frasi di amanti
+966,966,ascia;asola,L ascia T asola,Lasciata;sola,Lasciata sola
+967,967,rea;rapa;rosa,C rea TU rapa U rosa,Creatura;paurosa,Creatura paurosa
+968,968,Tevere;sette,Tevere I sette,Teve;reisette,Teve reisette
+969,969,odoroso;rosa;piegata,V odoroso rosa IM piegata,Vodorosai;impiegata,Vodorosai impiegata
+970,970,reo;pardi;amo,P reo C CU pardi CL amo,Preoccupardi;clamore,Preoccupardi clamore
+971,971,Aro;Maria,C Aro FU Maria,Caro;fumario,Caro fumario
+972,972,vie;forni,A vie forni A NO,Avi;eiforniano,Avi eiforniano
+973,973,gru;piedi;ali,gru P piedi T O R I ali,Gruppi;editoriali,Gruppi editoriali
+974,974,gin;are;barba;mento,AR gin are LI M barba RI mento,Arginare;l;imbarbarimento,Arginare l'imbarbarimento
+975,975,avi;acido;nata;eco,L avi T acido nata NT eco SE,La;vita;ci;dona;tante;cose,La vita ci dona tante cose
+976,976,metri;oli;ami;lane,metri P oli T A N ami lane SE,Metripolitana;milanese,Metripolitana milanese
+977,977,ceri;posa,LU ceri posa NTE,Luce;riposante,Luce riposante
+978,978,ora;redi;involto,ora T O redi S involto,Oratore;disinvolto,Oratore disinvolto
+979,979,fili;stie;rea;latta,fili B U stie rea L latta CCO,Filibustiere;all;attacco,Filibustiere all'attacco
+980,980,Tell;ava;la,Tell Y S ava la S,Tellì;salvàs,Tellì salvàs
+981,981,Po;rema;china;riva,IM Po RTA rema C china riva RI,Importare;macchinari;vari,Importare macchinari vari
+982,982,leve;Tevere;onde,leve E N Tevere C onde,Le;venti;vereconde,Le venti vereconde
+983,983,mina;rema;are,ELI mina rema L W are,Eliminare;malware,Eliminare malware
+984,984,Ischia;redi;arsi,R Ischia redi SO L arsi,Rischiare;d;isolarsi,Rischiare d'isolarsi
+985,985,rive;rete;perla;dio,S C rive rete STI perla R A dio,Scrivere;testi;per;la;radio,Scrivere testi per la radio
+986,986,peri;otri;lato,peri O D otri BO lato,Periodo;tribolato,Periodo tribolato
+987,987,asso;mento;rio,asso R TI mento VA rio,Assortimento;vario,Assortimento vario
+988,988,Atena;Era;azze,SC Atena T Era G azze,Scatenate;ragazze,Scatenate ragazze
+989,989,viola;lepri;pio,IN viola BI lepri NCI pio,Inviolabile;principio,Inviolabile principio
+990,990,cola;re;naso;mari;ante,VI N cola re U naso M mari L E V ante,Vincolare;una;somma;rilevante,Vincolare una somma rilevante
+991,991,ambi;ori;rovo,ambi G U ori T rovo,Ambiguo;ritrovo,Ambiguo ritrovo
+992,992,via;santi,A via N santi,Avi;ansanti,Avi ansanti
+993,993,su;rema;ile,su O rema DR ile N E,Suore;madrine,Suore madrine
+994,994,nei;ori;alte;nano;pia;ceri;idolo,nei C U ori S I alte R nano I pia ceri E idolo RI,Nei;cuori;si;alternano;i;piaceri;e;i;dolori,Nei cuori si alternano i piaceri e i dolori
+995,995,etti;divi;Tell,F etti NA divi Tell O,Fettina;di;vitello,Fettina di vitello
+996,996,Ofidi;menti,Ofidi NE A menti,Ofidi;neamenti,Ofidi neamenti
+997,997,antina;re;fate;merli;ora,T antina re S I A fate merli N G ora,Tanti;narezia;fa;temer;l;ingiura,Tanti narezia fa temer l'ingiura
+998,998,nona;bando;rema;sorriso;avi,nona B bando NA rema sorriso TT avi A,Non;abbandonare;mas;or;riso;tta,Non abbandonare mas or riso tta
+999,999,orma;di;pianeta,F orma di S pianeta SA,Forma;dispietasa,Forma dispietasa
+1000,1000,lago;costa;esca;api;aia,lago CC IA costa NT esca V AL api ET aia,La;giocca;costante;scava;la;pietà;aià,La giocca costante scava la pietà aià
+1001,1001,tastiera;capre;su,DA tastiera RI capre su NTA,Data;stiera;resistente,Data stiera resistente
+1002,1002,ari;buche;mais,C ari buche E M I mais,Caribu;che;emiamais,Caribu che emiamais
+1003,1003,amo;radi;tonici,UN amo ST radi tonici T TE,Una;mostra;di;tonicine,Una mostra di tonicine
+1004,1004,rada;torcia,ST rada torcia NDO,Strada;torcendo,Strada torcendo
+1005,1005,tra;Diana;Ati,tra T T Diana L IC Ati,Trattid;anal;iccati,Trattid anal iccati
+1006,1006,si;tema;dotto,si S tema R I dotto,Sistema;ridotto,Sistema ridotto
+1007,1007,parti;tea;aletta;colo,parti tea aletta colo,Partite;a;Alettacolo,Partite a Alettacolo
+1008,1008,atto;divi;iris;nato,PI atto divi TE L iris N nato,Piatto;di;vitelir;innato,Piatto di vitelir innato
+1009,1009,la;nota;coni;ala,la nota coni N S ala TA,Lanotato;con;insalata,Lanotato con insalata
+1010,1010,su;sardina,su A sardina NNI,Suasardi;nanni,Suasardi nanni
+1011,1011,Pan;mine,C A Pan mine S I,Capami;ninesi,Capami ninesi
+1012,1012,volano,RI volano,Rivo;lano,Rivo lano
+1013,1013,cerimonie;ori;colo,DI cerimonie ori DI colo,Diceri;moniori,Diceri moniori
+1014,1014,armi;nectar,armi G nectar RMI,Armigente;ct;rmi,Armigente ct rmi
+1015,1015,Como;noci,I Como noci R,Icomon;occisor,Icomon occisor
+1016,1016,cola;re;lodo,S E cola re C A lodo,Secolare;calodo,Secolare calodo
+1017,1017,legge;aperto,legge R aperto SSE,Leggera;protesse,Leggera protesse
+1018,1018,Poggio;ioni,IM Poggio S ioni,Impoggi;osioni,Impoggi osioni
+1019,1019,nasi;ring;riva;lorenzo;lago,U nasi ring A P riva lorenzo lago,Una;sirina;prima;viol;Enzo,Una sirina prima viol'Enzo
+1020,1020,re;dama;sarda,F re D dama N sarda,Fredda;mansarda,Fredda mansarda
+1021,1021,signor;somale,signor I O somale,Signorioso;male,Signorioso male
+1022,1022,ceri;fiume,D I ceri AF fiume,Diceria;fiume,Diceria fiume
+1023,1023,spavalda;fetta,MO spavalda F fetta,Mospa;valdaffetta,Mospa valdaffetta
+1024,1024,re;ciminiere;are;dita,re P LI ciminiere are B A dita,Replica;miniera;reperita,Replica miniera reperita
+1025,1025,micio;rovello,O micio NC rovello,Omi;ci;ovello,Omi ci ovello
+1026,1026,su;dentista;di,su A dentista N di STI,Suadenti;stantisti,Suadenti stantisti
+1027,1027,nata;re;rena;re,U nata P re rena ICA re UR,Una;tappe;renaiacare;un;amor,Una tappe renaiacare un amor
+1028,1028,seri;col;medico;serio;nate,CA S seri col medico serio R D I nate,Casse;ricolme;di;cose;riordinate,Casse ricolme di cose riordinate
+1029,1029,leva;reale;otre;tino,leva reale L otre N tino,Le;vareale;lottrentino,Le vareale lottrentino
+1030,1030,vere;torri,A vere P RE torri,Avere;pretori,Avere pretori
+1031,1031,Sudan;raffinati;cieco;gole,Sudan raffinati B I cieco N gole SI,Sudanra;finati;b;iciecongolesi,Sudanra finati b iciecongolesi
+1032,1032,mici;ara;amaro,A mici ZI ara FF amaro,Amicizia;raffamamaro,Amicizia raffamamaro
+1033,1033,Pitt;tesi;lista,Pitt U tesi M B O lista,Pittute;simbolista,Pittute simbolista
+1034,1034,punti;in;va;tesi,S punti in NO: va T tesi,Spunti;innovatesi,Spunti innovatesi
+1035,1035,con;attiva,con T attiva NI,Contatti;vani,Contatti vani
+1036,1036,assi;Ande;tini,N assi CL Ande S tini,Nasi;cl;andestinini,Nasi cl andestinini
+1037,1037,dente;ontano;edile;nano,STU dente S ontano AL edile G nano,Studentesontano;allevi;la;legnano,Studentesontano allevi la legnano
+1038,1038,anta;casa;mina;zia,F anta STI casa mina L I zia,Fantastica;casa;mineralizia,Fantastica casa mineralizia
+1039,1039,gallo;nidi;gente,I gallo nidi S E R gente,I;gallovi;di;sergente,I gallovi di sergente
+1040,1040,netta;Sircana;esca,SCE netta Sircana C C esca,Scenetta;siracusana,Scenetta siracusana
+1041,1041,rio;Saba;agli,FU rio Saba TT agli A,Furiosa;battaglia,Furiosa battaglia
+1042,1042,lima;Ovidio;asse;renato,C lima T Ovidio IR asse renato SI,Clima;tovi;Dio;irasserenatosi,Clima tovi Dio irasserenatosi
+1043,1043,lacca;tampa;redi;ode,lacca DE tampa LI TA redi M ode NA,L;accadetam;palitare;di;moderna,L'accadetam palitare di moderna
+1044,1044,cerimonia;mele;ali,P E cerimonia R mele G ali,Peceri;moni;armele,Peceri moni armele
+1045,1045,tori;Bello,O RA tori Bello A NI,Oratori;belloani,Oratori belloani
+1046,1046,con;ultime;Icaro,I con S ultime Icaro,I;consul-;timico,I consul-timico
+1047,1047,peri;come;bidone,peri OD I come R bidone,Periodico;meridione,Periodico meridione
+1048,1048,reo;est;oste;dadi,AE reo CH est oste C dadi R RA,Aereo;che;sto;ste;cadadi;rarra,Aereo che sto ste cadadi rarra
+1049,1049,anta;negri;assi,P anta L O negri assi A RO,Pantalone;grigia;siaro,Pantalone grigia siaro
+1050,1050,tris;essi;Ti,O tris essi Ti,Otri;sessitivi,Otri sessitivi
+1051,1051,campana,campana TI,Campa;nati,Campa nati
+1052,1052,nani;asiati;lare,U nani asiati NGO lare,Un;aniasi;atingolare,Un aniasi atingolare
+1053,1053,pali;VI;in;eretto,pali N VI in S C Eretto,Palinvinser;eretto,Palinvinser eretto
+1054,1054,alloro;rame;temi;Ra,P alloro rame N temi S E Ra,Palo;roramente;misera,Palo roramente misera
+1055,1055,olla;steno;nidi;ago,CER olla steno MP A G nidi SV ago,Cerolla;stenogram;pagnidisi;va;going,Cerolla stenogram pagnidisi va going
+1056,1056,ali;divo;Erie;pedali,V ali divo L Erie S pedali E RI,Validi;volerie;speditieri,Validi volerie speditieri
+1057,1057,raggio;oca;otri;buca;anche,CO raggio S oca P otri buca M anche S,Coraggioso;capo;trito;rubacamano,Coraggioso capo trito rubacamano
+1058,1058,porci;scia;di;vite,T O porci scia di vite LLO,Toporci;scia di;vi;tellino,Toporci scia di vi tellino
+1059,1059,conte;nero;more;anno;are;dotti;ori,conte nero A more S anno A M are I dotti T ori,Con;tenero;amor;esano;amare;i;dottori,Con tenero amor esano amare i dottori
+1060,1060,ila;idra,N ila SS idra,Nila;Siddharta,Nila Siddharta
+1061,1061,corto;Sesia;netta,AC corto Sesia netta,Accorto;scenetta,Accorto scenetta
+1062,1062,amo;etto;onda,amo P etto F onda TO,Amopetto;fondato,Amopetto fondato
+1063,1063,sarde;testa;lima;re,U sarde testa BI lima NI E re,Usar;detestabili;maniere,Usar detestabili maniere
+1064,1064,muro;ante,PO muro VI G ante,Pomuro;vigante,Pomuro vigante
+1065,1065,pelli;scuri;onde;lessati;ossi,CA pelli scuri C onde IR IF lessati R ossi,Capelli;scuri;con;dei;rielessa;trosso,Capelli scuri con dei rielessa trosso
+1066,1066,Al;topo;lacci,Al topo S O lacci,Alto;posolacci,Alto posolacci
+1067,1067,dive;astri,P A dive R astri,Padiverse;astristi,Padiverse astristi
+1068,1068,seno;amo;palla,RO seno N amo S palla TE,Rose;non;amospa;lallate,Rose non amospa lallate
+1069,1069,ratto;arpa;eclissi,ratto P P arpa N T eclissi,Rattoppar;pantecissi,Rattoppar pantecissi
+1070,1070,lobi,lobi R A,Lobia;ria,Lobia ria
+1071,1071,cieco;avi;rosa,S cieco T avi GO rosa,Sciecotavi;gorosaia,Sciecotavi gorosaia
+1072,1072,con;auto;viola,con C auto viola FF,Concaut;viola,Concaut viola
+1073,1073,arca;odi;eredi,M arca T odi V eredi,Marcato;diveredi,Marcato diveredi
+1074,1074,asta;lenzuola;are,B asta PO lenzuola DI are,Basta;pole;noi;adiare,Basta pole noi adiare
+1075,1075,zie;dei;Risi,A zie N dei NC Risi,Aziende;in;Crisi,Aziende in Crisi
+1076,1076,lame;tela;amaro;radio;cere,lame N tela S M amaro S radio S cere,Lamentela;smamara;osr;adorisco,Lamentela smamara osr adorisco
+1077,1077,ami;soldi;aro;Po;ovali,ami C O soldi P aro LE Po C ovali,Amico;sol;di;parole;poco;vali,Amico sol di parole poco vali
+1078,1078,vinto;Iole,PRI vinto Iole LE,Privintoi;oiele,Privintoi oiele
+1079,1079,rovi;amo;mani;radi;rosi,T rovi amo L A mani E radi A rosi,Troviamo;la;maniera;di;arrossi,Troviamo la maniera di arrossi
+1080,1080,tris;carceri,VE tris P carceri,Vetri;spaccati,Vetri spaccati
+1081,1081,ibis;Enza;arti;ari;stanze;Lina,C ibis Enza P arti C OL ari SO stanze Lina NTI,Cibi;senza;particolari;sostanze;linanti,Cibi senza particolari sostanze linanti
+1082,1082,in;stoviglia;in;ozio,in stoviglia BIL in ozio NI,Instovigliabili;nozioni,Instovigliabili nozioni
+1083,1083,scienziati;asso,FRE scienziati asso SO,Fresci;enziatiasso,Fresci enziatiasso
+1084,1084,sci;irredenta,sci OP irredenta TTO,Scoprire;da;tto,Scoprire da tto
+1085,1085,redi;spugna;ali,P redi spugna M IN ali,Predispugn;aminali,Predispugn aminali
+1086,1086,pera;Sircana;esca,O pera Sircana C C esca,Opera;sincanaccesca,Opera sincanaccesca
+1087,1087,di;foo;sesto,di F foo sesto RIE,Diffuse;estorie,Diffuse estorie
+1088,1088,scola;tati;curie;Nino;rosi,scola tati curie Nino rosi,Scolata;tatica;u;rinorosi,Scolata tica u rinorosi
+1089,1089,proiettile;serba,proiettile serba,Proietti;leserbà,Proietti leserbà
+1090,1090,tela;alto;saggi,tela L I alto A E saggi,Teli alto;aesaaggi,Teli alto aesaaggi
+1091,1091,sola;CT;osa;dive,LI sola CT I osa dive RNE,L;isola;ctiòsa;di;Verne,L'isola ctiòsa di Verne
+1092,1092,indice;manopola,QU indice SI manopola,Quindicessima;nozione,Quindicessima nozione
+1093,1093,avi;nidi;latta,T avi nidi C A latta,Tavini;di;Calabria,Tavini di Calabria
+1094,1094,agave;ami;are,L agave TT ami L IT are,La;gavetta;militare,La gavetta militare
+1095,1095,con;ebe;rei;la,con QU I ebe rei N C la LI,Conquiebere;incal;zilanci,Conquiebere incal zilanci
+1096,1096,bar;bar;coppe;Era,bar bar coppe Era,Barbarossa;perea,Barbarossa perea
+1097,1097,coni;fon;armo;corte;si;ovali,coni CA fon I US armo DI corte si P OC ovali,Con;i;cafoni;usar;modi;cortesi;poco;vali,Con i cafoni usar modi cortesi poco vali
+1098,1098,fate;Cupido,fate DE Cupido SE,Fedecupi;dose,Fedecupi dose
+1099,1099,picco;papavero;Po,picco papavero Po,Piccoppa;vetro,Piccoppa vetro
+1100,1100,assi;bionda;tini,M assi M bionda N tini,Massimi;biondanti,Massimi biondanti
+1101,1101,vela;lenti,A vela N SU lenti,Avela;nuloscenti,Avela nuloscenti
+1102,1102,,,,attiva ND Babà C I
+1103,1103,coda;bus;tese,coda bus tese,Co;dabuste;seconde,Co dabuste seconde
+1104,1104,mesti;ceste,D O mesti ceste V A,Domeniste;stevà,Domeniste stevà
+1105,1105,usa;mina,BL usa mina,Blusa;mina,Blusa mina
+1106,1106,Bausa;mante,FU R Bausa R O mante,Furba;usarmante,Furba usarmante
+1107,1107,avo;sardine;in,TR avo sardine LV in O,Travozar;din;elvo,Travozar din elvo
+1108,1108,elica;tasca;teda;est,D elica tasca F teda L est E,Delicata;scatfa;tedalè,Delicata scatfa tedalè
+1109,1109,viola;ford;in;rio,viola F ford in A rio,Viola;fordinario,Viola fordinario
+1110,1110,oli;dalie;nani;Miami,S oli dalie MA G nani Miami CI,Solidali;e;magnanimi;amici,Solidali e magnanimi amici
+1111,1111,bachi;rada;ile,A L bachi A rada P R ile,Alba;chiaro;d;aprile,Alba chiaro d'aprile
+1112,1112,Idra;Ristic;olle,SE Idra C Ristic P olle,Sei;dracri;st;cipolle,Sei dracri st cipolle
+1113,1113,viola;perone;astri,viola S OT perone N C astri,Violasot;peroncasti,Violasot peroncasti
+1114,1114,onde;arrivate,W onde RF arrivate,Wonders;far;Wonders;arrivate,Wonders far (Wonders arrivate)
+1115,1115,con;tris;traina;assi,S con tris traina TI assi RO,Scontri;straining;a;t;iass,Scontri straining a t.iass
+1116,1116,nappa;mento;dio;osa,U nappa RTA mento dio T osa N Z E,Un;appartamento;di;oto;sane,Un appartamento di oto sane
+1117,1117,ave;maniero;vino,ave R E maniero vino SE,Avere;manie;rovinose,Avere manie rovinose
+1118,1118,nari;camino;prato,U nari C camino E prato NIO,Una;ricerca;minore;p;ration,Una ricerca minore p'ration
+1119,1119,chine;nane;teda,chine F A U nane teda NTO,Chi;ne;fa;una;ne;te;danto,Chi ne fa una ne te danto
+1120,1120,api;do;Giorgio;tino,S api do M E Giorgio S tino,Sapido;megi;ostinato,Sapido megi ostinato
+1121,1121,polo;odi;ossa,A polo G odi ossa P PA,Apologo;di;o;Sappiamo,Apologo di o. Sappiamo
+1122,1122,borgo;Semionov,RO borgo V I Semionov,Roborg;o;visemionov,Roborg o visemionov
+1123,1123,vento;Amman;Todi;lady,E vento Amman T A T A Todi lady O,Evento;ammantato;di;ladyo,Evento ammantato di ladyo
+1124,1124,aria;di;si,BI aria di SUI?,Biariadì;su;Ieri,Biariadì su Ieri
+1125,1125,rocca;severo;si,rocca severo N E si,Roccasever;onesi,Roccasever onesi
+1126,1126,uovo;oca;Lecco,N uovo V oca BO Lecco,Nuovo;vocabilecco,Nuovo vocabilecco
+1127,1127,pazzo;lira;nei,S pazzo L lira N T nei,Spazzolini;rantenei,Spazzolini rantenei
+1128,1128,stie;do,C O stie do I,Costi;edoi,Costi edoi
+1129,1129,porci;menta;Rodi;Ra;Stan;iracheno;cori,porci menta Rodi Ra Stan iracheno cori,Por;cimentato;rid;i;Ra;Stalinir;a;Chenoco,Por cimentato rid i Ra Stalinir a Chenoco
+1130,1130,conta;coli,conta TTO coli V E,Contatto;colive;nella,Contatto colive nella
+1131,1131,Volga;est;dente;salice,Volga R est U dente S salice ALE,Volgare;studentessa;liceale,Volgare studentessa liceale
+1132,1132,bocca;ara,bocca A M ara,Bocca;amara,Bocca amara
+1133,1133,losco,AL losco ND,Allo;scond,Allo scond
+1134,1134,vela;ritta,A vela MB ritta,Avela;mbrattata,Avela mbrattata
+1135,1135,ramo;nodo;si,T ramo N nodo S si,Tramonno;dossi,Tramonno dossi
+1136,1136,lago;eco;are,CA lago S eco L are,Calagose;collegi,Calagose collegi
+1137,1137,apro;basi;usci,UN apro basi usci TA,Una;proba;siscita,Una proba siscita
+1138,1138,manica;dive;assi,IM manica dive O CL assi C I,Immani;cadimenti;classici,Immani cadimenti classici
+1139,1139,lenti;geni,VA lenti geni E R I,Valenti;genieri,Valenti genieri
+1140,1140,est;Leopardi,est RO Leopardi ND,Estrole;pind,Estrole pind
+1141,1141,pila;mostra;pie,pila D RO mostra pie NO,Pi;ladromstra;pieno,Pi ladromstra pieno
+1142,1142,aia;pialla,G aia BIS pialla,Gaià;bispialla,Gaià bispialla
+1143,1143,attiva;razione,C attiva A E razione,Cattiva;aerazione,Cattiva aerazione
+1144,1144,toro;torre,OT toro torre ICI,Otto;rotore;italiani,Otto rotore italiani
+1145,1145,ossi;nari;paresi,ossi GE nari P paresi NI,Ossigenar;i;prepari,Ossigenar i prepari
+1146,1146,cava;lino;cefali,cava L lino DI cefali GNA,Cavallino;di;Cefalonia,Cavallino di Cefalonia
+1147,1147,un;quadro;dì;dono,un quadro dì dono,Un;quadro;di;Dono,Un quadro di Dono
+1148,1148,lessati;nari,RI F lessati LU nari,Rifflessa;tilarì,Rifflessa tilarì
+1149,1149,in;isola;lepre;messa,in isola B I lepre messa,Inisolabile;premessa,Inisolabile premessa
+1150,1150,Mina;mela;Ero,PO Mina U mela C Ero,Pomina;umelacero;miele,Pomina umelacero miele
+1151,1151,anca;rea;la;unta;osa;ito,M anca rea L la PP unta M EN osa B IL ito,Mancare;alla;puntamenosab;ilitò,Mancare alla puntamenosab ilitò
+1152,1152,re;la;fa,P re GIA la F fa,Pregiala;ffa,Pregiala ffa
+1153,1153,golosi;etti,S O golosi L etti,Sogol;osetti,Sogol osetti
+1154,1154,pia;tese;Como;rose,pia N tese C O Como M B rose,Piante;secco;combrose,Piante secco combrose
+1155,1155,attori;acacia;asta,PI attori C acacia DIP asta,Piatto;ricacca;di;pasta,Piatto ricacca di pasta
+1156,1156,torri;icona;tris;torri,SA torri icona L tris A torri I,Satori;icon;altri;satori,Satori icon altri satori
+1157,1157,vite,GRA vite,Gravi;teorie,Gravi teorie
+1158,1158,ari;posta;chela;ape;lessati,UN ari S posta chela S CI ape RP lessati,Una;risposta;che;lascia;plessati,Una risposta che lascia plessati
+1159,1159,attori;alberello,P I attori C alberello,Piatto;ricco,Piatto ricco
+1160,1160,la;scia;con;mas,la scia con mas TRO,L;ascia;con;master,L'ascia con master
+1161,1161,Pitt;scopa;sedile;ante,Pitt O RE scopa E sedile V ante,Pittoresco;paese;di;Levante,Pittoresco paese di Levante
+1162,1162,ellissi;mostra;vari;ori;va;ore;ente;ente,B ellissi mostra DI vari ori T RO va T ore C ente M ente,Bellissimo;stradivario;trovatore;contemporane,Bellissimo stradivario trovatore contemporane
+1163,1163,bachi;mi,BOM bachi mi CA,Bomba;chimica,Bomba chimica
+1164,1164,polli;dive;Rodi;grotte,A M polli N E dive T Rodi grotte NO,Ampolline;di;vetro;di;grotto,Ampolline di vetro di grotto
+1165,1165,Bello;asso,SAM Bello asso SA,Samba;lussososa,Samba lussososa
+1166,1166,orme;testa;lesto,P orme testa CI lesto,Portame;testa,Portame testa
+1167,1167,eredi;nono,C eredi nono TI,Ceredi;non;noti,Ceredi non noti
+1168,1168,indiani;anello;uno;ore,indiani I T R anello uno A M ore,In;dia;ni;itran;e;lunoa;amore,In dia ni itran e'lunoa amore
+1169,1169,Esse;rotti;Miami;Ci,Esse rotti Miami Ci,Esser;ottimi;amici,Esser ottimi amici
+1170,1170,odi;corti;lei,FOT odi corti NA lei VE,Foto;di;Cortina;leive;note,Foto di Cortina leive note
+1171,1171,tre;pie;mura,V E tre pie DI mura NO,Vetrepie;di;Murano,Vetrepie di Murano
+1172,1172,allievi;more;su;sul;avidi,allievi R U more sul S sultano I P avidi,Al;livi;rumore;sussultano;i;pavidi,Al livi rumore sussultano i pavidi
+1173,1173,pero;salice,O pero salice ALE,Operosa;liciale,Operosa liciale
+1174,1174,forte;nei;Qui;di;colpo,forte nei Qui di colpo,Forte;nei;quidico;lo;povo,Forte nei quidico lo povo
+1175,1175,trave;isole;serti;cani,AT trave R isole serti A FRI cani,Attraversio;leserti;africani,Attraversio leserti africani
+1176,1176,con;su;rosi;le;di;versi,con su rosi le di versi,Consumo;sile;diversi,Consumo sile diversi
+1177,1177,Elisa;ontano,C Elisa C ontano,Celisa;contano,Celisa contano
+1178,1178,rio;pero,B rio pero ALE,Briope;roiale,Briope roiale
+1179,1179,porta;in;data;ondata,porta B L in data S F ondata,Porta;blindata;sfondata,Porta blindata sfondata
+1180,1180,ellissi;leva;calvi,B ellissi leva DI calvi NO,Bellissile;vadi;di;Calvino,Bellissile vadi di Calvino
+1181,1181,Pitt;rare;reti,Pitt U rare P A reti,Pitturare;pareti,Pitturare pareti
+1182,1182,rotti;menta,rotti A F menta,Rottia;fermenta,Rottia fermenta
+1183,1183,colli;rosario,colli N E rosario V E,Colline;rosai;rive,Colline rosai rive
+1184,1184,cento;antina,PA N cento antina TA,Pance;ntinatina,Pance ntinatina
+1185,1185,Po;ara;pipa;nei,Po R T ara M pipa N T nei,Portar;ampi;pantanelli,Portar ampi pantanelli
+1186,1186,dio;driadi;Ra,O dio driadi T E Ra,Odiodi;adiatera,Odiodi adiatera
+1187,1187,dentice;ori,PRU dentice NS ori,Prudenti;censori,Prudenti censori
+1188,1188,lama;tram;ala;rima,lama E S tram ala C rima,La;maestra;malacrima,La maestra malacrima
+1189,1189,ovino;odi;sesto,R ovino S odi S sesto,Rovinoso;disastro,Rovinoso disastro
+1190,1190,bar;De;scalo,LI bar De scalo,Libar;dei;scalo,Libar dei scalo
+1191,1191,rete;ondata,PA rete SF ondata,Parete;sfondata,Parete sfondata
+1192,1192,ossa;aria,GR ossa BI aria,Grossa;baiaria,Grossa baiaria
+1193,1193,anello;aia,anello aia,Anello;aia,Anello aia
+1194,1194,attiva;cani,C attiva B cani,Cattiva;bocca,Cattiva bocca
+1195,1195,tela;anaconda;orso,ZE tela L anaconda LD orso,Zete;lananco;dal;nostro,Zete lananco dal nostro
+1196,1196,cimieri;Mosa,BO C cimieri U Mosa,Bocci;mieriosi,Bocci mieriosi
+1197,1197,pala;prodigio,VI pala TO prodigio,Villa;latorpigi,Villa latorpigi
+1198,1198,lari;ibisco;tini,lari N T ibisco T tini,Laringiti;bescottini,Laringiti bescottini
+1199,1199,Ciad;idra;ami,S Ciad idra G ami N E,Scia;di;dragamine,Scia di dragamine
+1200,1200,lato;roditori,lato roditori S A,La;toro;ditor,La toro ditor
+1201,1201,piramidi;lago,A M piramidi CA lago,Ampi;rami;di;calagno,Ampi rami di calagno
+1202,1202,amo;some;manico;ondine,F amo some R manico L ondine S E,Famoso;mercantino;colombinese,Famoso mercantino colombinese
+1203,1203,ari;basse,A M ari basse,Amari;basse,Amari basse
+1204,1204,alloro;gogna,V alloro R gogna,Vall;orogna,Vall orogna
+1205,1205,serio;dio,ES serio dio SI,Esseri;idiosi,Esseri idiosi
+1206,1206,ori;saba;Era,GL ori O saba NDI Era,Gloriosa;bandiera,Gloriosa bandiera
+1207,1207,avo;ree;in;mobile;lepre;etto,L avo RA ree in mobile BI lepre C etto,Lavorare;e;imobiliabile;prezzo,Lavorare e imobiliabile prezzo
+1208,1208,atto;Renata,atto Renata,Attore;nata,Attore nata
+1209,1209,nano;ninfa;Era,U nano I O ninfa T Era,Una;nozione;infatera,Una nozione infatera
+1210,1210,arca;nota;foro;sacco,arca nota foro sacco,Arcano;taf;orosacco,Arcano taf orosacco
+1211,1211,lecco;nati,A lecco TTO nati,Aletto;contonati,Aletto contonati
+1212,1212,ante;divi;negri;recensioni,M ante L LO divi S O negri recensioni A RO,Mantello;di;visone;greco;senzio,Mantello di visone greco senzio
+1213,1213,asiatici;terra;asiatici;ara,asiatici O T terra SE asiatici F ara,Asia;ti;ciotter;re;asi;at;ifa,Asia ti ciotter re asi at ifa
+1214,1214,in;avere;la;mini,in T avere D E la mini,Intavare;del;ammini,Intavare del ammini
+1215,1215,insoddisfatti;re;ori,B R insoddisfatti re TT ori,Brino;disfattori,Brino disfattori
+1216,1216,piastra;turate;muta,piastra turate muta,Piastratura;temuta,Piastratura temuta
+1217,1217,arco;cunei;pie,N arco T I cunei R A pie,Narcotici;nei;rapieti,Narcotici nei rapieti
+1218,1218,viso;ancora;per,viso N ancora SCO per TI,Vision;ana;scopri;scoperti,Vision ana scopri scoperti
+1219,1219,testi;diva;risi;Teatro,testi diva risi Teatro,Testi;di;vari;siticomedi,Testi di vari siticomedi
+1220,1220,nano;morsa,U nano NI morsa,Un;anonimo;rimborsa,Un'anonimo rimborsa
+1221,1221,per;pozione;dito,S per P pozione U dito,Sperpupo;zionista,Sperpupo zionista
+1222,1222,spavalda;mora;ile,BA spavalda M E mora B ile,Baspava;ldamemorabile,Baspava ldamemorabile
+1223,1223,olla;esili;coni,C olla N T esili coni C O,Collante;siliconio,Collante siliconio
+1224,1224,in;orata,in VA orata FFI,Inavorata;affi,Inavorata affi
+1225,1225,anthurium;con,V anthurium con T A,Vant;urimonta,Vant urimonta
+1226,1226,postino;nati,postino M I nati,Posti;nominati,Posti nominati
+1227,1227,accetta;otri;tino,accetta F I L otri ES tino,Ac;cettafilo;triestino,Ac cettafilo triestino
+1228,1228,ossi;cono;Caco;sale,C ossi E cono MI Caco LOS sale,Cossi;economico;losciale,Cossi economico losciale
+1229,1229,risi;divo;zio,C risi divo CA zio NE,Crisi;di;vocazione,Crisi di vocazione
+1230,1230,narice;amichevole;telefono;ali;iene;rete,U narice TT amichevole R telefono V ali G iene rete I,Una;ricetta;che;voler;te;levateliene;rei;tieni,Una ricetta che voler-te levateliene rei tieni
+1231,1231,prati;caci;poltrone,prati caci poltrone,Pratica;civile,Pratica civile
+1232,1232,ria;ori;abete,G ria I ori C abete,Griaio;riacabe,Griaio riacabe
+1233,1233,Ra;Diana;cono,T Ra TT Diana cono MIA,Trattdi;anac;o;nomina,Trattdi anac o' nomina
+1234,1234,ami;cinesi;fata,ami cinesi fata,Amici;nefasta,Amici nefasta
+1235,1235,miss;siepi;odi,miss I O siepi S odi,Missiosie;pisodes,Missiosie pisodes
+1236,1236,ave;intere;cerimonia;zie,ave R E intere S cerimonia TI zie,Avere;interessi;cerimonie,Avere interessi cerimonie
+1237,1237,Erie;pero,VOL Erie pero SI,Volerieber;possibilità,Volerieber possibilità
+1238,1238,bar;poli;re;tane,IM bar poli R re L O N tane,Imparpo;lir;relon;tane,Imparpo lir relon tane
+1239,1239,re;oste;chiera,P re SS oste R chiera,Presso;ster;chierarca,Presso ster chierarca
+1240,1240,alba;nero,alba nero SSO,Albaner;ossò,Albaner ossò
+1241,1241,dea;seri,I dea seri A L E,Idea;seriale,Idea seriale
+1242,1242,prati;re;agli;Belgio,prati C A re agli Belgio CO,Praticare;agli;bel;giocò,Praticare agli bel giocò
+1243,1243,amo;lima;more,amo CO lima R more I,Amocolimo;rmorei,Amocolimo rmorei
+1244,1244,pietra;mina,pietra mina,Pietrà;miniera,Pietrà miniera
+1245,1245,lancia;amo,lancia IN amo TA,Lancia;in;amota,Lancia in amota
+1246,1246,lame;di;Cina;in;dispena;di,lame di Cina in dispena di L E,La;medicina;indispenadile,La medicina indispenadile
+1247,1247,attore;re,Z attore MO re,Zato;re;more,Zato re more
+1248,1248,alci;erosi,OR alci N erosi,Orali;cinerosi,Orali cinerosi
+1249,1249,Verona;costo;Dallas;arpa,BA Verona S costo Dallas C I arpa,Baverò;nascosto;dalla;sciarpa,Baverò nascosto dalla sciarpa
+1250,1250,in;stoviglia;ile;arma,in stoviglia B ile F arma CO,Instovigliabile;farmaco,Instovigliabile farmaco
+1251,1251,Pisa;mura,CA Pisa mura I,Capi;samurai,Capi samurai
+1252,1252,eredi;ha;rio;nate,OP eredi C ha rio S A N nate,Opere;di;Charier;annate,Opere di Charier annate
+1253,1253,Ra;zio;Sam;VI,G Ra zio Sam IS VI NE,Graziosa;misi;veline,Graziosa misi veline
+1254,1254,Alice;rovo;divi,C Alice C rovo divi NO,Calice;crovo;di;vino,Calice crovo di vino
+1255,1255,chiesa;navi;dee,chiesa G navi E dee D A,Chi;è;sagnavi;edee;d;A,Chi è sagnavi edee d A
+1256,1256,sarde;dio,CAU sarde dio RI,Causar;dei;dolori,Causar dei dolori
+1257,1257,catene;usa,B O C catene usa,Bocca;tenuesa,Bocca tenuesa
+1258,1258,industriosa;scolari,TR industriosa scolari,Trindi;scolari,Trindi scolari
+1259,1259,dama;coperte;Giove;ovile,dama S coperte N D AG Giove SC ovile,Damasco;per;tendaggio;vescovile,Damasco per tendaggio vescovile
+1260,1260,oche;oca;osa;ovale,CI oche P oca C osa POC ovale,Ciò;ch;è;poco;cosa;poco;vale,Ciò ch'è poco cosa poco vale
+1261,1261,unica;mina,T unica mina,Tunica;mina,Tunica mina
+1262,1262,Verona;otre;tino,PO Verona N otre N tino,Povero;nano;trentino,Povero nano trentino
+1263,1263,fa;Cile;viola,fa Cile viola FF,Facile;viola,Facile viola
+1264,1264,collari;avi;giare;epe;colo,collari B B I avi A G giare epe R I colo SO,Colli;aribbi;aviaggiare;e;pericoloso,Colli aribbi aviaggiare e pericoloso
+1265,1265,teda;eco;mici,S teda LI eco N O mici,Stedali;economici,Stedali economici
+1266,1266,pie;spavalda;ale,I M pie G A spavalda T ale,Impiegaspà;valdatile,Impiegaspà valdatile
+1267,1267,assi;trattore;osti,G R assi S trattore S C osti,Grass;istrotto;rescosti,Grass istrotto rescosti
+1268,1268,sol;aiuto;ori,sol L aiuto T ori CO,Solla;iutorio,Solla iutorio
+1269,1269,assoluti;sordi,G R assoluti sordi N I,Grasso;luttisordi,Grasso luttisordi
+1270,1270,pino;osa,PO pino NZI osa,Popp;innoziosa,Popp innoziosa
+1271,1271,faro;pere;dotti;ali,faro pere dotti ali,Far;opere;dotiali,Far opere dotiali
+1272,1272,oche;are;avi;lenza,oche M E N T are L avi O lenza,Och;ementarel;av;violenza,Och ementarel av violenza!
+1273,1273,spia;vano,spia LI vano,Spialiva;no,Spialiva no
+1274,1274,avi;dive,C HI avi dive R I,Chiavidiveri;vini,Chiavidiveri vini
+1275,1275,ultime;di;ali,C ultime di E V ali,Culti;medievali,Culti medievali
+1276,1276,Asti;Sempronio;Ario,B Asti Sempronio N TR Ario,Bastise;monarchia,Bastise monarchia
+1277,1277,mais;rana,SA mais ST rana,Samaì;strana,Samaì strana
+1278,1278,sarda;re,VER sarda BE re,Versar;da;bere,Versar da bere
+1279,1279,asso;cavi;liana,asso LI cavi R G I liana,Assolica;virgilia,Assolica virgilia
+1280,1280,est;alloro,ON est alloro TTA,Onesta;lottatura,Onesta lottatura
+1281,1281,vele;Idra;coni,N O vele GG Idra coni AN E,Nove;leggi;draconiane,Nove leggi draconiane
+1282,1282,Icaro;industriosa;teso;riso,Icaro C industriosa N teso R riso,Icarocinduri;osanteso,Icarocinduri osanteso
+1283,1283,vite;cassa;data,DA vite RI cassa R data,Davi;tericca;sardata,Davi tericca sardata
+1284,1284,api;cola;sarda,U N api C cola M AN sarda,Una;piccola;mansarda,Una piccola mansarda
+1285,1285,para;siciliane,para FRA siciliane T TI,Parafrasici;lani,Parafrasici lani
+1286,1286,remi;Mida;tana,T remi Mida N tana TI,Tre;dantanatani,Tre imi dantanatani
+1287,1287,esca;collane;ossa,P esca R E collane G ossa,Pescare;colla;negoza,Pescare colla negoza
+1288,1288,amo;tra;colletti;argini;usci,UN amo S tra colletti argini usci T A,Una;mostra;collettiva;rigniùscita,Una mostra collettiva rigniùscita
+1289,1289,pitt;resi;lista,pitt O resi M BO lista,Pittore;simbolista,Pittore simbolista
+1290,1290,carezze;serie,GI O carezze serie V E,Giocare;zesse;rive,Giocare zesse rive
+1291,1291,ortica;nidi;lago,C ortica LZO nidi FU lago,Corti;calzoni;di;fulagio,Corti calzoni di fulagio
+1292,1292,aria;seri,F aria LO seri,Farì;aloseri,Farì aloseri
+1293,1293,pitt;rea;ratto,pitt O rea S T ratto,Pittores;astrapatto,Pittores astrapatto
+1294,1294,maniero;are,maniero S O F are,Manieroso;fare,Manieroso fare
+1295,1295,in;catino,in TRI catino DI,Intricati;nodi,Intricati nodi
+1296,1296,ninfea;neo;nato,P ninfea neo R DI nato,Pinnefa;neordinato,Pinnefa neordinato
+1297,1297,orto;nidi;lago,P orto nidi C A lago,Portoni;di;calagno,Portoni di calagno
+1298,1298,schede;Pan;aurore,TA schede I Pan T aurore,Tasche;dei;pantauri,Tasche dei pantauri
+1299,1299,tifosi;tino,ME tifosi S tino,Meti;fossipisto,Meti fossipisto
+1300,1300,Diana;Era,NO IO Diana T Era,Noioidi;anatere,Noioidi anatere
+1301,1301,Diana;ami,D Diana S ami,Dio;naso;d;Asia,Dio naso d'Asia
+1302,1302,edera;danza;Miami,CHI edera LFI danza TO Miami,Chieder;al;fidanzato;mi;ami,Chieder al fidanzato: mi ami?
+1303,1303,agave;rame;tela,P agave rame N tela UTA,Paga;veramente;lauta,Paga veramente lauta
+1304,1304,ari;lessati;ile,O R ari OF lessati B ile,Orario;flessatibile,Orario flessatibile
+1305,1305,asse;ile;nodi;bocca,C asse D ile G nodi CA bocca,Casse;di;legno;di;caborca,Casse di legno di caborca
+1306,1306,asso;sabbata;elle;ara;conta,SP asso sabbata RZ elle TT ara C conta T A,Spossosa;battaliera;zelleretta,Spossosa battaliera zelleretta
+1307,1307,miss;acca;mento,miss IO S acca PI mento,Missiosacc;apimento,Missiosacc apimento
+1308,1308,pitt;ree;letti,pitt O ree C letti CO,Pittore;eclettico,Pittore eclettico
+1309,1309,versi;nidi;rosi,IN versi O nidi rosi A,Inversioni;di;rosia,Inversioni di rosia
+1310,1310,Trentino;talea;Io,PO Trentino talea BET L Io,Potente;rintino;t;aleabetli,Potente rintino t aleabetli
+1311,1311,mici;avo;Ontario,O mici D avo L Ontario,Omicida;volontario,Omicida volontario
+1312,1312,capi;oche;iene;alloro,capi T AN oche V iene DA LL alloro TTA,Capitano;che;viene;dalla;loricotta,Capitano che viene dalla loricotta
+1313,1313,foro;cavi;iris,foro L I cavi S iris,Forolica;visirisi,Forolica visirisi
+1314,1314,attiva;in;in;azione,C attiva in CL in azione,Cattiva;inclinazione,Cattiva inclinazione
+1315,1315,asso;VI,SP asso VI RIE,Spassovi;ririe,Spassovi ririe
+1316,1316,tino;etti,PA tino N N etti,Patino;nettini,Patino nettini
+1317,1317,aro;tosa,PL aro N tosa,Plaro;ntososa,Plaro ntososa
+1318,1318,cast;ove;Tati,cast ELL: ove SI Tati,Castello;vestitati,Castello vestitati
+1319,1319,papi;ogiva;enti,papi R O L ogiva L enti,Papirologi;valenti,Papirologi valenti
+1320,1320,mine;nodi;lago,TA mine nodi C A lago,Tamineno;di;Calagio,Tamineno di Calagio
+1321,1321,lady;vela,lady IS vela TI,Ladyis;velati,Ladyis velati
+1322,1322,radura,GA radura,Gara;dura,Gara dura
+1323,1323,Pi;Miami;are,Pi DE Miami L IT are,Pidemamili;talitere,Pidemamili talitere
+1324,1324,stoino;pere,A stoino M pere,Astro;inopere,Astro inopere
+1325,1325,lidi;con;orme;ove,V A lidi con orme T T ove,Valido;liconormettove,Valido liconormettove
+1326,1326,ananas;vate;esca,V ananas DO vate D esca,Vana;nasoda;vetesca,Vana nasoda vetesca
+1327,1327,,,,inter... in linea G I A
+1328,1328,riso;olivo;lidi;seri,P riso RI olivo A lidi seri A L,Prio;rivalivo;al;ideseri,Prio rivalivo al ideseri
+1329,1329,Ro;dotto;sole;lord,P Ro dotto IN sole lord O,Prodotto;insolito;lordo,Prodotto insolito lordo
+1330,1330,Ra;zio;Sam;sesto,G Ra zio Sam IS sesto NE,Graziosa;misi;settone,Graziosa misi settone
+1331,1331,testa;para;ultime;ali,testa RA P para TI M ultime DI ali,Testar;apparati;multimedianali,Testar apparati multimedianali
+1332,1332,la;rosa;naso,A la rosa N naso,Alarosa;nannaso,Alarosa nannaso
+1333,1333,manopola;dita,PRI manopola E dita,Prima;nozione;edita,Prima nozione edita
+1334,1334,orme;su;messe;capre,E N orme su messe capre C O L O,Enorme;sommesso;capriccio,Enorme sommesso capriccio
+1335,1335,reseda;edile;Giona,P reseda N edile Giona RI,Prese;da;neglegioni,Prese da neglegioni
+1336,1336,bachi;asso,TUR bachi asso SA,Turba;chiasossa,Turba chiasossa
+1337,1337,corte;rei;pia;odi;Erato,S corte rei NU N pia NT odi SP Erato,Scorterei;nu;ni;pianto;disperato,Scorterei nu ni pianto disperato
+1338,1338,avidi;tacchi,GR avidi S tacchi,Gravi;distacchi,Gravi distacchi
+1339,1339,est;arpe;lessati,D est arpe R P lessati T A,Destar;plessatiità,Destar plessatiità
+1340,1340,pipe;siero;sieri;lessati,TI pipe N siero sieri F lessati VI,Tipi;pensierosi;e;rieflexati,Tipi pensierosi e rieflexati
+1341,1341,parete;radura,ZAP parete R radura,Zappare;terra;dura,Zappare terra dura
+1342,1342,palazzi;lecco;nati,palazzi L lecco R D I nati,Palazzille;cordinati,Palazzille cordinati
+1343,1343,federa;aroma,federa FF aroma SI,Fede;raffaromasi,Fede raffaromasi
+1344,1344,Ero;Idra;Pellico;etti;ari;arsi,Ero I C Idra P Pellico STR etti ari T IR arsi,Eroici;drappelli;costretti;a;ritirarsi,Eroici drappelli costretti a ritirarsi
+1345,1345,bocciato;osa;in,bocciato I osa F in E,Bocciaiato;fine,Bocciaiato fine
+1346,1346,bilia;nata,BI bilia PA nata,Biliapana;tata,Biliapana tata
+1347,1347,porcai;sci,T O porcai sci A,Toporca;iscia,Toporca iscia
+1348,1348,Magnani;Miami;coni,Magnani Miami coni,Magnanime;amiconi,Magnanime amiconi
+1349,1349,Sam;Diana;oche;remo,E Sam IN Diana P oche remo TE,Esamina;di;a;poche;remote,Esamina di a' poche remote
+1350,1350,orme;di;sesto,EN orme di S sesto,Enorme;discesso,Enorme discesso
+1351,1351,avidi;stria;rei,GR avidi S A stria E rei,Gravi;disastri;aerei,Gravi disastri aerei
+1352,1352,ore;gnomone;star,P ore gnomone star NO,Poregno;monesto,Poregno monesto
+1353,1353,mais;ile,N E mais B ile,Nema;isibile,Nema isibile
+1354,1354,cieco;redi;denti,S cieco redi P EN denti,Sciecoredi;pendenti,Sciecoredi pendenti
+1355,1355,eroina;dito,ALB eroina RI dito,Albero;inaridito,Albero inaridito
+1356,1356,oca;tori;mas;merinos;peri,GI oca tori O R mas merinos SU peri ORE,Giocatori;ormai;s;superior;successore,Giocatori ormai s superior successore
+1357,1357,passa;agli;ad;tarme;dita,passa C agli ad I tarme N E dita,Passacaglia;di;tarm;endita,Passacaglia di tarm endita
+1358,1358,manopola;randello,ULTi manopola DiPi randello,Ultima;nopola;di;Pirandello,Ultima nopola di Pirandello
+1359,1359,veli;navi;asso,B RE veli T I navi asso SO,Brevi;litina;viassoso,Brevi litina viassoso
+1360,1360,dive;are;nani,CA dive LL are nani A,Cavivell;arena;nanià,Cavivell arena nanià
+1361,1361,Ra;Diana;api;Urano;Ra,T Ra TT Diana LL api TT Urano ST Ra,Trattia;nella;pittura;nostrano;strano,Trattia nella pittura nostrano strano
+1362,1362,cose;nami;con;erma,S cose nami con F erma,Socesanami;conferma,Socesanami conferma
+1363,1363,aleta;osti,aleta S C osti,Ale;tascosti,Ale tascosti
+1364,1364,epe;colo;re;Ares;chiavi;Zoff;ladro,epe R I colo SO re S T Ares chiavi Zoff ladro G A,È;pericoloso;restare;schiavi;zoff;ladro,È pericoloso restare schiavi zoff ladro
+1365,1365,dioscuri;coperte;ori,STU dioscuri R I coperte N ori,Studi;oscuri;ric;otori,Studi oscuri ric otori
+1366,1366,su;rombo;nidi;tesa,su A rombo N nidi N tesa,Suarombo;nidi;n;intesa,Suarombo nidi n'intesa
+1367,1367,,,,Pino NI giallognola TI Claudio Villa
+1368,1368,orata;su,EVI orata su RE,Eviorate;suure,Eviorate suure
+1369,1369,dentice;menti,EVI dentice D I menti,Evidenti;cedimenti,Evidenti cedimenti
+1370,1370,mas;menta;telo;dio,mas menta telo dio,Mas;mentatelo;d;io,Mas mentatelo d'io
+1371,1371,Nelson;scola;etto,Nelson O RE scola GH etto,Nelsonore;scolaghetto,Nelsonore scolaghetto
+1372,1372,lepri;codino,U TI lepri codino GIO,Utile;precidino,Utile precidino
+1373,1373,aglio;in;Erie,SB aglio in VOL Erie,Sbaglio;involeriere,Sbaglio involeriere
+1374,1374,marcia;su;proiettile,marcia su proiettile,Marcia;su proiettile,Marcia su proiettile
+1375,1375,papi;onde;zio,papi LL onde LI zio SO,Papillon;delicioso,Papillon delicioso
+1376,1376,Cile;per;accia;filo;vaglia;cono;ceri;nidi;azza,EFA Cile per accia filo D I vaglia cono S ceri C A nidi R azza,È;facile;per;ac;ciaccola;di;vaglia;conoscé;r;ica;ni;dirazza,È facile per ac ciaccola di vaglia conoscé r ica ni dirazza
+1377,1377,Fede;Saba,Fede O Saba RCA,Fedesabà;corca,Fedesabà corca
+1378,1378,palla;rape;ante,palla T U rape S ante,Pallatura;pesante,Pallatura pesante
+1379,1379,la;aletta;Ural,la aletta T Ural E,Laale;tatturale,Laale tatturale
+1380,1380,pittura;Reno,pittura O Reno TO,Pittura;oro,Pittura oro
+1381,1381,enne;ori;tori;ari,enne T ori A U tori T ari,Enneutor;autoritari,Enneutor autoritari
+1382,1382,lenzuola;timoni,PA L lenzuola S timoni,Palle;nzo;lascimoni,Palle nzo lascimoni
+1383,1383,piastra;trave;mici,BIS piastra trave R IA mici,Bispiatra;tra;veri;amici,Bispiatra tra veri amici
+1384,1384,,,,MOS Giacinto [L' albero... piangente] NZI OSA
+1385,1385,asso;etti;orsi,C asso N etti S P orsi,Cassonetti;sporsi,Cassonetti sporsi
+1386,1386,ironiche;aro,A ironiche MI aro,Aironi;che;miarono,Aironi che miarono
+1387,1387,aletta;lidi;reti,aletta CO lidi M I NA reti,Alettacoli;di;minareti,Alettacoli di minareti
+1388,1388,siciliana;rospi;giara,PAS siciliana VE rospi L giara,Passic;il;iana;verospiglia,Passic il iana verospiglia
+1389,1389,cono;Miami;orata,E cono Miami G LI orata,Economia;migliorata,Economia migliorata
+1390,1390,spia;asce;avi;liana,spia LIC asce N avi RG I liana,Spialica;scena;virgiliana,Spialica scena virgiliana
+1391,1391,tuba;ras;traina,tuba T U ras traina TA,Tubatura;straniata,Tubatura straniata
+1392,1392,,,,AS Pi R NT R appi
+1393,1393,la;Pan;Era,la G N O Pan T Era,Lagnopa;ntera,Lagnopa intera
+1394,1394,corta;dono,S corta dono RE,Scorta;d;onore,Scorta d'onore
+1395,1395,armadio;valore;leve;agli,armadio valore R leve I agli O,Armadio;val;valore;le;veiagi,Armadio val valore le veiagi
+1396,1396,viola;sali,viola sali SA,Violà;Lisa,Violà Lisa
+1397,1397,perso;lesa;Ario,perso N A lesa NIT Ario,Personale;sanitario,Personale sanitario
+1398,1398,mori;Cina,S E mori FA Cina,Se;morì;fa;ci;nà;la;cina,"Se morì fa ci, nà la cina"
+1399,1399,iris;sol;t,iris OI N sol t,Irsino;insolto,Irsino insolto
+1400,1400,cerimonia;elettori,PAS cerimonia T T elettori,Pascerimo;niattelettori,Pascerimo niattelettori
+1401,1401,diva;dito,SI diva CI dito,Sidi;vacidito,Sidi vacidito
+1402,1402,losca;gru;sette,losca gru sette,Lo;scagru;settecento,Lo scagru settecento
+1403,1403,nastro;Capri;radio;Po;tori,U nastro I Capri E radio P Po SI tori,Un;astro;incapri;ed;ierarco,Un'astro incapri ed ierarco
+1404,1404,tre;uovo;Ontario,S tre N uovo L Ontario,Strenuo;volontario,Strenuo volontario
+1405,1405,legge;api;corte,legge R api U corte GI A,Leggera;piuco;retgia,Leggera piuco retgia
+1406,1406,peccato;asse;Ati,peccato N asse G N Ati,Pecca;ton;assegnati,Pecca ton assegnati
+1407,1407,in;Audi;testo;da;la;lenza,in Audi testo RI da la O lenza,Inaudite;storie;da;l'Aoledenza,Inaudite storie da l'Aoledenza
+1408,1408,lotta;dotto;oste;ile,P lotta dotto S oste NIB ile,Plothoda;tossostenibile,Plothoda tossostenibile
+1409,1409,ceramica,NIS ceramica,Niscera;mica,Niscera mica
+1410,1410,seno;dil;don,CO seno dil don,Coseno;dil;Don,Coseno dil Don
+1411,1411,tomo;baricentro;azza,AU tomo baricentro R azza TE,Autobariche;ntorazzate,Autobariche ntorazzate
+1412,1412,Diana;rosi,F Diana C O rosi,Fdi;anac;rosiaci,Fdi anac rosiaci
+1413,1413,,,,Santi E rosari LTE Bel fiore con spine Lucca I
+1414,1414,ali;risotto;corta,M ali IST risotto S corta,Malistri;sotto;scorta,Malistri sotto scorta
+1415,1415,basto;neve;losco,IL basto neve S CO losco,Il;bastone;vescosco,Il bastone vescosco
+1416,1416,copertoni;ante,BOC copertoni U M ante,Bocco;pertinuum,Bocco pertinuum
+1417,1417,faccia;mesta;conti;ontano;odi;mani,faccia mesta I conti C ontano N D odi D O mani,Facciamè;tai;c;conti;con;tanto;no;domani,Facciamè tai c conti con tanto no domani
+1418,1418,grano;dio,grano dio,Gran;odiò,Gran odiò
+1419,1419,arti;Como;ori,P arti CO Como D ori,Particocomo;dolori,Particocomo dolori
+1420,1420,arpe;olla;avi,F arpe C olla N GR avi,Far;pecolla;fra;viveri,Far pecolla fra viveri
+1421,1421,mento;ninfe;Ra,LA mento ninfe T E Ra,Lamentoni;ninfetera,Lamentoni ninfetera
+1422,1422,trimero;some;tema,trimero I O some S tema,Trimerioso;mestiere,Trimerioso mestiere
+1423,1423,re;onda,re LL onda T I,Rellondà;tardi,Rellondà tardi
+1424,1424,dama;cuscini,dama S cuscini NDE,Damasco;scu;scine,Damasco scu scine
+1425,1425,ali;dotto;ale,P ali dotto LOC ale,Paliotto;locale,Paliotto locale
+1426,1426,coppia;sai;odorosi,S coppia S sai VI odorosi,Scoppia;passa;violentosi,Scoppia passa violentosi
+1427,1427,gilet;iodio;zio,A gilet OR iodio zio NE,Agile;torio;di;Ozione,Agile torio di Ozione
+1428,1428,Ra;dea;radura,G Ra N dea radura NO,Grande;era;a;Durano,Grande era a' Durano
+1429,1429,api;dive;Ario,C api dive S TI Ario,Capi;di;vestiario,Capi di vestiario
+1430,1430,gin;in;cantina;ile,LO gin in cantina B ile,Log;in;incantinabile,Log-in incantinabile
+1431,1431,su;la;si;Volga,"su DIC, la si Volga RI",Sudici;lasi;volgari,Sudici lasi volgari
+1432,1432,le;Po;le;pera;tiara,MO le M Po NI le M pera tiara TE,Molemo;poniemperati;aratiare;a;rate,Molemo poniemperati aratiare a rate
+1433,1433,manina;fi;lobo;via,manina fi lobo LI via NO,Ma;ninafilo;bovivano,Ma ninafilo bovivano
+1434,1434,arto;in;dotto,P arto in dotto,Parto;indotto,Parto indotto
+1435,1435,Lazio;nei;onda,IL Lazio nei N F onda,Illazione;infondata,Illazione infondata
+1436,1436,nave;trina;onda,U nave trina S F onda,Una;vetrina;sfondata,Una vetrina sfondata
+1437,1437,esili;epa;trio,esili A R epa trio TI,Esiliare;patrioti,Esiliare patrioti
+1438,1438,stole;tastiera;posa,C O stole T tastiera P posa,Costoletta;siaperposa,Costoletta siaperposa
+1439,1439,Po;coli,Po S T A coli,Post;acoliti,Post acoliti
+1440,1440,ariete;neri;Dallas,C ariete neri S SI Dallas CI,Cari;e;tenerissi;dallas,Cari e tenerissi dallas
+1441,1441,rosi;rapa;oca;Enza,rosi A rapa SS oca D Enza TO,Rosiarà;p;assò;cadenzato,Rosiarà p assò cadenzato
+1442,1442,unti;come;anellino,unti P I come R anellino,Un;tipico;meranellino,Un tipico meranellino
+1443,1443,barba;cento,barba RI cento E RA,Barbarice;natura,Barbarice natura
+1444,1444,odi;latta,RAM odi CA latta,Ramo;di;calatina,Ramo di calatina
+1445,1445,fa;stie;salvagente,AF fa RI stie salvagente I,Affaristi;e sale,Affaristi e sale
+1446,1446,treno;Elle;cappa;esche,treno V Elle cappa C C esche,Tre;novelle;cappuccesse,Tre novelle cappuccesse
+1447,1447,mais;osa,NE mais I osa,Nemaì;siosa,Nemaì siosa
+1448,1448,dama;orata,LIN dama N orata,Linda;manorata,Linda manorata
+1449,1449,anca;Eros,C anca NF Eros,Cancan;feeroso,Cancan feeroso
+1450,1450,mas;pia;ceri;dio,mas N O pia ceri M E dio,Mas;n;o;piacer;i;m;edìo,Mas n'o'piacer i'medio
+1451,1451,are;est;occhi,D are L est REM occhi,Dare;l;estremo;cchi,Dare l'estremo cchi
+1452,1452,rei;rari,rei N rari O,Re;in;rario,Re in rario
+1453,1453,pini;nei;ondata,O pini O nei NF ondata,Opinione;infondata,Opinione infondata
+1454,1454,taglia;in;losco,GE N taglia in C I losco,Gentaglia;incosciente,Gentaglia incosciente
+1455,1455,ava;ile;nodi;lago,T ava D ile G nodi CA lago,Tavadi;le;gnono;di;Calagno,Tavadi le gnono di Calagno
+1456,1456,pirati;lato,pirati M U lato,Pira;timulato,Pira timulato
+1457,1457,marcia;proiettile,marcia I N proiettile,Marcia;inproiettile,Marcia inproiettile
+1458,1458,papi;lepri,papi L lepri N DY,Papille;prindy,Papille prindy
+1459,1459,anta;gioco,C anta N gioco CK,Cantangi;ock,Cantangi ock
+1460,1460,lumi;con;ove,lumi L E con V ove O,L;umile;convoveo,L'umile convoveo
+1461,1461,ossi;stoino;rom;si,P ossi stoino M P rom ES si,Possisto;inopromessi,Possisto inopromessi
+1462,1462,toc;Po;Ario,VO toc Po T R Ario,Voto;capotario,Voto capotario
+1463,1463,re;si;neo;osa;cari;evita,P re S si O neo R osa TI cari L evita TA,Pressione;orosaticari;levitata,Pressione orosaticari levitata
+1464,1464,sarda;pesa,PAS sarda pesa RO,Passar;da;pezaro,Passar da pezaro
+1465,1465,sci;eroina;teso,sci O P eroina T teso,Sciopero;inatteso,Sciopero inatteso
+1466,1466,sospiro;Rino,LUS sospiro F Rino,Lusso;spirofino,Lusso spirofino
+1467,1467,araba;dadi;Bello;domino,S araba N dadi Bello N domino RE,Sarabanda;di;bel;lo;no;domine,Sarabanda di bel lo no domine
+1468,1468,vile;giostra,PRI vile giostra NO,Privilegio;strano,Privilegio strano
+1469,1469,si;coppia,VE mas,Vema;sospirata,VE mas
+1470,1470,riva;rese;rei;Ario,AR riva rese MP rei N O R Ario,Arrivare;sempre;in;orario,Arrivare sempre in orario
+1471,1471,lati;bocca;esca,lati M A bocca CC esca,La;tima;boccaccesca,La tima boccaccesca
+1472,1472,,,,Pi = Pi
+1473,1473,rossi;rosi,APP rossi rosi FR E,Approssirosi;frere,Approssirosi frere
+1474,1474,manovella,RA manovella,Rama;novella,Rama novella
+1475,1475,vari;oli;lato,D I vari oli VEL lato,Divario;livellato,Divario livellato
+1476,1476,tetro;al,MEN tetro al E,Mente;troiale,Mente troiale
+1477,1477,ceramica;chiare,SCU ceramica N chiare,Scucaera;mic;anciare,Scucaera mic anciare
+1478,1478,poni;rada;corte,U N poni ST rada corte GI A,Una;pistrada;cor;teggia,Una pistrada cor teggia
+1479,1479,via;giardino;coli,via G giardino TTE coli VE,Viaggiar;di;note;coliv;ève,Viaggiar di note coliv ève
+1480,1480,alce;rana,C alce rana TA,Calce;ranaata,Calce ranaata
+1481,1481,are;Mida;tana,TU are Mida N tana TI,Tuaremi;danzantani,Tuaremi danzantani
+1482,1482,dotta;menta,CON dotta F menta,Condotta;fomenta,Condotta fomenta
+1483,1483,uovo;sol,N uovo CA sol,Nuovo;casolare,Nuovo casolare
+1484,1484,belli;Saba;aratri,belli CO Saba RB aratri BU,Bellicoso;barbaro;tribù,Bellicoso barbaro tribù
+1485,1485,con;satiri;Era,con FU satiri T Era,Confusa;tiritera,Confusa tiritera
+1486,1486,di;serio;ali,di serio N ali,Diser;originali,Diser originali
+1487,1487,lenti;Eris;otto,lenti NT Eris otto,Lenticente;risotto,Lenticente risotto
+1488,1488,cubista;fallita;edera,cubista F fallita edera,Cubi;sta;fallita,Cubi sta' fallita
+1489,1489,lessati;ami;are,lessati C O F ami G LI are,Lessati;cofamiglie,Lessati cofamiglie
+1490,1490,radi;marcia,OPE radi marcia TTE,Opera;di;Marciante,Opera di Marciante
+1491,1491,dive;mici;sedia;Ti,C A dive mici A S sedia Ti,Cadivemi;ciassè;diatasi,Cadivemi ciassè diatasi
+1492,1492,anta;nidi;lago,P anta L O nidi FU lago,Pantaloni;di;fulagro,Pantaloni di fulagro
+1493,1493,elsa;foro,B elsa M foro,Bel;sapore,Bel sapore
+1494,1494,Bello;asso,BIM Bello asso SA,Bimbe;lussososa,Bimbe lussososa
+1495,1495,nato;oche,U nato oche S A,Una;tocca;esa,Una tocca esa
+1496,1496,imbecille;tori,OP imbecille V A tori,Opimbe;cillevatori,Opimbe cillevatori
+1497,1497,rima;mini;ria,S rima mini STE ria LE,Simami;nisteriale,Simami nisteriale
+1498,1498,colo;biche;cereale,colo M biche M I cereale,Colombi;che;mi cereale,Colombi che mi cereale
+1499,1499,grotto;stato,PRO grotto TE stato,Progetto;teatral,Progetto teatral
+1500,1500,diritto;poltrone,diritto C I poltrone,Diritto;civile,Diritto civile
+1501,1501,tra;vaglia;la,tra vaglia la RIA,Travaglialia;ria,Travaglialia ria
+1502,1502,oli;nodi;rotti,RU oli nodi rotti A,Ruolino;di;rotta,Ruolino di rotta
+1503,1503,coltre;mento;Ati,S coltre mento R I Ati,Scoltremen-;toriati,Scoltremen-toriati
+1504,1504,falcetto;pirati;Ra,AF falcetto LE pirati AV Ra,A;fal;cett;olep;i;rati,A fal cett olep i rati a
+1505,1505,pollaio;fuso,pollaio fuso,Pollai;oviso,Pollai oviso
+1506,1506,eco;sabbata;Onorato,IND eco RO sabbata L Onorato,Indecorosa;battalora,Indecorosa battalora
+1507,1507,lago;teda;mista,lago F teda R A mista,La;gofte;daramista,La gofte daramista
+1508,1508,Napoli;cale;mari;fon;da,U Napoli S cale mari fon da TA,Una;poliscalemari;fondatura,Una poliscalemari fondatura
+1509,1509,ava;pie;aia,C ava D I pie T aia,Cava;di;pietra;iai,Cava di pietra iai
+1510,1510,lobi;ile;oboi,lobi N T ile C oboi E,Lobiinte;lecoboie,Lobiinte lecoboie
+1511,1511,avo;postino;dame;cani,avo M postino R dame R I cani,Avomposti;nordamericani,Avomposti nordamericani
+1512,1512,rosari;amaro,rosari N F amaro,Rosa;rinfamaro,Rosa rinfamaro
+1513,1513,Idra;icone;gente,Idra UL icone G L I gente,Idraulico;negligente,Idraulico negligente
+1514,1514,oca;lima;siciliana,L oca lima N siciliana TI,Locali;manciiliani,Locali manciiliani
+1515,1515,oro;di;bici,oro di B bici GA,Orodib;bi;ciga;nera,Orodib bi ciga nera
+1516,1516,rima;nere;chiama;la,rima nere chiama la,Rimanere;chiamala,Rimanere chiamala
+1517,1517,maniscalco;filo;rea;tino,maniscalco filo rea tino,Ma;niscaldi;filorea,Ma niscaldi filorea
+1518,1518,con;ibico;va;rapace,GIO: con D ibico va rapace TI,Giocondi;bicova;rapaci,Giocondi bicova rapaci
+1519,1519,papi;nari,papi LL O nari GH E,Papiillon;a;righe,Papiillon a righe
+1520,1520,un;industriosa;ululati,un A C industriosa B ululati,Una;cintura;sabot,Una cintura sabot
+1521,1521,coda;destra;si,BOS coda BE destra S si,Bosco;d;abeti;strassi,Bosco d'abeti strassi
+1522,1522,onda;oche;mento;lodi,N onda R oche mento AL lodi O,Non;dar;oche;mentoalo;Dio;lodi,Non dar oche mentoalo Dio'
+1523,1523,viola;Isolde;spiaggia,viola Isolde spiaggia,Violà;isole,Violà isole
+1524,1524,lessati;nei;Tell;gente,RIF lessati O nei N Tell I gente,Riflessatione;intelligente,Riflessatione intelligente
+1525,1525,nani;normali;avi;vetri;mente,U nani normali G I avi vetri ST E mente,Un;anno;normali;già;viettivamente,Un'anno normali già viettivamente
+1526,1526,tesa;olio;dive;solido,CON tesa V olio dive L solido N,Contesavolio;divello;sidi;don,Contesavolio divello sidi'don
+1527,1527,archi;asso;Renata,F archi asso S F Renata,Far;chiasso;sfrenata,Far chiasso sfrenata
+1528,1528,cena;Pitt;esca,S cena Pitt O R esca,Scena;pittorica,Scena pittorica
+1529,1529,osa;poltrone,P osa SER poltrone,Posa;serpente,Posa serpente
+1530,1530,lessati;redi;ali,C lessati D redi GIT ali,Clessati;drediti,Clessati drediti
+1531,1531,arabi;palla,A M arabi S palla,Amara;bispallata,Amara bispallata
+1532,1532,con;meno;acca;fa,con S meno acca F fa,Consmeno;accaffa,Consmeno accaffa
+1533,1533,arco;neri;orsi,B arco neri M orsi A TO,Barcone;rimorsiatò,Barcone rimorsiatò
+1534,1534,amo;Ostuni;si,CA amo Ostuni S si MO,Cama;ostunissimo,Cama ostunissimo
+1535,1535,re;marci,re NE marci T TE,Rene;Marciotte,Rene Marciotte
+1536,1536,manna;oche;destra;pino;perla;aspo,manna FIL oche A D destra S pino N I perla C aspo,Ma;nannafilo;che;addestra;spino;non;i;perlas,Ma nannafilo che addestra spino non i perlas
+1537,1537,oste;giostra;ontano,P oste G giostra C ontano,Posteggio;straccontano,Posteggio straccontano
+1538,1538,alitro;bianco;scia,alitro bianco VE scia TO,Alitro;biancovesciato,Alitro biancovesciato
+1539,1539,sta;pesca;rombo;nate,sta M pesca rombo S T I nate,Stampe;scarambo;stiminate,Stampe scarambo stiminate
+1540,1540,ode;lepre;torri;ale,L ode VO lepre torri F I L I ale,Lodevole;pretorrì;filiale,Lodevole pretorrì filiale
+1541,1541,pitt;rana,pitt U rana IF,Pittura;naif,Pittura naif
+1542,1542,amo;Serafini;Marisa,F amo Serafini R Marisa A,Famosa;finirmarisa,Famosa finirmarisa
+1543,1543,coppia;api;Gere;perle;zio,S coppia R api AN Gere perle MO zio NE,Scoppia;r;apiangere;per;l;emozione,Scoppia r apiangere per l'emozione
+1544,1544,risi;Lea;tacco,risi B I Lea T tacco,Risibile;attacco,Risibile attacco
+1545,1545,sedici;Eva;mosca;sarda,CA sedici NQU Eva NI mosca N sarda,Case;di;cinque;vani;mos;cansarda,Case di cinque vani mos cansarda
+1546,1546,tra;sereno,tra PP OL sereno PI,Trappoles;re;nope,Trappoles re nope
+1547,1547,rea;accetta;ali,T rea NN accetta R M ali,Tre;annacce;tarmali,Tre annacce tarmali
+1548,1548,onesto;oli,MI onesto B oli,Miesto;booli,Miesto booli
+1549,1549,vino;Saba;rotta,RO vino Saba N CA rotta,Rovinoso;bancarotta,Rovinoso bancarotta
+1550,1550,spia;operaie;raffinati,spia Z Z operaie raffinati,Spiazzo;per;ai;e;raffi,Spiazzo per ai e raffi
+1551,1551,tappa;latte,tappa F latte,Tappa;flatte,Tappa flatte
+1552,1552,turista;gradi,turista N gradi T I,Turis;tan;graditi,Turis tan graditi
+1553,1553,rossi;rete;timoni,T rossi A rete S timoni,Trossiare;testimoni,Trossiare testimoni
+1554,1554,Calabria;lidi;scale,RI Calabria V O lidi scale,Riccalabriavi;lidisco,Riccalabriavi lidisco
+1555,1555,ari;etti;sol;Nat,C L ari N etti S sol Nat O,Clarinettissol;natato,Clarinettissol natato
+1556,1556,visi;colono,visi T AR colono TI,Visitar;colo;noti,Visitar colo noti
+1557,1557,volano;savanti,RA volano savanti T O,Rav;olonavasavanti,Rav olonavasavanti
+1558,1558,mesto;nate,CO mesto RDI nate,Come;stordite,Come stordite
+1559,1559,Roma;triangolo,PIG Roma N triangolo,Pigro;matrione,Pigro matrione
+1560,1560,lari;epa,lari N T epa STO,Larinete;pasto,Larinete pasto
+1561,1561,ambi;cetra;alone,C ambi cetra N T alone,Cambice;tranquille,Cambice tranquille
+1562,1562,sardina;re;mi;oli,U sardina re N O mi G N oli,Usar;dina;renomignoli,Usar dina renomignoli
+1563,1563,file;ultime;di,file M ultime di ALE,Film;ultimate,Film ultimate
+1564,1564,Ra;some;anellino,G Ra ZI O some R anellino,Grazioso;meranellino,Grazioso meranellino
+1565,1565,colle;acero;osso;Ra,colle T acero V U osso S E Ra,Colletacero;vuossose;Ra,Colletacero vuossose Ra
+1566,1566,lessati;avo;lumino,C lessati DR avo lumino SA,Clessatida;voluminosa,Clessatida voluminosa
+1567,1567,foro;sali,TA foro LO S sali,Taro;loscali,Taro loscali
+1568,1568,acino;ontano;checchini,B acino M ontano C checchini,Bacino;montano;cche,Bacino montano cche
+1569,1569,torre;ostile,torre S ostile,Torresosi;tile,Torresosi tile
+1570,1570,oggi;oca;radice,J oggi N oca radice NA,Joggion;car;adi;ce;nina,Joggion car'adi ce nina
+1571,1571,api;aletta;mora,L api NU aletta mora TA,La;pin;up;allettamora,La pin-up allettamora
+1572,1572,Bach;loro,BOM Bach ES loro,Bomba;che;slesloro,Bomba che slesloro
+1573,1573,fa;vi;trina;menta,fa vi trina VI menta TA,Favi;trinavi;mentata,Favi trinavi mentata
+1574,1574,su;eroina;ile,su O C eroina B ile,Suocero;inabile,Suocero inabile
+1575,1575,lese;ovali;anello,lese M P I ovali D anello,L;esempio;valido;nell,L'esempio valido nell
+1576,1576,morsa;tampa;redi;aro,morsa DE tampa LI T A redi LIV aro,M;orsadetta;malitare;di;livarò,M'orsadetta malitare di livarò
+1577,1577,nume;Robin;Ario,nume Robin Ario,Numeri;binari,Numeri binari
+1578,1578,palla;rea;avi,S palla rea LL avi T A,Spallare;alla;vita,Spallare alla vita
+1579,1579,asse;oca;pelagiano,asse GN oca MB I pelagiano,Assegno;cambiapia,Assegno cambiapia
+1580,1580,rigo;alone,VA rigo N F alone,Vari;gonfalone,Vari gonfalone
+1581,1581,rio;radice,T rio radice NA,Tr;ior;adi;ce;nena,Tr ior'adi ce nena
+1582,1582,cromosomi;Ciad;cernie,cromosomi T R I Ciad DOL cernie,Cromosomi;tricidolce,Cromosomi tricidolce
+1583,1583,ave;remo;di;zar;Verona;omino,ave remo di zar Verona omino,Avere;modi;za;vero;naomino,Avere modi za vero naomino
+1584,1584,con;tangeri;arpa;aurorae,con tangeri I O N arpa N T aurorae,Contangerio;nantarpa,Contangerio nantarpa
+1585,1585,dio;pero,STU dio pero ALE,Studiope;roale,Studiope roale
+1586,1586,amo;varie;arsi,S amo varie N T arsi AT O,Samovar;inventato,Samovar inventato
+1587,1587,fon;dentista;ali,fon D I dentista T ali,Fondi;d;enti;statali,Fondi d'enti statali
+1588,1588,ammiragli;ceri;nata,ammiragli ceri S A nata,Ammirà;glicerina,Ammirà glicerina
+1589,1589,unti;cipresso;Torino;uovo;arca,unti PO C cipresso Torino N uovo DI M arca,Un;tipo;che;pressoto;rino;nu;ovida,Un tipo che pressoto rino nu ovida
+1590,1590,corta;oli;tic;in;stria,AC corta P oli tic A in D U stria LE,Accortà;politica;industriale,Accortà politica industriale
+1591,1591,re;dentista;ali,P re SI dentista T ali,Presidenti;statali,Presidenti statali
+1592,1592,in;cantina;bi;limoni;Ti,in cantina bi limoni Ti,Incantinabili;moniti,Incantinabili moniti
+1593,1593,vere;sarda;menti,A vere VI sarda D I menti,Aver;evidenti;adimenti,Aver evidenti adimenti
+1594,1594,Ra;Diana;ode,T Ra TT Diana M ode,Trattid;iana;moda,Trattid iana moda
+1595,1595,accetta;stante;stazioni,IN accetta stante N T E stazioni,Inaccettabile;stantestazioni,Inaccettabile stantestazioni
+1596,1596,teda;massi;issa,SI teda E massi N issa,Siteda;e;massissima,Siteda e massissima
+1597,1597,Leopardi;carri;pesca,CA Leopardi ROC carri NCI pesca,Calé;pariero;cincipeasca,Calé pariero cincipeasca
+1598,1598,Verona;sole;pio,PO Verona UFR sole R pio,Povero;naufrago;lercio,Povero naufrago lercio
+1599,1599,est;strie;mente;con;Gockel,R est Y strie MA mente con Gockel,Restystrì;ementemente;congockel,Restystrì ementemente congockel
+1600,1600,zio;ora;unti,SFI zio ora P unti NO,Sfiorato;rapunto,Sfiorato rapunto
+1601,1601,Diana;ami,F Diana S ami,Fid;iana;s;amami,Fid iana s'amami
+1602,1602,nassa;Aleardi;buccia,U nassa ILI Aleardi B buccia,Un;assai;lia;ardibuccia,Un'assai lia ardibuccia
+1603,1603,mici;lira,C O mici lira TI,Comici;lirati,Comici lirati
+1604,1604,va;rose;ombra;anche,va LO rose T R I ombra M anche,Valorose;trio;bramance,Valorose trio bramance
+1605,1605,Diana;nidi;ode,F Diana G nidi L ode,Fid;iana;gindi;lo;dè,Fid iana gindi lo dè
+1606,1606,toppa;dita,TES toppa R dita,Testo;parda,Testo parda
+1607,1607,mine;tra;Licia,mine S tra Licia NT E,Minestra;licinante,Minestra licinante
+1608,1608,golosi;di;more,S O golosi di more,Sogolo;si;d;imore,Sogolo si d'imore
+1609,1609,lista;sereno;are,MA lista sereno C C are,Mali;star;in;occare,Mali star in occare
+1610,1610,ari;enti;cardi,ari T enti O cardi CA,Aritenti;ocardica,Aritenti ocardica
+1611,1611,anello;sarda;tra;tacchi,TR anello sarda N tra T tacchi,Tra;nellozar;dantrattacchi,Tra nellozar dantrattacchi
+1612,1612,viola;area;per;mente,viola FF area per T A mente,Violaffa;reperatamente,Violaffa reperatamente
+1613,1613,ascia;oca;tane,ascia F IL oca tane SE,As;ciafilo;catanese,As ciafilo catanese
+1614,1614,dive;lava,C A dive L lava LLE,Cadivela;valle;alle,Cadivela valle alle
+1615,1615,para;destro;di;porta,para destro I di AS porta T E,Paradestro;idiportate,Paradestro idiportate
+1616,1616,do;gallo;dio,do P IN gallo STA dio,Doping;allo;stadio,Doping allo stadio
+1617,1617,Serio;etti,MI Serio M etti,Miseri;ometti,Miseri ometti
+1618,1618,maghi;Dean;Era,maghi Dean Era,Maghiade;anera,Maghiade anera
+1619,1619,nane;cento,BA nane IN cento,Banana;in;cento,Banana in cento
+1620,1620,agave;natura;rata,V agave natura A MB rata,Vaga;venatura;ambrata,Vaga venatura ambrata
+1621,1621,gnomo;osa;nato,LE gnomo L osa GI O nato,Legno;molto;saggiornato,Legno molto saggiornato
+1622,1622,alci;ari,alci S ari NA,Alcisa;rina,Alcisa rina
+1623,1623,olle;recensioni,C olle recensioni U SO,Collegio;senio,Collegio senio
+1624,1624,in;catino;di;riso,in TRI catino di riso LTI,Intricate;tini;risolti,Intricate tini risolti
+1625,1625,tra;Diana;orme;intere,tra T T Diana N orme intere SSE,Trattia;nano;r;meinte;interessi,Trattia nano r'meinte interessi
+1626,1626,pirati;tane;orto,pirati S tane L T orto,Pira;ti;sta;nel;torto,Pira ti sta nel torto
+1627,1627,starne;lama;sarda,R E starne L lama N sarda,Restar;nella;mansarda,Restar nella mansarda
+1628,1628,naso;manopola,U naso M manopola,Una;somma;polizza,Una somma polizza
+1629,1629,arca;aia,M arca TU aia,Marcautua;iai,Marcautua iai
+1630,1630,pere;nero;are,S A pere nero F F are,Sapere;nefare,Sapere nefare
+1631,1631,anca;Oto,C anca NSF Oto,Cancan;sfotato,Cancan sfotato
+1632,1632,porta;di;menta,porta R di F menta,Porta;rinfrescata,Porta rinfrescata
+1633,1633,sarde;amate,sarde S Q U amate,Sarde;squamate,Sarde squamate
+1634,1634,arido;teda,UN arido teda NTO,Un;arido;te;da;tanto,Un arido te da tanto
+1635,1635,Cam;Oto,Cam P OD Oto,Campo;dotato,Campo dotato
+1636,1636,turni;onda,turni LL onda IT,Turnillo;nd;ait,Turnillo nd ait
+1637,1637,papi;ondine;rase,papi L L ondine rase T A,Papillon;di;nera;seta,Papillon di nera seta
+1638,1638,rebus;cieco;anni,LA rebus L cieco FF anni,Larebus;la;cieca;off;anniversario,Larebus la cieca off anniversario
+1639,1639,rombo;velli,AR rombo R velli,Arrombo;rimbrevvi,Arrombo rimbrevvi
+1640,1640,leva;oboe,leva FIL oboe MO,Le;vafilo;boemo,Le vafilo boemo
+1641,1641,Pan;ori;ceri,Pan T ori L A ceri,Pantoheri;laceri,Pantoheri laceri
+1642,1642,coppia;la;manti,S coppia L la R manti,Soppià;larmanti,Soppià larmanti
+1643,1643,re;dottore;unite;si,P re SI dottore T unite N si,Presidente;toreretinite,Presidente toreretinite
+1644,1644,re;lepre;nidi;Talia,B re lepre Z IO nidi Talia NO,Brelè;prezioni;d;Italiano,Brelè prezioni d'Italiano
+1645,1645,ami;ambi;ovali;re;mici,ami C O ambi G U ovali T re N E mici,Amico;ambiguo;alit;re;nemici,Amico ambiguo alit re nemici
+1646,1646,unte;negre;travi;Crati,unte R MI negre travi CNO Crati,Un;termine;greco;tra;vicinocrati,Un termine greco tra vicinocrati
+1647,1647,ile;zio;sabbata,S ile N zio sabbata IA,Silenziosa;battaia,Silenziosa battaia
+1648,1648,ara;nero;zio,F ara nero zio NI,Far;annerioni,Far annerioni
+1649,1649,tale;collare,N A tale collare V E,Natale;colla;reve,Natale colla reve
+1650,1650,rosa;bocca;esca,P rosa bocca C C esca,Prosa;boccaccesca,Prosa boccaccesca
+1651,1651,mente;testa;di,TRA mente N testa di O,Tramentente;stadio,Tramentente stadio
+1652,1652,in;cantina;lima;Ezio,in cantina BI lima N OV Ezio,Incantinabili;manovre;zio,Incantinabili manovre zio
+1653,1653,maniglia,AR maniglia,Arma;nigliac,Arma nigliac
+1654,1654,ultime;chini,A D ultime S chini,Adulti;meschini,Adulti meschini
+1655,1655,mais;netta,MA mais N netta,Mamma;isannetta,Mamma isannetta
+1656,1656,rotti;Dallas,AVE rotti Dallas CI,Aver;ottida;lassi,Aver ottida lassi
+1657,1657,raggio;osa;mura,CO raggio S osa mura I,Coraggioso;samurai,Coraggioso samurai
+1658,1658,do;Ares;ceri;risi,do N Ares IN ceri S O R risi,Donare;sinceri;sorrisi,Donare sinceri sorrisi
+1659,1659,in;Houston,in TI Houston CI,Intiho;usonci,Intiho usonci
+1660,1660,Chieti;ovalata;erme;tea;iuta,Chieti M ID ovalata GG erme N tea iuta TO,Chi;è;timido;va;lattagagger;meitato,Chi è timido va lattagagger meitato
+1661,1661,occhi;di;pie;aperto,B L occhi di pie T aperto,Blockhi;di;pietra;pietro,Blockhi di pietra pietro
+1662,1662,va;nidi;dottore;ali,GIO va nidi P E N dottore T ali,Giovani;dipendotto;retali,Giovani dipendotto retali
+1663,1663,re;mura;are,P re mura D I F are,Premura;di;fare,Premura di fare
+1664,1664,attiva;condotta,C attiva condotta,Cattiva;condotta,Cattiva condotta
+1665,1665,richiamo;Rambo,CA richiamo T Rambo,Cari;chiamotrambo,Cari chiamotrambo
+1666,1666,Mani;solido,Mani solido,Maniso;lido,Maniso lido
+1667,1667,ossi;rocca;mani,T ossi CO rocca I NO mani,Tossicorocca;inomani,Tossicorocca inomani
+1668,1668,viola;fa;bacca,viola F fa RA: bacca RA,Violaff;a;rabbacca,Violaff a rabbacca
+1669,1669,ellissi;api;aia,B ellissi M api ET aia,Bellissima;pietà;aià,Bellissima pietà aià
+1670,1670,dive;la;stria,O dive L la U stria,Odìvel;laù;Stiria,Odìvel laù'Stiria
+1671,1671,par;chi;Ra;anno,par chi G Ra anno SO,Parchigraa;noioso,Parchigraa noioso
+1672,1672,re;arma;alose,AR re D arma N alose,Arredar;manalose,Arredar manalose
+1673,1673,assi;distanze;Pitt,M assi distanze Pitt ETO,Massidi;st;anzieto,Massidi st anzieto
+1674,1674,merluzzo;arista;perle,U merluzzo LM arista perle GNO,Umer;più;zolmari;st;perlegno,Umer più zolmari st perlegno
+1675,1675,bar;primo;ale,bar NI DI primo R ale,Barnidi;pr;imperiali,Barnidi pr imperiali
+1676,1676,in;eroina;ora,V in ON: eroina NF ora,Vino;nero;in;Africa,Vino nero in Africa
+1677,1677,ori;per;miss;la,TUT ori per miss la,Tutori;permissiva,Tutori permissiva
+1678,1678,Gru;Edi;ale,PRO Gru M Edi C ale,Progrume;dicale,Progrume dicale
+1679,1679,lecco;con;gru,SA lecco con gru O,Salecco;congruo,Salecco congruo
+1680,1680,asso;ninfa;Ra,SP asso ninfa T E Ra,Spassoni;ninfatera,Spassoni ninfatera
+1681,1681,tori;bocca;esca,S tori A bocca CC esca,Storia;boccaccesca,Storia boccaccesca
+1682,1682,in;ossa;epa;orme;coni;volto,in D ossa R epa N T orme coni LR IS volto,Indossare;pantaloni;nel;ri;soltanto,Indossare pantaloni nel ri soltanto
+1683,1683,manticore;sta,RA manticore ZZI sta,Ramo;ticorista,Ramo ticorista
+1684,1684,avo;postino;tetti,avo M postino N P RO tetti,Avomposti;non;protetti,Avomposti non protetti
+1685,1685,magi;ultime;ali,IM magi NIM ultime DI ali,Immagini;multimediali,Immagini multimediali
+1686,1686,alberi;Pan;Era,C alberi O Pan T Era,Calbero;pantera,Calbero pantera
+1687,1687,di;vate;razzi,di vate L E razzi C A,Diva;telematica,Diva telematica
+1688,1688,papi;onda;Era,papi L L onda S Era,Papillon;da;sera,Papillon da sera
+1689,1689,intere;santi;leva,intere S S I leva,Interessileva;discussione,Interessileva discussione
+1690,1690,dente;piccante;Leda;lame;tea;erta,STU dente S piccante A Leda L lame N tea P erta,Studentesca;ntealè;dalla;mente;aperta,Studentesca ntealè dalla mente aperta
+1691,1691,marine;va,B U marine va TA,Buma;rinevata,Buma rinevata
+1692,1692,re;di;olla;mina,P re di olla mina LI,Prediolle;minerali,Prediolle minerali
+1693,1693,postino;Reno;abili,postino N P Reno T abili,Posti;non;prenotabili,Posti non prenotabili
+1694,1694,alte;cuscini;fon,alte R cuscini L E fon O,Altercu;sci;nilafone,Altercu sci nilafone
+1695,1695,para;intere;icona;zio,IM para RE intere S icona zio NI,Imparare;interessiconi;azioni,Imparare interessiconi azioni
+1696,1696,essi;rea;re,S essi rea RI DE re,Sessiere;a;ridere,Sessiere a ridere
+1697,1697,ananas;gente,M ananas G gente,Mana;nascgente,Mana nascgente
+1698,1698,spavalda;rada;accetta,BA spavalda D U rada accetta RE,Baspava;lada;da;accettare,Baspava lada da accettare
+1699,1699,fa;olla;etti,AF fa TI olla NN etti,Affatuiòll;annettì,Affatuiòll annettì
+1700,1700,verde;est;ante,GA verde est A NC ante,Gave;rese;e;stancante,Gave rese e stancante
+1701,1701,in;credenza;bilia;mici,in credenza bilia mici,Incredenzaibili;amici,Incredenzaibili amici
+1702,1702,verso;tenere;amico;lessati,DO verso S tenere S amico MP lessati,Dover;sostener;same;complicati,Dover sostener same complicati
+1703,1703,ananas;nere;re,V ananas nere G re CA,Vana;nanser;greca,Vana nanser greca
+1704,1704,rana;ricette;asso,ING rana G ricette asso SO,Ingranagrici;cettassoso,Ingranagrici cettassoso
+1705,1705,nume;idra;pelli,nume R OS idra P pelli,Numerosi;drappelli,Numerosi drappelli
+1706,1706,steno;pera;tiara,MO steno M pera tiara TE,Mosten;omparatia;r;ate,Mosten omparatia r ate
+1707,1707,Gentleman;sale;Era,Gentleman IO sale TT Era,Gentilemano;salettera,Gentilemano salettera
+1708,1708,esili;aria,esili aria,Esilia;ria;Re,Esilia ria Re
+1709,1709,Po;per;tori,Po per A tori,Pope;ratori,Pope ratori
+1710,1710,arti;lecco;etti,P arti CO lecco G G etti,Particolecco;ggettini,Particolecco ggettini
+1711,1711,stole;omo;pia,PA stole GG omo pia N TE,Pasto;leggiero;m;omipotente,Pasto leggiero m omipotente
+1712,1712,pesca;orata;sella;luccio,COP pesca orata sella TE MA luccio,Coppè;sciarata;sellatema;luccio,Coppè sciarata sellatema luccio
+1713,1713,lucciole;radi;va;coro,AL lucciole A radi va S coro SSI,Luccioleara;di;vascor;ossi,"""Luccioleara"" di vascor ossi"
+1714,1714,alari;amaretto,S C alari NF amaretto,Scala;rinamaretto,Scala rinamaretto
+1715,1715,apri;vite;di;Pi;randello,L apri vite di Pi randello,La;prima;vittoria;di;Pirandello,La prima vittoria di Pirandello
+1716,1716,loro;mici,S loro T O mici,Soloro;tomi ci,Soloro tomi ci
+1717,1717,lesta;osa;ode;eco,lesta T osa I ode LL eco SE,L;estate;soiai;delle;cose,L'estate soiai delle cose
+1718,1718,fonti;oste;tris,fonti N oste A tris TA,Fontino;ste;astra;istitista,Fontino ste astra istitista
+1719,1719,van;da;Lina,V I van da Lina N TE,Vivanda;linante,Vivanda linante
+1720,1720,imperatori;rosa,RI imperatori ET rosa,Rimi;peratorio,Rimi peratorio
+1721,1721,super;Bello;amo;esca,super Bello E S amo R esca,Superbe;lloesa;moresca,Superbe lloesa moresca
+1722,1722,ave;anta;mura,ave R T anta P RE mura,Aver;tanta;premmura,Aver tanta premura
+1723,1723,porta;fragola,porta F fragola,Porta;fragola,Porta fragola
+1724,1724,lei;osti,lei L L osti C K,Leill;ostic;stick,Leill ostic stick
+1725,1725,pitt;liana;Ming,pitt U liana M Ming A,Pittuli;annammina,Pittuli annammina
+1726,1726,avidi;stie;con;mici,GR avidi SSE stie con O mici,Gravi;dissesti;economici,Gravi dissesti economici
+1727,1727,Verdi;rossi;viola,V I Verdi G rossi viola FF,Viver;di;grossi;viola,Viver di grossi viola
+1728,1728,oca;re;Risi,GI oca re A Risi KO,Giocare;a;risiko,Giocare a risiko
+1729,1729,Idra;icona,Idra UL icona NO,Idrailico;nano,Idrailico nano
+1730,1730,mappa;toro;telescrinista,mappa toro telescrinista,Mappator;otelescrinista,Mappator otelescrinista
+1731,1731,pera;ree;colo;covo;Erie,O pera TO ree colo G I covo L Erie,Operatore;ecologico;volere,Operatore ecologico volere
+1732,1732,Asti;Io;mossa,F Asti D Io mossa PAM,Fastidiosa;mossa,Fastidiosa mossa
+1733,1733,Ontario;onde,M Ontario N OS onde,Montan;tonosonde,Montan tonosonde
+1734,1734,oca;Lem;alosa,L oca Lem AN alosa TO,Locale;manalosato,Locale manalosato
+1735,1735,astro;nidi;aia,L astro nidi P I ET aia,Lastroni;di;pietra;iai,Lastroni di pietra iai
+1736,1736,saba;ode;poli,IL saba T ode L poli,Il;sabato;del;poliopico,Il sabato del poliopico
+1737,1737,arco;palla;corsia;gente;esca;rotti,M arco RE palla C corsia R gente RO esca rotti O,Marcoer;palla;ccorcia;ruggierose;c;rottorio,"Marcoer, palla, ccorcia, ruggierose ccorrtorio"
+1738,1738,ante;cometa;gnomo,GIG ante S cometa NO gnomo,Gigantesco;metanogenomo,Gigantesco metanogenomo
+1739,1739,re;dottore;nati,IR re dottore FA nati C O,Irredottore;fanatico,Irredottore fanatico
+1740,1740,per;recensioni,per TU recensioni U SO,Perturbe;cisioni,Perturbe cisioni
+1741,1741,cesto;eco;mici,MER cesto N eco N O mici,Mercesti;non;economici,Mercesti non economici
+1742,1742,Erie;dinari,VOL Erie R dinari,Volerieri;dinarari,Volerieri dinarari
+1743,1743,ferma;sinistro;manzi,AF ferma sinistro manzi ERI,Affermasi;nostramanzi,Affermasi nostramanzi
+1744,1744,Pan;astro,Pan C astro FA,Pancasta;roffa,Pancasta roffa
+1745,1745,Erie;rari,VOL Erie rari O,Volerierar;iario,Volerierar iario
+1746,1746,est;tino;mori;pialla,D est A tino mori S pialla NO,D;estate;ino;moris;piallano,D'estate ino moris piallano
+1747,1747,alloro;nera,M alloro nera TA,Mall;ornerata,Mall ornerata
+1748,1748,papi;onde;ode,papi L L onde M ode,Papillon;démodé,Papillon démodé
+1749,1749,erma;zio;onda,AFF erma zio NE INF onda,Affermazione;infondata,Affermazione infondata
+1750,1750,amo;mora,VI amo mora TI,Via;moralisti,Via moralisti
+1751,1751,chiavi;tra;ladro,S chiavi tra ladro GA,Schiavi;trala;droga,Schiavi trala droga
+1752,1752,lava;lesina;anche;oche;cantina;ile,lava R O lesina anche C I oche E I N cantina B ile,L;avaro;lesina;anche;ciò;che;è;incantinabile,L'avaro lesina anche ciò che è incantinabile
+1753,1753,lastra;aperto;area;sa,lastra D aperto RN area C A sa,La;strada;per;tornare;a;casa,La strada per tornare a casa
+1754,1754,mais;antenne,MA mais V antenne,Mamma;isvanterne,Mamma isvanterne
+1755,1755,,,,pere N N A N N a TA
+1756,1756,Licia;eco;Lazio,Licia N T eco Lazio NE,Licianete;colazione,Licianete colazione
+1757,1757,mani;ondina;epe;lessati,mani F E ondina epe RP lessati TA,Manifestine;plessatitata,Manifestine plessatitata
+1758,1758,if;pantere;idi;cosce,if S pantere P idi ES cosce SI,Ispante;repidi;e;scosci,Ispante repidi e scosci
+1759,1759,perso;attiva,perso N A C attiva,Persona;cattiva,Persona cattiva
+1760,1760,colono;rare,S colono LLE rare,Scolo;nollerare,Scolo nollerare
+1761,1761,luccio;ali,luccio N TR ali,Lucio;contrasti,Lucio contrasti
+1762,1762,torre;manti,U torre manti C I,Utore;d;antichi,Utore d antichi
+1763,1763,Ares;collane;veata,F Ares C I collane veata LE,Fare;scì;colla;nèva;taleggiante,Fare scì colla nèva taleggiante
+1764,1764,,,,Squalo KE rea T preziosi
+1765,1765,scia;rhea;dotto,scia rhea dotto,Sciarhe;ad;ott,Sciarhe ad ott
+1766,1766,fa;volare;VI;eco;aghi;tee;aghi,fa volare VI RI eco N M aghi FA tee DR aghi,Favolare;virie;con;maghi;fate;e;draghi,"Favolare virie con maghi, fate e draghi"
+1767,1767,picco;loto,FOL picco loto NE,Folpi;cccotine,Folpi cccotine
+1768,1768,ave;latte;ontano,ave R E latte ontano NZA,Avere;l;attone;tanzana,Avere l'attone tanzana
+1769,1769,,,,ROcca [Castello medievale] = rocca NE
+1770,1770,,,,Gianni N [Una donna fra i Titani] L I canto
+1771,1771,mori;azione,N O R mori TU azione,Normori;tutazione,Normori tutazione
+1772,1772,cieco;tese;re,S cieco tese V E re,Sciecotese;vere,Sciecotese vere
+1773,1773,mais;urna,SA mais TT urna,Samaì;sturna,Samaì sturna
+1774,1774,la;ligustro;Erie,la V O ligustro L Erie,Lavigu;strolerie,Lavigu strolerie
+1775,1775,Gentle;oche;rima;neve;lato,Gentle oche rima neve lato,Gentleo;che;rimane;velato,Gentleo che rimane velato
+1776,1776,mesi;reseda;cane,RI mesi CU reseda S cane,Rime;sicure;sedascan,Rime sicure-sedascan
+1777,1777,orata;estremi;Eva,RI orata N T estremi Eva LI,Riortar;anteste;rimievali,Riortar anteste rimievali
+1778,1778,irlandese;Ra,irlandese P U Ra,Irlanda;secca,Irlanda secca
+1779,1779,Carrara;lidi;faustino,Carrara L lidi F faustino A,Carrara;al;Liddia,Carrara al Liddia
+1780,1780,arco;ocarina,BI arco NT ocarina,Biarco;tanto;carina,Biarco tanto carina
+1781,1781,cieco;rea;in,S cieco rea S in I,Sciecoreasi;nini,Sciecoreasi nini
+1782,1782,Idra;teste,Idra N teste S O,Idrante;steso,Idrante steso
+1783,1783,dive;re;tino,C A dive LT re N tino,Cadiverte;nel;tino,Cadiverte nel tino
+1784,1784,Erode;dati,M Erode S O L dati,Merod;esoldati,Merod esoldati
+1785,1785,Castlereagh;scola;Mino;tino,Castlereagh O RE scola Mino C EN tino,Castlereagh;ore;scolamino,Castlereagh ore scolamino
+1786,1786,scoglio;Ghiaccio,PO scoglio Ghiaccio NE,Poscog;l;ioccone,Poscog l'ioccone
+1787,1787,lava;padella;in;coppia,lava M padella M in AS coppia TA,La;vampà;della;mina;scoppia,La vampà della mina scoppia
+1788,1788,assi;ossa;toast,N assi G R ossa S toast,Nasi;gr;ossaso;stasto,Nasi gr ossaso stasto
+1789,1789,ami;Diana;denti,ES ami N Diana LU denti,Esamindi;anil;adiudenti,Esamindi anil adiudenti
+1790,1790,al;parata;venti,SP al parata venti,Spalpa;rataventi,Spalpa rataventi
+1791,1791,Talia;luci;savanti,MOR Talia L luci N O savanti,Mortali;illusionavanti,Mortali illusionavanti
+1792,1792,orchi;reo;Liv,T orchi A reo Liv E,Torchiare;olive,Torchiare olive
+1793,1793,automa;testa,C automa N testa,Cauto;mantesta,Cauto mantesta
+1794,1794,rotti;danno,FU rotti FA danno,Furor;ti;fa;danno,Furor ti fa danno
+1795,1795,tris;legge;mente;ala,BI tris legge R mente S ala TA,Bistrise;legalmente;salata,Bistrise legalmente salata
+1796,1796,rossi;orate,B rossi E D orate,Brossie;dorate,Brossie dorate
+1797,1797,tra;Diana;menti,tra T T Diana P R I menti,Trattidi;anni;primiamenti,Trattidi anni primiamenti
+1798,1798,intere;cerimonia;tali;ari,"intere S cerimonia VI, tali B R ari E",Interessceri;monia;vitali,Interessceri monia vitali
+1799,1799,colo;epa;squali;coperte;ciocco;lato;dente,colo M B epa squali R I coperte D I ciocco lato F ON dente,Colombe;pasquale;ricoperte;di;cioccolato;fondente,Colombe pasquale ricoperte di cioccolato fondente
+1800,1800,Idra;Cipro;etti,Idra U LI Cipro V etti,Idraulici;provetti,Idraulici provetti
+1801,1801,ciminiere;radura,RI C ciminiere radura NIO,Ricci;miniere;a;Duranzio,Ricci miniere a' Duranzio
+1802,1802,,,,Biota riso S Samotracia
+1803,1803,in;bocciato,in VA bocciato R,Invabocciato;rito,Invabocciato rito
+1804,1804,tede;chirurgo,A R tede CA chirurgo,Arte;decachirurgo,Arte decachirurgo
+1805,1805,legge;Arnone;mura,legge N D Arnone mura I,Leggendarne;onemurai,Leggendarne onemurai
+1806,1806,,,,"Dino, Marco e Nelo registi EDE Novarro, attore del cinema muto ACO"
+1807,1807,,,,viola tinte NO
+1808,1808,campana;re;ultima,campana N P re ultima TI,Campa;nan;preultimati,Campa nan preultimati
+1809,1809,rive;re;cieco,rive D E re cieco TI,Rivedere;cieco;tito,Rivedere cieco tito
+1810,1810,lame;Diana;proiettile,lame Diana proiettile,La;media;napoleti,La media napoleti
+1811,1811,rotti;rate;odi;musi,rotti A rate M P odi musi C A,Rottiar;a;tempo;di;musica,Rottiar a tempo di musica
+1812,1812,epa;dive,TR epa dive R I,Tre;padiveri;bei,Tre padiveri bei
+1813,1813,Ares;orbo,D Ares orbo TE,Dare;sorbote,Dare sorbote
+1814,1814,Bell;agenti;lepre;violino;saba;Dante,Bell agenti lepre violino saba Dante,Bella;gentile;previolini;saba,Bella gentile previolini saba
+1815,1815,corta;rete;timoni,S corta rete S timoni,Scartare;testimoni,Scartare testimoni
+1816,1816,gallo;nido,I gallo nido RO,I;gallo;n;ido,I gallo n'ido
+1817,1817,nasse;osa;ile,U nasse T osa B ile,Un;asetoso;abile,Un asetoso abile
+1818,1818,,,,Scola [Poco lunga] = sta [Attori popolari] = divi P
+1819,1819,foro;mani;aperto,TI foro mani ST aperto TTI,Tipo;romanista;per;otti,Tipo romanista per otti
+1820,1820,ellissi;maniglia;more,B ellissi maniglia D A more,Bellissima;lingua;d;amore,Bellissima lingua d'amore
+1821,1821,foro;raggio,TRI foro raggio SA,Trifo;raggiososa,Trifo raggiososa
+1822,1822,omini;arco;spira;tori,omini arco spira tori,Ominiar;cospiratori,Ominiar cospiratori
+1823,1823,manovella,FA manovella,Fama;novella,Fama novella
+1824,1824,medi;con;dotto,medi CO con dotto,Medico;condotto,Medico condotto
+1825,1825,vino;asce;nate;per,vino L IC asce nate A per L E,Vinolica;scena;teatrale,Vinolica scena teatrale
+1826,1826,forint;ancora;piastra,forint N ancora S piastra TI,Forin;tna;ancora;spiastrati,Forin tna ancora spiastrati
+1827,1827,ara;teda;sella,C ara F teda sella TA,Carafte;dasesellata,Carafte dasesellata
+1828,1828,rari;ora,rari O D ora TO,Rario;dorato,Rario dorato
+1829,1829,,,,DIS Ciolo [Serve per filtrare] S S [S'incontra col pepe...] = sale
+1830,1830,zampillo;Edison;rio,CAN zampillo RI Edison D rio,Canzampillo;ri;Edisondrio,Canzampillo ri Edisondrio
+1831,1831,canoa;ali;Parigi;zio;dischi,VUL canoa LB ali Parigi A N zio dischi A,Vulcano;alba;lpirig;ianziodis;chi;aia,"Vulcano, alba, lpirig, ianziodis chi aia"
+1832,1832,tra;cuscini;amo,tra FF I cuscini R amo,Trafficus;cin;iramo,Trafficus cin iramo
+1833,1833,armi;attore;lima;ninfa;eroe;doni,armi BB attore T A lima ninfa LI ero G OL doni,Ar;mibbat;t;oretil;amani;niefali;e;rogolini,"Ar mibbat t oretil amani, niefali e rogolini"
+1834,1834,piastra;dita;chino;Era,BI piastra dita C chino T EN Era,Bipiastra;di;taccchino;tenera,Bipiastra di taccchino tenera
+1835,1835,est;nidi;sarda;tana,IF est I nidi sarda N A tana,I;festini;di;disardanata,I festini di disardanata
+1836,1836,fa;alosa,fa L alosa TI,Falalo;sati,Falalo sati
+1837,1837,rima;leggio,ES rima NO leggio,Esrima;n;oleggio,Esrima n oleggio
+1838,1838,onesto;anelli,MI onesto R F anelli,Mione;storfanelli,Mione storfanelli
+1839,1839,mais;antenne,NE mais V antenne,Nemaì;svantenne,Nemaì svantenne
+1840,1840,ode;arpa;nei,F ode R arpa N T nei,Foderar;pantnei,Foderar pantnei
+1841,1841,culla;dive;mi,AS culla R CA dive mi CI,Ascullar;cadivemi;ci,Ascullar cadivemi ci
+1842,1842,ponente;corta,IM ponente S corta,Imponente;scorta,Imponente scorta
+1843,1843,,,,PE ro RR ida
+1844,1844,soli;dardi;vari,C O N soli dardi vari,Consolidar;diveri,Consolidar diveri
+1845,1845,corta;rema;strati,S corta rema G I strati,Scortare;magistrati,Scortare magistrati
+1846,1846,mici;coni;olle;audace;ile,CA mici A coni L C olle T audace C CAB ile,Camicia;con;il;colletta;udacccabile,Camicia con il colletta udacccabile
+1847,1847,usa;colo;mina,BL usa colo R mina,Blusa;color;mina,Blusa color mina
+1848,1848,aiuto;Rambo,VI aiuto T Rambo,Vai;utrambo,Vai utrambo
+1849,1849,asiatici;lente,asiatici lente,Asia;ticiente,Asia ticiente
+1850,1850,assi;asse;arco,P assi ONE asse C arco,Passione;assécarco,Passione assécarco
+1851,1851,ava;aletta;orata,UN ava M aletta M orata,Una;vama;letteramorata,Una vama letteramorata
+1852,1852,last;pira;tori;cono;sci;mento,last pira tori cono sci mento,Lastitori;conosciamento,Lastitori conosciamento
+1853,1853,,,,SCO di Como [Albero da frutto] SI
+1854,1854,nera;la,TE nera BI la,Tenera;bilità,Tenera bilità
+1855,1855,arti;rei;spia,M arti rei R R E spia,Martire;irrispettosa,Martire irrispettosa
+1856,1856,oli;Udine;amaro,S oli T Udine F amaro,Solidudine;famaro,Solidudine famaro
+1857,1857,parche;gatti,parche G gatti US O,Parcheggati;usato,Parcheggati usato
+1858,1858,in;tender;aperto,in tender ROM aperto MA,Intender;Roma;per;Roma,Intender Roma per Roma
+1859,1859,risma;casco;data,DA risma RI casco R data,Dari;smaricà;scordata,Dari smaricà scordata
+1860,1860,pitt;Eschilo;ali,pitt O R Eschilo C ali,Pittorischilo;cali,Pittorischilo cali
+1861,1861,ape;sonar;rade;tee;Tina,UN ape R sonar rade EN tee OS Tina TA,Una;persona;raddeante;e;ostinata,Una persona raddeante e ostinata
+1862,1862,industriosa;stia;aia;lati,TR industriosa stia SS O lati,Trindi;rosa;stia;solatati,Trindi rosa stia solatati
+1863,1863,delta;scola;Po;Po;verso;legge,FE delta scola Po Po LO verso L A legge,Fedelta;sco;lavoro;polo;va;sola,Fedelta sco lavoro polo va sola
+1864,1864,nato;menta;velo;Adamo,U nato R menta velo RI Adamo RE,Una;tormenta;velori;a;damore,Una tormenta velori a'damore
+1865,1865,danza;perno,FI danza perno LTA,Fidanzaper;noulta,Fidanzaper noulta
+1866,1866,Diana;denti,F Diana L U denti,Fid;iana;ludenti,Fid iana ludenti
+1867,1867,alloro;nera,M alloro nera NDA,Mall;orneranda,Mall orneranda
+1868,1868,ore;esca;onda,VOL ore LAP esca M onda,Volore;la;pesca;mondai,Volore la pesca mondai
+1869,1869,aspirazione;dito,P aspirazione RI dito,Pasì;paradorito,Pasì paradorito
+1870,1870,indignati;argini;aghi,P indignati argini aghi,Pigna;dinaghi,Pigna dinaghi
+1871,1871,pollo;atleti;sheikh;orchidee;asso,pollo C K atleti TT sheikh orchidee PI C asso,Pollock;atletiti;tesh;Eiko;R;Ichino,"Pollock, atletiti, tesh, Eiko R Ichino"
+1872,1872,asso;azione;divo;Erie;pedali,asso C I azione divo L Erie S pedali E RI,Associazione;di;volerie;speditieri,Associazione di volerie speditieri
+1873,1873,oro;fari,RI oro D AF fari,Riorodar;a;fari,Riorodar a' fari
+1874,1874,signor;vi,signor IO vi RIE,Signorizio;virie,Signorizio virie
+1875,1875,est;Eros;orbo,D est RI Eros orbo TO,Destriere;sorbovoto,Destriere sorbovoto
+1876,1876,fate;dee;Ra;re,fate dee Ra re,Fatedeer;are,Fatedeer are
+1877,1877,ontano;reo,P ontano reo RDE,Pontano;reorde,Pontano reorde
+1878,1878,pia;oli;leva,pia CEV oli S SI leva,piacevolissima;levata,piacevolissima levata
+1879,1879,in;sala;teca;sarda;golf,in sala teca E sarda A golf O,Insalate;caesar;da;agolio,Insalate «caesar» da agolio
+1880,1880,naso;ras;cieco,U naso NO ras cieco TA,Una;sonora;sciecotata,Una sonora sciecotata
+1881,1881,uova;pera;in;cantina;Ra;agli;denti,N uova O pera in cantina Ra L E agli S T U denti,Nuova;opera;in cantinare;ale;studenti,Nuova opera in cantinare ale studenti
+1882,1882,aro;aperto;Era;remo;stie,ER aro S aperto LL Era remo L E stie,È;raro;saper;tollerare;molestie,È raro saper tollerare molestie
+1883,1883,Verona;ago,PO Verona UFR ago,Povero;naufrago,Povero naufrago
+1884,1884,con;ultime;rima;dati,con S ultime DI CI rima N dati,Consulti;medici;rimandati,Consulti medici rimandati
+1885,1885,mura;osti;Lione;dive;redi;poli,mura T D A P osti G Lione dive N N E redi N A poli,Murat;da;postiglione;divenne;re;di;Napoli,Murat da postiglione divenne re di Napoli
+1886,1886,anello;serie,MAR anello serie VE,Maranello;serie;ve,Maranello serie ve
+1887,1887,mela;Austin;are,mela DE Austin LI T are,M;eladearsi;utilitare,M'eladearsi utilitare
+1888,1888,orata;riso;ala;are,AR orata riso P R ala L T are,Arorata;riso;prala;l;alture,Arorata riso prala l'alture
+1889,1889,panna;raggio;cappa;astore,panna R raggio A cappa D I astore,P;annarraggio;a;capiddiastore,P'annarraggio a capiddiastore
+1890,1890,forma;ondata,forma ST ondata,Forma;stondata,Forma stondata
+1891,1891,ascia;la;Lodi;peri,ascia la Lodi M peri A,As;cialodim;p;eremia,As cialodim p'eremia
+1892,1892,ulivi;viso;est;ori;lati,F ulivi viso N T est ori CO lati NO,Fu;livi;visione;storico;latino,Fu livi visione storico latino
+1893,1893,Lazio;dentista;ali,RE Lazio NI dentista T ali,Relazioni;d;enti;statali,Relazioni d'enti statali
+1894,1894,bidoni;oca;coda;nana,RI M bidoni oca R I coda nana S,Rimbidoni;occhiar;i;codanas,Rimbidoni occhiar i codanas
+1895,1895,elica;si;Adamo,D elica RI Adamo RE,Delicaria;damore;e;amore,Delicaria damore e'amore
+1896,1896,assi;lotto;mento,assi L lotto R mento SO,Assillo;tormentoso,Assillo tormentoso
+1897,1897,nave;oche;sedano,NO nave R oche sedano TTI,Non;aver;oche;seda;notti,Non aver oche seda notti
+1898,1898,attiva;sorte,C attiva sorte,Cattiva;sorte,Cattiva sorte
+1899,1899,serio;coli,MI serio M UN coli,Miseri;omoncoli,Miseri omoncoli
+1900,1900,Poe;tiro;mantici,Poe tiro mantici,Poi;tiromantici,Poi tiromantici
+1901,1901,in;serie;dame;catino,C in E serie dame R catino,Cinserie;di;Mercatino,Cinserie di Mercatino
+1902,1902,tre;nomi;Ares;corta,tre nomi LI T Ares corta TO,Treno;militare;scortato,Treno militare scortato
+1903,1903,unte;tosa;torri,unte M U tosa torri I,Un;temuto;satollo,Un temuto satollo
+1904,1904,dive;mici;spugna,CA dive mici E spugna TI,Cavicie;spugna;tisicate,Cavicie spugna tisicate
+1905,1905,,,,Tinta ARU Venere
+1906,1906,Pan;alone,GiAccaE Pan T alone,Giacca;e;pantalone,Giacca e pantalone
+1907,1907,viola;ghiro;etti,O viola N ghiro CCH etti,Oviolangi;hirocchetti,Oviolangi hirocchetti
+1908,1908,nato;cavi,U nato cavi SA,Una;tocavi;Sisa,Una tocavi Sisa
+1909,1909,fate;dee;don;Ate,fate dee don Ate,Fatede;donata,Fatede donata
+1910,1910,orme;are;collane;teorema,A D D orme N T are collane S teorema A,Adormirecoll;anes;teoremaa,Adormirecoll anes'teoremaa
+1911,1911,in;cantina;lepre;viso,in cantina BI lepre A V viso,Incantabile;preavviso,Incantabile preavviso
+1912,1912,ras;golosi,DU ras golosi TA,Dura;sgolosità,Dura sgolosità
+1913,1913,baffi;arma;cieche,SU baffi TT arma N cieche,Subaffittar;mancieche,Subaffittar mancieche
+1914,1914,sol;dati;canto;nati,sol dati canto nati,Soldati;cantonati,Soldati cantonati
+1915,1915,pie;alone,pie RO BA D alone,Piero;Badalone,Piero Badalone
+1916,1916,coppia;tomi,S coppia tomi CI,Scoppia;potemici,Scoppia potemici
+1917,1917,alani;malva;libri;Corea;menta,H alani MO malva libri RA N Corea LI menta,Ha;l;animo;malaviva;lib;rancore;alimenta,Ha l'animo malaviva lib rancore alimenta
+1918,1918,asso;Raimondo,CHI asso SF Raimondo,Chiasso;sfraimondo,Chiasso sfraimondo
+1919,1919,rubinetto;porta;porte,MER rubinetto DI porta porte S E,Merrubine;to;di por;tarpate,Merrubine to di por tarpate
+1920,1920,punte;gatti,punte G gatti A RO,Punteggi;atiaro,Punteggi atiaro
+1921,1921,miss;deriso;ode;astori,miss O deriso LT ode LL astori A,Missode;risolto;della;storia,Missode risolto della storia
+1922,1922,osteo;lista;ali,CA osteo BI lista T ali,Caosteo;bilista;taliani,Caosteo bilista taliani
+1923,1923,pirati;animali;more,pirati CU R animali DA more,Pira;ti;cura;n;anima;l;idamore,Pira ti cura n anima l'idamore
+1924,1924,parola;rete;fori,S parola rete DO fori,Sparatori;tedofori,Sparatori tedofori
+1925,1925,alam;tarabusi,alam P ET tarabusi,Alampetta;rabusì,Alampetta rabusì
+1926,1926,asta;sponde;nere;est;chino;ava;lidi;menti,B asta PO sponde nere T est AA chino NH ava lidi A R GO menti,Basta;posto;den;eretesi;taaçi;n;non;hav;ai;dialog;argomenti,Basta posto den eretesi taaçi non hav ai dialog argomenti
+1927,1927,spazzino;nano,spazzino nano RD,Spazzi;non;a;nord,Spazzi non a nord
+1928,1928,anta;lessati,S anta lessati O,Sant;Alessatio,Sant'Alessatio
+1929,1929,est;arpe;lessati,R est arpe R P lessati,Restar;perplexati,Restar perplexati
+1930,1930,more;Lino,A more SF Lino,Amore;sflino,Amore sflino
+1931,1931,unte;rose;topo;ovali,unte S O rose P O L topo C ovali,Un;tesoro;sepolto;poco;valli,Un tesoro sepolto poco valli
+1932,1932,mini;radura,mini E radura NIO,Miniera;d;uranium,Miniera d'uranium
+1933,1933,bocca;lidi;oro,I bocca lidi VI N oro SSO,I;boccali;di;vino;rosso,I boccali di vino rosso
+1934,1934,coach;somalo;re,coach I O somalo re,Coachioso;salore,Coachioso salore
+1935,1935,bilia;ode;oli,bilia T ode M oli TO,Biliatod;emolitico,Biliatod emolitico
+1936,1936,navi;aletta;ora,U navi aletta M ora T A,Una;via;lettamorata,Una via lettamorata
+1937,1937,son;la;lenti,MON: son la O lenti,Monsona;lenti,Monsona lenti
+1938,1938,Ostuni;Eros;Ario,S Ostuni Eros OL IT Ario,Sostuniero;solitario,Sostuniero solitario
+1939,1939,Verona;Urali,Verona T Urali STA,Vero;naturalista,Vero naturalista
+1940,1940,stanza;raffinati,SO stanza CH raffinati Q UEFA,Sostanza;che;fa;titolo,Sostanza che fa titolo
+1941,1941,aule;alberello;dive;chili,B aule C alberello dive C chili BRI,Bauli;calbe;re;llodivi;chili,Bauli calbe re llodivi chili
+1942,1942,arti;colo;bocca,U N arti colo D I bocca,Un;articolo;di;bocca,Un articolo di bocca
+1943,1943,mento;per;Ariosto;disco,AU mento per Ariosto disco NTO,Aumento;per;ario;di;sconto,Aumento per ario di sconto
+1944,1944,per;Tir;manici,R E per Tir manici,Reptili;romanici,Reptili romanici
+1945,1945,,,,USA nonno R I
+1946,1946,tre;icona;mina;vicine,S tre S icona mina T I vicine,Stresicona;minativicine,Stresicona minativicine
+1947,1947,buca;oli;Ati,TA buca NS oli D Ati,Tabù;censolidati,Tabù censolidati
+1948,1948,bar;redini;chele;lago,bar redini chele lago,Barre;di;nicche;l;ago,Barre di nicche l ago
+1949,1949,dive;astri,L I dive R astri,Lidivera;stridori,Lidivera stridori
+1950,1950,re;Diana;nidi;ode,P re MI Diana G nidi L ode,Premidi;anag;nidi;lo;dico,Premidi anag nidi lo dico
+1951,1951,chiesa;mas;menti;dio,chiesa V IO mas menti L O dio,Chi;è;savio;mas;sentimental;i;odi,Chi è savio mas sentimental i' odi
+1952,1952,nato;tosca;losco;visi,SO nato N tosca L losco R RI visi,Sonà;tanto;scallò;sco;scorrivisi,Sonà tanto scallò sco scorrivisi
+1953,1953,ance;scopa;dalia,F R ance scopa O dalia STI,Francesco;Paolo;Aliastri,Francesco Paolo Aliastri
+1954,1954,assiri;isola;bilie;avi;pera,A S assiri N isola bilie BR avi O pera I,Assassì;risolabilièbra;v;ioper;ai,Assassì risolabilièbra v ioper ai
+1955,1955,leva;tram;toga,leva tram toga,Le;vartanto;giocata,Le vartanto giocata
+1956,1956,statuetta;ito,P E statuetta V ito,Pestato;etavito,Pestato etavito
+1957,1957,tris;difesa,BI tris difesa,Bitrisdi;fe;ssa,Bitrisdi fe ssa
+1958,1958,cari;Ra;scheggia,cari C Ra I scheggia,Carica;di;scheggia,Carica di scheggia
+1959,1959,oro;recensioni,oro LO recensioni C,Olorecen;sic,Olorecen sic
+1960,1960,accetta;stoino;porta;tini;chili,IN accetta stoino M porta M EN tini chili STI,Inaccettabili;stoinomportami;ninchilisti,Inaccettabili stoinomportami ninchilisti
+1961,1961,cala;esche,cala MA N Z esche,Calam;anzeseche,Calam anzeseche
+1962,1962,orci;arpa;rossicce,A CC orci arpa N T rossicce,Accorciar;pantrossi,Accorciar pantrossi
+1963,1963,sci;Enza;poltrone,CO sci Enza C I poltrone,Coscienza;cipoll,Coscienza cipoll
+1964,1964,Verona;etto,PO Verona N etto,Povero;nanetto,Povero nanetto
+1965,1965,ali;mento;cantina;cipie,L ali mento IN cantina cipie LE,L;alimento;inacidinacipiele,L'alimento inacidinacipiele
+1966,1966,ile;ultime;ali,F ile SM ultime DI ali,Files;multimediali,Files multimediali
+1967,1967,cala;manti,S cala manti C H E,Scalam;antiche,Scalam antiche
+1968,1968,ontano;mente;ari,PL ontano R A mente ari D A,Plont;anoramente;arida,Plont anoramente arida
+1969,1969,unica;Ionii;ultime;ali,COM unica Z Ionii M ultime DI ali,Comunicazioni;immediate,Comunicazioni immediate
+1970,1970,acca;tondi;di,acca tondi G I A di B I S,Accat;ondigi;a;dì,Accat ondigi a'dì
+1971,1971,re;icona;zie,P re S icona TI zie,Presicona;tizie,Presicona tizie
+1972,1972,triste;ali,COR triste N ali,Corti;stenali,Corti stenali
+1973,1973,maya;cefali;nari,maya cefali nari,Mayacefa;linari,Mayacefa linari
+1974,1974,colo;ali;viola,colo SS ali viola FF,Colossali;viola,Colossali viola
+1975,1975,Diana;menti,F Diana P RI menti,Fid;Ian;aprimenti,Fid Ian aprimenti
+1976,1976,assi;orsi,G R assi S C orsi,Grass;corsi,Grass corsi
+1977,1977,Ivo;dive;mento,SF Ivo dive RT I mento,Sfivodì;divertimento,Sfivodì divertimento
+1978,1978,leva;remo;iris,leva D remo ND iris E,Le;vaderemoni;risate,Le vaderemoni risate
+1979,1979,verro;mantidi,A verro mantidi C,Aver;rom;antic,Aver rom antic
+1980,1980,ginestra;vite,AR ginestra C vite,Argine;stracvite,Argine stracvite
+1981,1981,teda;corsetto,teda TO DIS corsetto,Tedato;discorsetto,Tedato discorsetto
+1982,1982,assisa;torri,GR assisa torri,Grassi;satorrì,Grassi satorrì
+1983,1983,edera;menta,F edera FF menta,Fede;raffermata,Fede raffermata
+1984,1984,bandi;arco;are,B bandi arco G L I are,Bband;iar;cog;li;areggia,Bband iar cog li are
+1985,1985,accetta;api;aperto,SF accetta T api E T aperto,Sfaccettata;pietà;perto,Sfaccettata pietà perto
+1986,1986,su;rocca,MU su rocca ICI,Musorocci;cai,Musorocci cai
+1987,1987,iris;tana;tori,P iris tana L I tori,Pirista;nalistori,Pirista nalistori
+1988,1988,pitt;scopa;tema;sale;in,pitt O RE scopa E tema sale NT in O,Pittoresco;paesaggio;temalesanto,Pittoresco paesaggio temalesanto
+1989,1989,libro;dotto,CA libro RI dotto,Calibro;ridotto,Calibro ridotto
+1990,1990,zio;Sam;siciliana,SPA zio Sam AN siciliana,Spaziosa;manciiliana,Spaziosa manciiliana
+1991,1991,commessa;Era;re,S commessa LL Era re,Scome;ssalere,Scome ssalere
+1992,1992,more;Al;lago;Como;per;abile,T U more Al lago Como per abile,Tumore;alla;goco;moperabile,Tumore alla goco moperabile
+1993,1993,tosa;bilia,GU S tosa BI bilia,Gustosa;biliaria,Gustosa biliaria
+1994,1994,con;ultime;di,con S ultime di CI,Consulti;medici,Consulti medici
+1995,1995,letto;Eros,BAL letto SF Eros,Balletto;sferoso,Balletto sferoso
+1996,1996,teso;Miami,teso R O Miami,Tesoro;ma;noi,"Tesoro, ma noi?"
+1997,1997,ami;ciac;unte;losco;Ero,L ami C ciac unte S OR losco EV Ero,L;amici;acun;te;sorlo;sc;o;vero,L'amici acun te sorlo scovo
+1998,1998,fa;scheggia,SO fa scheggia,Sosa;Fascheggia,Sosa Fascheggia
+1999,1999,Diana;occhi,D O Diana N T occhi,Dodià;nantocchi,Dodià nantocchi

@@ -1,7 +1,13 @@
+# Project specific
+outputs/*.csv
+!outputs/test_gold_id_ood.csv
+outputs/word_frequencies_paisa.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
