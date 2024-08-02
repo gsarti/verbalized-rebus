@@ -9,17 +9,25 @@
 
 > **Abstract:** Rebuses are puzzles requiring constrained multi-step reasoning to identify a hidden phrase from a set of images and letters. In this work, we introduce a large collection of verbalized rebuses for the Italian language and use it to assess the rebus-solving capabilities of state-of-the-art large language models. While general-purpose systems such as LLaMA-3 and GPT-4o perform poorly on this task, ad-hoc fine-tuning seems to improve models' performance. However, we find that performance gains from training are largely motivated by memorization. Our results suggest that rebus solving remains a challenging test bed to evaluate large language models' linguistic proficiency and sequential instruction-following skills.
 
-This repository contains scripts and notebooks associated with the paper ["Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses"](TBD). If you use any of the following contents for your work, we kindly ask you to cite our paper:
+This repository contains scripts and notebooks associated with the paper ["Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses"](https://arxiv.org/abs/2408.00584). If you use any of the following contents for your work, we kindly ask you to cite our paper:
 
 ```bibtex
-TBD
+@article{sarti-etal-2024-rebus,
+    title = "Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses",
+    author = "Sarti, Gabriele and Caselli, Tommaso and Nissim, Malvina and Bisazza, Arianna",
+    journal = "ArXiv",
+    month = jul,
+    year = "2024",
+    volume = {abs/2408.00584},
+    url = {https://arxiv.org/abs/2408.00584},
+}
 ```
 
-All models and data used in this work are available in our [🤗 Hub Collection](TBD).
+All models and data used in this work are available in our [🤗 Hub Collection](https://huggingface.co/collections/gsarti/verbalized-rebus-clic-it-2024-66ab8f11cb04e68bdf4fb028).
 
 ## Try it yourself! 🧩
 
-We provide a simple online demo to test the rebus-solving capabilities of our model. You can access it [here](TBD).
+We provide a simple online demo to test the rebus-solving capabilities of our model. You can access it [here](https://huggingface.co/spaces/gsarti/verbalized-rebus-solver).
 
 ## Installation
 
