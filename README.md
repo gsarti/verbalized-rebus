@@ -41,6 +41,20 @@ pip install -r requirements.txt
 
 To run [training and inference notebooks](./notebooks) you will need a machine with access to a GPU (required by [Unsloth](https://github.com/unslothai/unsloth)). The environment setup is performed in the first cell of the training notebooks.
 
+## Model performances
+
+| Model | Setup | Crossword Definitions | First Pass EM | Solution EM |
+|---|---|---|---|---|
+| LLaMA-3 70B | 5-shot prompt | 0.22 | 0.04 | 0.00 |
+| Qwen-2 72B | 5-shot prompt | 0.28 | 0.04 | 0.00 |
+| GPT-4o | 5-shot prompt | 0.55 | 0.15 | 0.11 |
+| Claude-3.5 Sonnet | 5-shot prompt | 0.66 | 0.28 | 0.24 |
+| Gemma-2 2B (ours) | fine-tuned | 0.78 | 0.43 | 0.36 |
+| Phi-3 3.8B (ours) | fine-tuned | 0.84** | 0.56 | 0.51 |
+| LLaMA-3.1 8B (ours) | fine-tuned | **0.85** | **0.59** | **0.56** |
+
+Fine-grained verbalized rebus solving performances of various LLMs. **Bold** denotes best overall performances. See the paper for more details.
+
 ## Reproducing the paper results
 
 ### Data preprocessing
