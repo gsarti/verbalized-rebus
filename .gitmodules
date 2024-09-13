@@ -1,6 +1,9 @@
 [submodule "eureka-rebus"]
 	path = eureka-rebus
 	url = https://huggingface.co/datasets/gsarti/eureka-rebus
+[submodule "eureka-rebus-calamita-2024"]
+	path = eureka-rebus-calamita-2024
+	url = https://huggingface.co/datasets/gsarti/eureka-rebus-calamita-2024
 [submodule "verbalized-rebus-solver"]
 	path = verbalized-rebus-solver
 	url = https://huggingface.co/spaces/gsarti/verbalized-rebus-solver
