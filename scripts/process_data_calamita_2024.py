@@ -22,7 +22,6 @@ from datasets import load_dataset
 DATA_FOLDER = "eureka-rebus-calamita-2024"
 REBUS_DATA_PATH = "eureka-rebus/rebus.csv"
 CROSSWORD_DATASET_NAME = "Kamyar-zeinalipour/ITA_CW"
-FILTERED_REBUS_OUTPUT_PATH = "rebus_calamita_2024_filtered.csv"
 NUM_TEST_EXAMPLES = 1000
 
 def get_words_letters_from_first_pass(first_pass: str) -> tuple[str, str]:
@@ -200,7 +199,6 @@ def filter_df_calamita(df: pd.DataFrame):
 
 def process_rebus_data():
     rebus_data_path = Path(REBUS_DATA_PATH)
-    filtered_rebus_output_path = Path(DATA_FOLDER) / FILTERED_REBUS_OUTPUT_PATH
     train_output_path = Path(DATA_FOLDER) / "train.csv"
     test_output_path = Path(DATA_FOLDER) / "test.csv"
 
