@@ -21,8 +21,9 @@ from datasets import load_dataset
 
 DATA_FOLDER = "eureka-rebus-calamita-2024"
 REBUS_DATA_PATH = "eureka-rebus/rebus.csv"
+OOD_WORDS_PATH = "eureka-rebus/ood_words.txt"
 CROSSWORD_DATASET_NAME = "Kamyar-zeinalipour/ITA_CW"
-NUM_TEST_EXAMPLES = 1000
+NUM_TEST_EXAMPLES = 2000
 
 def get_words_letters_from_first_pass(first_pass: str) -> tuple[str, str]:
     curr_words = []
@@ -71,64 +72,22 @@ def build_verbalized_rebus(first_pass: str, words: list[str], matches: dict[str,
     return verbalized, verbalized_with_len
 
 
-def create_test_sets(df, min_freq_word, max_freq_word, num_examples, save_ood_words_path: str = None):
-    # Get all unique words from the dataset
-    df = df.dropna(subset=['WORDS'])
-    word_list = ' '.join([x for x in df['WORDS'] if isinstance(x, str)]).split()
-    word_counts = Counter(word_list)
+def create_test_sets(df):
+    # Load out-of-distribution words
+    with open(OOD_WORDS_PATH, "r") as f:
+        ood_words = f.read().splitlines()
+    
+    # Select the dataset subset containing OOD words
+    ood_df = df[df["WORDS"].apply(lambda x: any(w in ood_words for w in x.split()))]
+    in_domain_df = df[~df["WORDS"].apply(lambda x: any(w in ood_words for w in x.split()))]
+    print(f"Found {len(in_domain_df)} in-domain rebuses and {len(ood_df)} OOD rebuses for words in {OOD_WORDS_PATH}.")
 
-    # Shuffle the dataframe
-    df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+    # Split the in-domain dataset into train and test sets
+    id_test_df = in_domain_df.sample(n=NUM_TEST_EXAMPLES, random_state=42)
+    id_train_df = in_domain_df.drop(id_test_df.index)
+    od_test_df = ood_df[:NUM_TEST_EXAMPLES]
 
-    # Assumes all words are in different rows
-    ood_count_estimate = 0
-    ood_words = []
-
-    train_idx = []
-    in_domain_test_idx = []
-    ood_test_idx = []
-
-    for idx, row in df.iterrows():
-        words = set(row['WORDS'].split())
-        if ood_count_estimate < num_examples or any(word in ood_words for word in words):
-            for word in words:
-                if word_counts[word] < min_freq_word or word_counts[word] > max_freq_word:
-                    continue
-                if word not in ood_words and ood_count_estimate < num_examples:
-                    ood_words.append(word)
-                    ood_count_estimate += word_counts[word]
-                    
-    for idx, row in df.iterrows():    
-        words = set(row['WORDS'].split())
-        if any(word in ood_words for word in words):
-            ood_test_idx.append(idx)
-        elif len(in_domain_test_idx) < num_examples:
-            in_domain_test_idx.append(idx)
-        else:
-            train_idx.append(idx)
-
-    # Create dataframes
-    train_df = df.iloc[train_idx]
-    in_domain_test_df = df.iloc[in_domain_test_idx]
-    ood_test_df = df.iloc[ood_test_idx]
-
-    ood_words_loc = []
-    for idx, row in ood_test_df.iterrows():
-        words = set(row['WORDS'].split())
-        curr_locs = []
-        for widx, word in enumerate(words):
-            if word in ood_words:
-                curr_locs.append(str(widx))
-        ood_words_loc.append(" ".join(curr_locs))
-    ood_test_df['OOD_WORDS_LOC'] = ood_words_loc
-
-    if save_ood_words_path is not None:
-        with open(save_ood_words_path, 'w') as f:
-            for word in sorted(ood_words):
-                f.write(word + "\n")
-        print(f"Out-of-domain words saved to {save_ood_words_path}.")
-
-    return train_df, in_domain_test_df, ood_test_df
+    return id_train_df, id_test_df, od_test_df
 
 
 def get_definitions(rebus):
@@ -273,12 +232,7 @@ def process_rebus_data():
 
     filtered_df["VERBALIZED_PRIMALET"] = verbalized_rebus
     filtered_df["VERBALIZED_PRIMALET_WITH_LEN"] = verbalized_rebus_with_len
-    train_df, in_domain_test_df, ood_test_df = create_test_sets(
-        filtered_df,
-        min_freq_word=10,
-        max_freq_word=15,
-        num_examples=NUM_TEST_EXAMPLES,
-    )
+    train_df, in_domain_test_df, ood_test_df = create_test_sets(filtered_df)
     test_df = pd.concat([in_domain_test_df, ood_test_df])
 
     # Added filtering to keep only evaluation fields
