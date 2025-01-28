@@ -41,7 +41,7 @@ This repository contains scripts and notebooks associated with the paper ["Non V
 
 All models and data used in this work are available in our [🤗 Hub Collection](https://huggingface.co/collections/gsarti/verbalized-rebus-clic-it-2024-66ab8f11cb04e68bdf4fb028).
 
-**New (December 2024):** Data for the [EurekaRebus] CALAMITA Challenge were released on the [Hugging Face Hub](https://huggingface.co/datasets/gsarti/eureka-rebus-calamita-2024)
+**New (December 2024):** Data for the [EurekaRebus](https://ceur-ws.org/Vol-3878/132_calamita_long.pdf) CALAMITA Challenge were released on the [Hugging Face Hub](https://huggingface.co/datasets/gsarti/eureka-rebus-calamita-2024)
 
 ## Try it yourself! 🧩
 
