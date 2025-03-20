@@ -12,30 +12,44 @@
 This repository contains scripts and notebooks associated with the paper ["Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses"](https://arxiv.org/abs/2408.00584). If you use any of the following contents for your work, we kindly ask you to cite our paper:
 
 ```bibtex
-@inproceedings{sarti-etal-2024-verbis,
-    author = "Sarti, Gabriele and Caselli, Tommaso and Nissim, Malvina and Bisazza, Arianna",
-    title = "Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses",
-    editor = "Dell'Orletta, Felice and Lenci, Alessandro and Montemagni, Simonetta and Sprugnoli, Rachele",
-    booktitle = "Proceedings of the 10th Italian Conference on Computational Linguistics",
-    series = "CEUR Workshop Proceedings",
-    publisher = "CEUR-WS.org",
+@inproceedings{sarti-etal-2024-non,
+    title = "Non Verbis, Sed Rebus: Large Language Models Are Weak Solvers of {I}talian Rebuses",
+    author = "Sarti, Gabriele  and
+      Caselli, Tommaso  and
+      Nissim, Malvina  and
+      Bisazza, Arianna",
+    editor = "Dell'Orletta, Felice  and
+      Lenci, Alessandro  and
+      Montemagni, Simonetta  and
+      Sprugnoli, Rachele",
+    booktitle = "Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)",
+    month = dec,
     year = "2024",
-    url = "https://ceur-ws.org/Vol-3878/96_main_long.pdf",
     address = "Pisa, Italy",
-    month = dec
+    publisher = "CEUR Workshop Proceedings",
+    url = "https://aclanthology.org/2024.clicit-1.96/",
+    pages = "888--897",
+    ISBN = "979-12-210-7060-6",
 }
 
 @inproceedings{sarti-etal-2024-eurekarebus,
-    author = "Sarti, Gabriele and Caselli, Tommaso and Bisazza, Arianna and Nissim, Malvina",
-    title = "EurekaRebus - Verbalized Rebus Solving with LLMs: A CALAMITA Challenge",
-    editor = "Dell'Orletta, Felice and Lenci, Alessandro and Montemagni, Simonetta and Sprugnoli, Rachele",
-    booktitle = "Proceedings of the 10th Italian Conference on Computational Linguistics: CALAMITA Challenge",
-    series = "CEUR Workshop Proceedings",
-    publisher = "CEUR-WS.org",
+    title = "{E}ureka{R}ebus - Verbalized Rebus Solving with {LLM}s: A {CALAMITA} Challenge",
+    author = "Sarti, Gabriele  and
+      Caselli, Tommaso  and
+      Bisazza, Arianna  and
+      Nissim, Malvina",
+    editor = "Dell'Orletta, Felice  and
+      Lenci, Alessandro  and
+      Montemagni, Simonetta  and
+      Sprugnoli, Rachele",
+    booktitle = "Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)",
+    month = dec,
     year = "2024",
-    url = "https://ceur-ws.org/Vol-3878/132_calamita_long.pdf",
     address = "Pisa, Italy",
-    month = dec
+    publisher = "CEUR Workshop Proceedings",
+    url = "https://aclanthology.org/2024.clicit-1.132/",
+    pages = "1202--1208",
+    ISBN = "979-12-210-7060-6",
 }
 ```
 
