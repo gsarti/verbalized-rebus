@@ -88,17 +88,23 @@ def compute_scores(args: argparse.Namespace):
     assert len(fp_words_gold) == len(fp_words_pred)
     accuracies = [int(g.lower() == p.lower()) for g, p in zip(fp_words_gold, fp_words_pred)]
 
-    print("Word Guess Accuracy:" , sum(accuracies) / len(accuracies))
+    print("Word Guess Accuracy:" , round(sum(accuracies) / len(accuracies), 2))
+    print("Word Guess Length:" , round(sum([int(len(g) == len(p)) for g, p in zip(fp_words_gold, fp_words_pred)]) / len(accuracies), 2))
 
     tot_fp_accuracy = 0
     fp_letter_accuracy = []
     fp_word_accuracy = []
+    fp_word_length = []
     fp_id_word_accuracy = []
     fp_ood_word_accuracy = []
     for i, row in df_gold.iterrows():
         fpg = row["first_pass"]
         fpp = df_pred.loc[i, "first_pass"]
-        tot_fp_accuracy += int(fpg.lower() == fpp.lower()) if isinstance(fpp, str) else 0
+        try:
+            tot_fp_accuracy += int(fpg.lower() == fpp.lower()) if isinstance(fpp, str) else 0
+        except AttributeError:
+            print("Error:", fpg, fpp)
+            continue
         fpg_toks = fpg.split() if isinstance(fpg, str) else []
         fpp_toks = fpp.split() if isinstance(fpp, str) else []
         # Check if the number of tokens is the same, pad if not
@@ -110,16 +116,18 @@ def compute_scores(args: argparse.Namespace):
             else:
                 val = int(tok.lower() == fpp_toks[idx].lower())
                 fp_word_accuracy.append(val)
+                fp_word_length.append(int(len(tok) == len(fpp_toks[idx])))
                 if tok.lower() in word_frequencies_fp_train:
                     fp_id_word_accuracy.append(val)
                 else:
                     fp_ood_word_accuracy.append(val) 
 
-    print("First Pass Exact Match::", tot_fp_accuracy / len(df_gold))
-    print("First Pass Letter Accuracy:", sum(fp_letter_accuracy) / len(fp_letter_accuracy))
-    print("First Pass Word Accuracy:", sum(fp_word_accuracy) / len(fp_word_accuracy))
-    print("First Pass ID Word Accuracy:", sum(fp_id_word_accuracy) / len(fp_id_word_accuracy) if len(fp_id_word_accuracy) > 0 else "N/A")
-    print("First Pass OOD Word Accuracy:", sum(fp_ood_word_accuracy) / len(fp_ood_word_accuracy) if len(fp_ood_word_accuracy) > 0 else "N/A")
+    print("First Pass Word Accuracy:", round(sum(fp_word_accuracy) / len(fp_word_accuracy),2))
+    print("First Pass Word Length:", round(sum(fp_word_length) / len(fp_word_length),2))
+    print("First Pass Letter Accuracy:", round(sum(fp_letter_accuracy) / len(fp_letter_accuracy),2))
+    print("First Pass Exact Match::", round(tot_fp_accuracy / len(df_gold), 2))
+    print("First Pass ID Word Accuracy:", round(sum(fp_id_word_accuracy) / len(fp_id_word_accuracy),2) if len(fp_id_word_accuracy) > 0 else "N/A")
+    print("First Pass OOD Word Accuracy:", round(sum(fp_ood_word_accuracy) / len(fp_ood_word_accuracy),2) if len(fp_ood_word_accuracy) > 0 else "N/A")
 
     solution_words_gold = list(x.split(";") for x in df_gold["solution_words"])
     solution_words_pred = list(x.split(";") if isinstance(x, str) else ["" for _ in range(len(solution_words_gold[i]))] for i, x in enumerate(df_pred["solution_words"]))
@@ -145,12 +153,12 @@ def compute_scores(args: argparse.Namespace):
             solution_ood_word_acc.append(match)
 
     cer_solution_fp = get_cer(df_pred["first_pass"], df_pred["solution"])
-    print("Solution Word Accuracy:" , sum(solution_word_acc) / len(solution_word_acc))
-    print("Solution Word Lengths:" , sum(solution_word_len) / len(solution_word_len))
-    print("Solution First Pass Match:", 1 - cer_solution_fp)
-    print("Solution ID Word Accuracy:" , sum(solution_id_word_acc) / len(solution_id_word_acc) if len(solution_id_word_acc) > 0 else "N/A")
-    print("Solution OOD Word Accuracy:" , sum(solution_ood_word_acc) / len(solution_ood_word_acc) if len(solution_ood_word_acc) > 0 else "N/A")
-    print("Solution Exact Match:" , sum([int(g.lower() == p.lower()) if isinstance(p, str) else 0 for g, p in zip(df_gold["solution"], df_pred["solution"])]) / len(df_gold))
+    print("Solution Word Accuracy:" , round(sum(solution_word_acc) / len(solution_word_acc),2))
+    print("Solution Word Lengths:" , round(sum(solution_word_len) / len(solution_word_len),2))
+    print("Solution First Pass Match:", round(1 - cer_solution_fp))
+    print("Solution ID Word Accuracy:" , round(sum(solution_id_word_acc) / len(solution_id_word_acc),2) if len(solution_id_word_acc) > 0 else "N/A")
+    print("Solution OOD Word Accuracy:" , round(sum(solution_ood_word_acc) / len(solution_ood_word_acc),2) if len(solution_ood_word_acc) > 0 else "N/A")
+    print("Solution Exact Match:" , round(sum([int(g.lower() == p.lower()) if isinstance(p, str) else 0 for g, p in zip(df_gold["solution"], df_pred["solution"])]) / len(df_gold), 2))
 
     if args.do_corrs:
         word_frequencies = json.load(open(args.word_frequencies))
