@@ -33,7 +33,7 @@ def get_words_letters_from_first_pass(first_pass: str) -> tuple[str, str]:
             if isinstance(seg, str):
                 for w in seg.strip().split():
                     # Possibly revise this condition to account for words like "D'Annunzio"
-                    if isinstance(w, str) and (w.islower() or (len(w) > 1 and (w.istitle() or w[0].islower() and w[-1].isupper()))):
+                    if isinstance(w, str) and (w.islower() or (len(w) > 1 and (w.istitle() or (w[0].islower() and w[-1].isupper())))):
                         curr_words.append(w)
                     elif isinstance(w, str) and w.isupper():
                         for l in w:
@@ -57,18 +57,23 @@ def build_verbalized_rebus(first_pass: str, words: list[str], matches: dict[str,
     # Randomly sample a clue for each word among available clues
     replacements = [sample(matches[word.lower()], 1)[0] for word in words]
 
+    # Sort by length (longest first) to avoid substring collision during replacement
+    indexed_words = sorted(enumerate(words), key=lambda x: len(x[1]), reverse=True)
+
     # Done to avoid accidentally replacing words from previous replacements
-    for idx, word in enumerate(words):
+    for idx, word in indexed_words:
         first_pass = first_pass.replace(word, f"[{idx}]")
-    
-    # Replace words with their respective replacements
+
+    # Replace placeholders with their respective clues
     verbalized = first_pass
     verbalized_with_len = first_pass
     for idx, (word, replacement) in enumerate(zip(words, replacements)):
         verbalized = verbalized.replace(f"[{idx}]", f"[{replacement}]")
-        verbalized = re.sub(' +', ' ', verbalized.replace("-", ""))
         verbalized_with_len = verbalized_with_len.replace(f"[{idx}]", f"[{replacement} ({len(word)})]")
-        verbalized_with_len = re.sub(' +', ' ', verbalized_with_len.replace("-", ""))
+
+    # Clean up hyphens and extra spaces once after all replacements
+    verbalized = re.sub(' +', ' ', verbalized.replace("-", ""))
+    verbalized_with_len = re.sub(' +', ' ', verbalized_with_len.replace("-", ""))
     return verbalized, verbalized_with_len
 
 
@@ -142,7 +147,7 @@ def get_firstpass(firstpass):
 
 
 def get_word_by_word_solution(key, solution):
-    return "\n".join(f"{length} = {word}" if length.isnumeric() else f"{word} = {word}" for length, word in zip(key.split(), solution.split()))
+    return "\n".join(f"{length} = {word}" if length.isdigit() else f"{word} = {word}" for length, word in zip(key.split(), solution.split()))
 
 
 def filter_df_calamita(df: pd.DataFrame):
@@ -214,7 +219,8 @@ def process_rebus_data():
     # 3. Consider only rebus for which all words are matched
     filtered_df = df[
         (~df["PRIMALET"].isna()) &
-        (len(df["WORDS"].str.split()) >= 2) &
+        (~df["WORDS"].isna()) &
+        (df["WORDS"].str.split().str.len() >= 2) &
         (df["TIPO"].isna()) &
         (df["WORDS"].apply(lambda x: all(w.lower() in matches for w in x.split())))
     ]
@@ -230,6 +236,7 @@ def process_rebus_data():
         verbalized_rebus.append(curr_verbalized_rebus)
         verbalized_rebus_with_len.append(curr_verbalized_rebus_with_len)
 
+    filtered_df = filtered_df.copy()
     filtered_df["VERBALIZED_PRIMALET"] = verbalized_rebus
     filtered_df["VERBALIZED_PRIMALET_WITH_LEN"] = verbalized_rebus_with_len
     train_df, in_domain_test_df, ood_test_df = create_test_sets(filtered_df)

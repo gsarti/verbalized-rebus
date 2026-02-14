@@ -2,7 +2,7 @@
 # python scripts/process_data.py \
 #   --data_folder "eureka-rebus" \
 #   --rebus_data_path "rebus.csv" \
-#   --crossword_dataset_name "Kamyar-zeinalipour/ITA_CW" \
+#   --crossword_dataset_name "cruciverb-it/evalita2026" \
 #   --print_stats \
 #   --infer_punctuation \
 #   --generate_filtered_rebuses \
@@ -10,8 +10,8 @@
 #   --create_train_test_sets \
 #   --save_word_frequencies_train \
 #   --num_test_examples 1000 \
-#   --word_frequencies_first_pass_output_path "word_frequencies_fp_train.csv" \
-#   --word_frequencies_solution_output_path "word_frequencies_solution_train.csv" \
+#   --word_frequencies_first_pass_output_path "word_frequencies_fp_train.json" \
+#   --word_frequencies_solution_output_path "word_frequencies_solution_train.json" \
 #   --save_sharegpt_files
 
 import argparse
@@ -50,7 +50,7 @@ def get_words_letters_from_first_pass(first_pass: str) -> tuple[str, str]:
             if isinstance(seg, str):
                 for w in seg.strip().split():
                     # Possibly revise this condition to account for words like "D'Annunzio"
-                    if isinstance(w, str) and (w.islower() or (len(w) > 1 and (w.istitle() or w[0].islower() and w[-1].isupper()))):
+                    if isinstance(w, str) and (w.islower() or (len(w) > 1 and (w.istitle() or (w[0].islower() and w[-1].isupper())))):
                         curr_words.append(w)
                     elif isinstance(w, str) and w.isupper():
                         for l in w:
@@ -74,9 +74,9 @@ def get_stats(df):
     print("# examples", len(df))
     print("# authors", len([x for x in df["AUTORE"].unique() if x != "-" and x is not None]))
     print("Year range", df["ANNO"].min(), df["ANNO"].max())
-    fp_word_list = ' '.join([x for x in df['WORDS'] if isinstance(x, str)]).split()
+    fp_word_list = ' '.join([x for x in df['WORDS_PRIMALET'] if isinstance(x, str)]).split()
     fp_word_counts = Counter(fp_word_list)
-    fp_word_lengths = [len(x.split()) for x in df['WORDS'] if isinstance(x, str)]
+    fp_word_lengths = [len(x.split()) for x in df['WORDS_PRIMALET'] if isinstance(x, str)]
     print("Unique FP words", len(fp_word_counts))
     print("Avg. FP num words", sum(fp_word_lengths) / len(df))
     print("SD FP num words", np.std(fp_word_lengths))
@@ -103,25 +103,30 @@ def build_verbalized_rebus(first_pass: str, words: list[str], matches: dict[str,
     # Randomly sample a clue for each word among available clues
     replacements = [sample(matches[word.lower()], 1)[0] for word in words]
 
+    # Sort by length (longest first) to avoid substring collision during replacement
+    indexed_words = sorted(enumerate(words), key=lambda x: len(x[1]), reverse=True)
+
     # Done to avoid accidentally replacing words from previous replacements
-    for idx, word in enumerate(words):
+    for idx, word in indexed_words:
         first_pass = first_pass.replace(word, f"[{idx}]")
-    
-    # Replace words with their respective replacements
+
+    # Replace placeholders with their respective clues
     verbalized = first_pass
     verbalized_with_len = first_pass
     for idx, (word, replacement) in enumerate(zip(words, replacements)):
         verbalized = verbalized.replace(f"[{idx}]", f"[{replacement}]")
-        verbalized = re.sub(' +', ' ', verbalized.replace("-", ""))
         verbalized_with_len = verbalized_with_len.replace(f"[{idx}]", f"[{replacement} ({len(word)})]")
-        verbalized_with_len = re.sub(' +', ' ', verbalized_with_len.replace("-", ""))
+
+    # Clean up hyphens and extra spaces once after all replacements
+    verbalized = re.sub(' +', ' ', verbalized.replace("-", ""))
+    verbalized_with_len = re.sub(' +', ' ', verbalized_with_len.replace("-", ""))
     return verbalized, verbalized_with_len
 
 
 def create_test_sets(df, min_freq_word, max_freq_word, num_examples, save_ood_words_path: str = None):
     # Get all unique words from the dataset
-    df = df.dropna(subset=['WORDS'])
-    word_list = ' '.join([x for x in df['WORDS'] if isinstance(x, str)]).split()
+    df = df.dropna(subset=['WORDS_PRIMALET'])
+    word_list = ' '.join([x for x in df['WORDS_PRIMALET'] if isinstance(x, str)]).split()
     word_counts = Counter(word_list)
 
     # Shuffle the dataframe
@@ -136,7 +141,7 @@ def create_test_sets(df, min_freq_word, max_freq_word, num_examples, save_ood_wo
     ood_test_idx = []
 
     for idx, row in df.iterrows():
-        words = set(row['WORDS'].split())
+        words = set(row['WORDS_PRIMALET'].split())
         if ood_count_estimate < num_examples or any(word in ood_words for word in words):
             for word in words:
                 if word_counts[word] < min_freq_word or word_counts[word] > max_freq_word:
@@ -146,7 +151,7 @@ def create_test_sets(df, min_freq_word, max_freq_word, num_examples, save_ood_wo
                     ood_count_estimate += word_counts[word]
                     
     for idx, row in df.iterrows():    
-        words = set(row['WORDS'].split())
+        words = set(row['WORDS_PRIMALET'].split())
         if any(word in ood_words for word in words):
             ood_test_idx.append(idx)
         elif len(in_domain_test_idx) < num_examples:
@@ -155,13 +160,13 @@ def create_test_sets(df, min_freq_word, max_freq_word, num_examples, save_ood_wo
             train_idx.append(idx)
 
     # Create dataframes
-    train_df = df.iloc[train_idx]
-    in_domain_test_df = df.iloc[in_domain_test_idx]
-    ood_test_df = df.iloc[ood_test_idx]
+    train_df = df.iloc[train_idx].copy()
+    in_domain_test_df = df.iloc[in_domain_test_idx].copy()
+    ood_test_df = df.iloc[ood_test_idx].copy()
 
     ood_words_loc = []
     for idx, row in ood_test_df.iterrows():
-        words = set(row['WORDS'].split())
+        words = row['WORDS_PRIMALET'].split()
         curr_locs = []
         for widx, word in enumerate(words):
             if word in ood_words:
@@ -230,13 +235,13 @@ def get_firstpass(firstpass):
 
 
 def get_word_by_word_solution(key, solution):
-    return "\n".join(f"{length} = {word}" if length.isnumeric() else f"{word} = {word}" for length, word in zip(key.split(), solution.split()))
+    return "\n".join(f"{length} = {word}" if length.isdigit() else f"{word} = {word}" for length, word in zip(key.split(), solution.split()))
 
 
 def get_sharegpt_message(row):
     rebus = row["VERBALIZED_PRIMALET"]
-    words = row["WORDS"]
-    key = row["FRASE_LEN"]
+    words = row["WORDS_PRIMALET"]
+    key = row["DIAGRAMMA_FRASE"]
     first_pass = row["PRIMALET"]
     solution_sep = row["FRASE_SEPARATED"]
     solution = row["FRASE"]
@@ -283,8 +288,8 @@ def process_rebus_data(args: argparse.Namespace):
         curr_words, curr_letters = get_words_letters_from_first_pass(row["PRIMALET"])
         words.append(curr_words)
         letters.append(curr_letters)
-    df["WORDS"] = words
-    df["LETTERS"] = letters
+    df["WORDS_PRIMALET"] = words
+    df["LETTERS_PRIMALET"] = letters
 
     # Get all punctuation marks from a set of strings
     if args.infer_punctuation:
@@ -300,7 +305,7 @@ def process_rebus_data(args: argparse.Namespace):
         curr_solution_key, curr_solution_sep = get_solution_key_and_sep(row["FRASE"], punctuation)
         solution_keys.append(curr_solution_key)
         solution_sep.append(curr_solution_sep)
-    df["FRASE_LEN"] = solution_keys
+    df["DIAGRAMMA_FRASE"] = solution_keys
     df["FRASE_SEPARATED"] = solution_sep
 
     # Deduplicate rows
@@ -318,8 +323,8 @@ def process_rebus_data(args: argparse.Namespace):
 
         matches = {}
         for _, row in crosswords.iterrows():
-            if row["Answer"] is not None and row["Clue"] is not None:
-                answer, clue = row["Answer"].lower(), row["Clue"]
+            if row[args.crossword_answer_column] is not None and row[args.crossword_clue_column] is not None:
+                answer, clue = row[args.crossword_answer_column].lower(), row[args.crossword_clue_column]
                 if answer not in matches:
                     matches[answer] = [clue]
                 else:
@@ -331,9 +336,10 @@ def process_rebus_data(args: argparse.Namespace):
         # 3. Consider only rebus for which all words are matched
         filtered_df = df[
             (~df["PRIMALET"].isna()) &
-            (len(df["WORDS"].str.split()) >= 2) &
+            (~df["WORDS_PRIMALET"].isna()) &
+            (df["WORDS_PRIMALET"].str.split().str.len() >= 2) &
             (df["TIPO"].isna()) &
-            (df["WORDS"].apply(lambda x: all(w.lower() in matches for w in x.split())))
+            (df["WORDS_PRIMALET"].apply(lambda x: all(w.lower() in matches for w in x.split())))
         ]
         print(f"Filtered {len(filtered_df)} rebuses matching crossword definitions. Generating encrypted sequences...")
 
@@ -342,11 +348,12 @@ def process_rebus_data(args: argparse.Namespace):
         seed(42)
         for _, row in filtered_df.iterrows():
             curr_verbalized_rebus, curr_verbalized_rebus_with_len = build_verbalized_rebus(
-                row["PRIMALET"], row["WORDS"].split(), matches
+                row["PRIMALET"], row["WORDS_PRIMALET"].split(), matches
             )
             verbalized_rebus.append(curr_verbalized_rebus)
             verbalized_rebus_with_len.append(curr_verbalized_rebus_with_len)
 
+        filtered_df = filtered_df.copy()
         filtered_df["VERBALIZED_PRIMALET"] = verbalized_rebus
         filtered_df["VERBALIZED_PRIMALET_WITH_LEN"] = verbalized_rebus_with_len
         filtered_df.to_csv(args.filtered_rebus_output_path, index=False)
@@ -374,7 +381,7 @@ def process_rebus_data(args: argparse.Namespace):
         if args.save_word_frequencies_train:
             print("Saving word frequencies for train set...")
             # Split the words and count their occurrences
-            word_list_fp = ' '.join([x for x in train_df['WORDS'] if isinstance(x, str)]).split()
+            word_list_fp = ' '.join([x for x in train_df['WORDS_PRIMALET'] if isinstance(x, str)]).split()
             word_counts_fp = Counter(word_list_fp)
             word_counts_fp_df = pd.DataFrame(word_counts_fp.items(), columns=['Word', 'Count'])
             word_counts_fp_df = word_counts_fp_df.sort_values(by='Count', ascending=False).reset_index(drop=True)
@@ -419,7 +426,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_folder", type=str, default="eureka-rebus")
     parser.add_argument("--rebus_data_path", type=str, default="rebus.csv")
-    parser.add_argument("--crossword_dataset_name", type=str, default="Kamyar-zeinalipour/ITA_CW")
+    parser.add_argument("--crossword_dataset_name", type=str, default="cruciverb-it/evalita2026")
+    parser.add_argument("--crossword_answer_column", type=str, default="answer")
+    parser.add_argument("--crossword_clue_column", type=str, default="clue")
     parser.add_argument("--print_stats", action="store_true")
     parser.add_argument("--infer_punctuation", action="store_true")
     parser.add_argument("--generate_filtered_rebuses", action="store_true")
