@@ -18,6 +18,7 @@ import argparse
 import re
 import string
 import json
+import unicodedata
 
 import pandas as pd
 import numpy as np
@@ -40,6 +41,14 @@ Ora componiamo la soluzione seguendo la chiave risolutiva:
 
 Soluzione: {solution}
 """
+
+
+def normalize_keyword(word: str) -> str:
+    """Normalize a keyword by stripping accents and non-alphanumeric characters for matching."""
+    normalized = unicodedata.normalize('NFD', word)
+    normalized = ''.join(c for c in normalized if unicodedata.category(c) != 'Mn')
+    normalized = ''.join(c for c in normalized if c.isalnum())
+    return normalized.lower()
 
 
 def get_words_letters_from_first_pass(first_pass: str) -> tuple[str, str]:
@@ -101,7 +110,7 @@ def get_stats(df):
 
 def build_verbalized_rebus(first_pass: str, words: list[str], matches: dict[str, str]) -> str:
     # Randomly sample a clue for each word among available clues
-    replacements = [sample(matches[word.lower()], 1)[0] for word in words]
+    replacements = [sample(matches[normalize_keyword(word)], 1)[0] for word in words]
 
     # Sort by length (longest first) to avoid substring collision during replacement
     indexed_words = sorted(enumerate(words), key=lambda x: len(x[1]), reverse=True)
@@ -318,17 +327,35 @@ def process_rebus_data(args: argparse.Namespace):
 
     if args.generate_filtered_rebuses:
         print(f"Loading crossword dataset {args.crossword_dataset_name}...")
-        crosswords = load_dataset(args.crossword_dataset_name)["train"].to_pandas()
+        data_files = args.crossword_data_files if args.crossword_data_files else None
+        crosswords = load_dataset(args.crossword_dataset_name, data_files=data_files, split="train").to_pandas()
         print(f"Loaded {len(crosswords)} crossword clues. Matching rebuses with crossword clues...")
 
         matches = {}
         for _, row in crosswords.iterrows():
             if row[args.crossword_answer_column] is not None and row[args.crossword_clue_column] is not None:
-                answer, clue = row[args.crossword_answer_column].lower(), row[args.crossword_clue_column]
+                answer, clue = normalize_keyword(row[args.crossword_answer_column]), row[args.crossword_clue_column]
                 if answer not in matches:
                     matches[answer] = [clue]
                 else:
                     matches[answer].append(clue)
+
+        # Load extra definitions and merge into matches
+        extra_defs_path = Path(args.data_folder) / args.extra_definitions_path
+        if extra_defs_path.exists():
+            extra_defs = pd.read_csv(extra_defs_path)
+            added = 0
+            for _, row in extra_defs.iterrows():
+                keyword = normalize_keyword(str(row["keyword"]))
+                definition = str(row["definition"])
+                if keyword not in matches:
+                    matches[keyword] = [definition]
+                    added += 1
+                else:
+                    matches[keyword].append(definition)
+            print(f"Loaded {len(extra_defs)} extra definitions from {extra_defs_path} ({added} new keywords).")
+        else:
+            print(f"Extra definitions file not found at {extra_defs_path}, skipping.")
 
         # Filters:
         # 1. Consider only rebus with at least 2 words
@@ -339,7 +366,7 @@ def process_rebus_data(args: argparse.Namespace):
             (~df["WORDS_PRIMALET"].isna()) &
             (df["WORDS_PRIMALET"].str.split().str.len() >= 2) &
             (df["TIPO"].isna()) &
-            (df["WORDS_PRIMALET"].apply(lambda x: all(w.lower() in matches for w in x.split())))
+            (df["WORDS_PRIMALET"].apply(lambda x: all(normalize_keyword(w) in matches for w in x.split())))
         ]
         print(f"Filtered {len(filtered_df)} rebuses matching crossword definitions. Generating encrypted sequences...")
 
@@ -429,13 +456,15 @@ if __name__ == "__main__":
     parser.add_argument("--crossword_dataset_name", type=str, default="cruciverb-it/evalita2026")
     parser.add_argument("--crossword_answer_column", type=str, default="answer")
     parser.add_argument("--crossword_clue_column", type=str, default="clue")
+    parser.add_argument("--crossword_data_files", type=str, default="task_1/datasets/train.csv")
+    parser.add_argument("--extra_definitions_path", type=str, default="missing_keywords_extra_definitions.csv")
     parser.add_argument("--print_stats", action="store_true")
     parser.add_argument("--infer_punctuation", action="store_true")
     parser.add_argument("--generate_filtered_rebuses", action="store_true")
     parser.add_argument("--filtered_rebus_output_path", type=str, default="verbalized_rebus.csv")
     parser.add_argument("--create_train_test_sets", action="store_true")
     parser.add_argument("--save_word_frequencies_train", action="store_true")
-    parser.add_argument("--num_test_examples", type=int, default=1000)
+    parser.add_argument("--num_test_examples", type=int, default=10000)
     parser.add_argument("--ood_min_freq_word", type=int, default=10)
     parser.add_argument("--ood_max_freq_word", type=int, default=15)
     parser.add_argument("--ood_words_output_path", type=str, default="ood_words.txt")
